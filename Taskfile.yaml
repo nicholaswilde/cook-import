@@ -1,0 +1,20 @@
+---
+version: '3'
+
+vars:
+  ROOT_DIR:
+    sh: git rev-parse --show-toplevel
+  PORT: 8000
+
+tasks:
+  default:
+    desc: Lists tasks with or without a description
+    cmds:
+      - task -a
+    silent: true
+  update:
+    desc: Update vendors
+    cmds:
+      - go get -u ./...
+      - go mod vendor
+      - go mod tidy
