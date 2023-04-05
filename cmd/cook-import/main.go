@@ -38,8 +38,29 @@ Abbreviate ingredient measurements and convert fractions to decimals in ingredie
 
 Using cooklang, get the recipe instructions at the link` // https://healthyrecipesblogs.com/crustless-quiche/
 
-func getResponse(message string, c *openai.Client) (resp openai.ChatCompletionResponse, err error) {
-	return
+func getResponse(message string, key string) (string, error) {
+	// log.Infoln(message)
+	c := openai.NewClient(key)
+	ctx := context.Background() 
+	// model := openai.GPT3Dot5Turbo
+	messages := []openai.ChatCompletionMessage{
+													{
+														Role:    openai.ChatMessageRoleUser,
+														Content: message,
+													},
+												}
+	resp, err := c.CreateChatCompletion(
+									ctx,
+									openai.ChatCompletionRequest{
+											Model: openai.GPT3Dot5Turbo,
+											Messages: messages,
+									},
+							)
+	if err != nil {
+			return "", err
+	}
+	log.Infoln(resp)
+	return resp.Choices[0].Message.Content, nil
 }
 
 func cookImport(_ *cobra.Command, _ []string) {
@@ -62,9 +83,11 @@ func cookImport(_ *cobra.Command, _ []string) {
 		return
 	} 
 	client := openai.NewClient(key)
-	ctx := context.Background() 
+
+	// content, err := getResponse(defaultMessage, key)
+
+	ctx := context.Background()
 	model := openai.GPT3Dot5Turbo
-	
 	messages := []openai.ChatCompletionMessage{
 												{
 													Role:    openai.ChatMessageRoleUser,
