@@ -16,8 +16,7 @@ tasks:
     desc: Update vendors
     cmds:
       - go get -u ./...
-      - go mod vendor
-      - go mod tidy
+      - task: vendor
   deps:
     desc: Download dependencies
     cmds:
@@ -34,8 +33,27 @@ tasks:
   run:
     desc: Run go program
     cmds:
-      - go run -v ./...
+      - go run -v ./... -l {{ .LINK }}
+    vars:
+      LINK: "https://healthyrecipesblogs.com/crustless-quiche/"
+  fmt:
+    desc: Formats all code with go fmt
+    cmds:
+      - go fmt ./...
   help:
     desc: Run go program
     cmds:
       - go run -v ./... --help
+  version:
+    desc: Run the version
+    cmds:
+      - go run -v ./... --version
+  vet:
+    desc: Vet
+    cmds:
+      - cmd: go vet ./...
+        ignore_error: true
+  init:
+    desc: Init
+    cmds:
+      - cmd: go mod init
