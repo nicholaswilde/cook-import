@@ -1,0 +1,1000 @@
+index,prompt,completion,qty,range_end,unit,comment
+0,"1 1/4 cups cooked and pureed fresh butternut squash, or 1 10-ounce package frozen squash, defrosted",butternut squash,1.25,0.0,cup,"cooked and pureed fresh, or 1 10-ounce package frozen squash, defrosted"
+1,"1 cup peeled and cooked fresh chestnuts (about 20), or 1 cup canned, unsweetened chestnuts",chestnuts,1.0,0.0,cup,"peeled and cooked fresh (about 20), or 1 cup canned, unsweetened"
+2,"1 medium-size onion, peeled and chopped",onion,1.0,0.0,,"medium-size, peeled and chopped"
+3,"2 stalks celery, chopped coarse",celery,2.0,0.0,stalk,chopped coarse
+4,1 1/2 tablespoons vegetable oil,vegetable oil,1.5,0.0,tablespoon,
+5,,water,0.5,0.0,cup,
+6,"2 tablespoons unflavored gelatin, dissolved in 1/2 cup water",gelatin,2.0,0.0,tablespoon,"unflavored, dissolved in 1/2 cup water"
+7,Salt,Salt,0.0,0.0,,
+8,1 cup canned plum tomatoes with juice,plum tomatoes,1.0,0.0,cup,"canned, with juice"
+9,6 cups veal or beef stock,stock,6.0,0.0,cup,veal or beef
+10,1/3 cup Worcestershire sauce,Worcestershire sauce,0.33,0.0,cup,
+11,1 tablespoon Louisiana hot sauce,Louisiana hot sauce,1.0,0.0,tablespoon,
+12,1/2 teaspoon hot red pepper flakes,hot red pepper flakes,0.5,0.0,teaspoon,
+13,4 bay leaves,bay leaves,4.0,0.0,,
+14,"6 cloves garlic, crushed and chopped",garlic,6.0,0.0,clove,crushed and chopped
+15,"2 carrots, peeled and diced",carrots,2.0,0.0,,peeled and diced
+16,"2 medium onions, diced",onions,2.0,0.0,,"medium, diced"
+17,6 tablespoons butter,butter,6.0,0.0,tablespoon,
+18,"1 tablespoon Creole seasoning, or other seasonings of your choice",Creole seasoning,1.0,0.0,tablespoon,or other seasonings of your choice
+19,3 pounds beef brisket,beef brisket,3.0,0.0,pound,
+20,1/2 cup fine dry bread crumbs,bread crumbs,0.5,0.0,cup,fine dry
+21,Freshly ground black pepper,black pepper,0.0,0.0,,Freshly ground
+22,12 oysters and their liquor,oysters and their liquor,12.0,0.0,,
+23,3 tablespoons minced scallions,scallions,3.0,0.0,tablespoon,minced
+24,1 tablespoon flour,flour,1.0,0.0,tablespoon,
+25,"6 ounces button mushrooms, thinly sliced then coarsely chopped",button mushrooms,6.0,0.0,ounce,thinly sliced then coarsely chopped
+26,13 tablespoons butter,butter,13.0,0.0,tablespoon,
+27,"4 large artichokes, trimmed",artichokes,4.0,0.0,,"large, trimmed"
+28,Juice of 1 lemon,lemon,1.0,0.0,,Juice of
+29,Salt,Salt,0.0,0.0,,
+30,Confectioners' sugar,Confectioners' sugar,0.0,0.0,,
+31,1/4 teaspoon vanilla extract,vanilla extract,0.25,0.0,teaspoon,
+32,2 large eggs,eggs,2.0,0.0,,large
+33,Pinch of freshly grated nutmeg,nutmeg,1.0,0.0,pinch,freshly grated
+34,2 teaspoons baking powder,baking powder,2.0,0.0,teaspoon,
+35,1/4 teaspoon salt,salt,0.25,0.0,teaspoon,
+36,1/4 cup sugar,sugar,0.25,0.0,cup,
+37,6 tablespoons flour,flour,6.0,0.0,tablespoon,
+38,2 cups cooked medium- or long-grain white rice,white rice,2.0,0.0,cup,cooked medium- or long-grain
+39,"Vegetable oil, for deep-frying",Vegetable oil,0.0,0.0,,for deep-frying
+40,pound elbow macaroni,elbow macaroni,0.0,0.0,pound,
+41,Freshly ground black pepper,black pepper,0.0,0.0,,Freshly ground
+42,2 teaspoons Dijon mustard,Dijon mustard,2.0,0.0,teaspoon,
+43,cup heavy cream,heavy cream,0.0,0.0,cup,
+44,2 cups whole milk,milk,2.0,0.0,cup,whole
+45,1/2 teaspoon hot red pepper flakes,hot red pepper flakes,0.5,0.0,teaspoon,
+46,3 tablespoons flour,flour,3.0,0.0,tablespoon,
+47,5 cups coarsely grated extra-sharp Cheddar,Cheddar,5.0,0.0,cup,coarsely grated extra-sharp
+48,2 cups panko or coarse dry bread crumbs,bread crumbs,2.0,0.0,cup,panko or coarse dry
+49,5 tablespoons unsalted butter,unsalted butter,5.0,0.0,tablespoon,
+50,Salt,Salt,0.0,0.0,,
+51,Sprigs of watercress,watercress,3.0,0.0,sprig,
+52,"3/4 pound shiitake mushrooms, stemmed and quartered",shiitake mushrooms,0.75,0.0,tablespoon,stemmed and quartered
+53,2 tablespoons extra-virgin olive oil,olive oil,2.0,0.0,tablespoon,extra-virgin
+54,Kosher salt and black pepper,salt and black pepper,1.0,0.0,pinch,Kosher
+55,"1 2-pound beef tenderloin roast, cut from the large end, trimmed and tied at 1/2 -inch intervals with kitchen twine",beef tenderloin,2.0,0.0,pound,"1 2-pound roast, cut from the large end, trimmed and tied at 1/2-inch intervals with kitchen twine"
+56,1/8 teaspoon ground cinnamon,cinnamon,0.13,0.0,teaspoon,ground
+57,1 tablespoon cocoa powder,cocoa powder,1.0,0.0,tablespoon,
+58,"3 tablespoons medium-roast coffee beans, finely ground",coffee beans,3.0,0.0,tablespoon,"medium-roast, finely ground"
+59,1 teaspoon light-brown sugar,brown sugar,1.0,0.0,teaspoon,light
+60,Kosher salt,salt,0.0,0.0,,Kosher
+61,1/4 cup heavy cream,heavy cream,0.25,0.0,cup,
+62,2 1/2 cups chicken stock,chicken stock,2.5,0.0,cup,
+63,4 large cloves garlic,garlic,4.0,0.0,clove,
+64,1 1/2 cups chopped white onion,onion,1.5,0.0,cup,chopped white
+65,3 tablespoons unsalted butter,unsalted butter,3.0,0.0,tablespoon,
+66,1 6-inch white-corn tortilla,white-corn tortilla,1.0,0.0,,6-inch
+67,2 dried pasilla chilies,pasilla chilies,2.0,0.0,,dried
+68,1 teaspoon pomegranate molasses,pomegranate molasses,1.0,0.0,teaspoon,
+69,2 dashes of Angostura bitters,Angostura bitters,2.0,0.0,dash,
+70,1/2 ounce apple schnapps,apple schnapps,0.5,0.0,ounce,
+71,1/2 ounce sweet vermouth,sweet vermouth,0.5,0.0,ounce,
+72,2 ounces applejack,applejack,2.0,0.0,ounce,
+73,"1 orange slice 1 1/4-inch thick, cut in half",orange,1.0,0.0,slice,"1 1/4-inch thick, cut in half"
+74,1 cup sugar,sugar,1.0,0.0,cup,
+75,"12 ounces cranberries, washed and picked over",cranberries,12.0,0.0,ounce,washed and picked over
+76,"1 1/2 cups strawberries (about 1 pint), hulled and halved",strawberries,1.5,0.0,cup,"(about 1 pint), hulled and halved"
+77,3 bananas,bananas,3.0,0.0,,
+78,3 tablespoons Triple Sec,Triple Sec,3.0,0.0,tablespoon,
+79,3 tablespoons fresh lemon juice,lemon juice,3.0,0.0,tablespoon,fresh
+80,3/4 cup fresh orange juice,orange juice,0.75,0.0,cup,fresh
+81,"3 papayas (1 pound each), peeled and cut into 1-inch chunks (about 4 cups)",papayas,3.0,0.0,,"(1 pound each), peeled and cut into 1-inch chunks (about 4 cups)"
+82,"6 kiwis (3 to 4 ounces each), peeled and cut into rounds about 1/4-inch thick",kiwis,6.0,0.0,,"(3 to 4 ounce each), peeled and cut into rounds about 1/4-inch thick"
+83,"3 McIntosh apples (8 ounces each), peeled, quartered, cored and cut into thin wedges (about 3 cups)",McIntosh apples,3.0,0.0,,"(8 ounce each), peeled, quartered, cored and cut into thin wedges (about 3 cups)"
+84,"3 Anjou pears (8 ounces each), peeled, halved, cored and thinly sliced lengthwise (about 3 cups)",Anjou pears,3.0,0.0,,"(8 ounces each), peeled, halved, cored and thinly sliced lengthwise (about 3 cups)"
+85,"1 small pineapple, peeled, cored and cut into 1-inch chunks (about 3 cups)",pineapple,1.0,0.0,,"small, peeled, cored and cut into 1-inch chunks (about 3 cups)"
+86,"9 juice oranges (6 ounces each), peeled and sectioned",oranges,9.0,0.0,,"juice (6 ounces each), peeled and sectioned"
+87,"2 small pink grapefruits (12 ounces each) or 1 large pink grapefruit, peeled and sectioned",grapefruits,2.0,0.0,,"small pink (12 ounces each) or 1 large pink grapefruit, peeled and sectioned"
+88,"3 cups seedless grapes, equal amounts of red and green",grapes,3.0,0.0,cup,"seedless, equal amounts of red and green"
+89,"18 kumquats, thinly sliced",kumquats,18.0,0.0,,thinly sliced
+90,1 cup sifted granulated sugar (optional),sugar,1.0,0.0,cup,sifted granulated (optional)
+91,1 teaspoon pure vanilla extract,vanilla extract,1.0,0.0,teaspoon,pure
+92,1 1/4 cups cake flour,cake flour,1.25,0.0,cup,
+93,Pinch of kosher salt,salt,1.0,0.0,pinch,of kosher
+94,"3 egg whites, from Grade A large eggs",egg,3.0,0.0,,"whites, from Grade A large eggs"
+95,1/2 cup dark brown sugar,brown sugar,0.5,0.0,cup,dark
+96,"3/4 cup unsalted butter, at room temperature",unsalted butter,0.75,0.0,cup,at room temperature
+97,Freshly ground black pepper,black pepper,0.0,0.0,,Freshly ground
+98,5 tablespoons Pernod,Pernod,5.0,0.0,tablespoon,
+99,4 teaspoons kosher salt,salt,4.0,0.0,teaspoon,kosher
+100,1/4 cup fresh lemon juice,lemon juice,0.25,0.0,cup,fresh
+101,1 cup olive oil,olive oil,1.0,0.0,cup,
+102,1 cup fresh orange juice,orange juice,1.0,0.0,cup,fresh
+103,"3 heads fennel, tops removed and thinly sliced across the bulb (about 6 cups)",fennel,3.0,0.0,head,tops removed and thinly sliced across the bulb (about 6 cups)
+104,"2 large heads romaine lettuce, torn into small pieces (about 8 cups)",romaine lettuce,2.0,0.0,head,torn into small pieces (about 8 cups)
+105,6 bunches watercress (about 12 cups of sprigs),watercress,6.0,0.0,bunch,about 12 cups of sprigs
+106,"2 1/2 pounds bell peppers (about 6 peppers in assorted colors), cut into 2-inch chunks",bell peppers,2.5,0.0,pound,"(about 6 peppers in assorted colors), cut into 2-inch chunks"
+107,"3/4 pound mushrooms, cut into 1/4-inch slices through the stem (4 cups)",mushrooms,0.75,0.0,pound,cut into 1/4-inch slices through the stem (4 cups)
+108,4 pounds rigatoni,rigatoni,4.0,0.0,pound,
+109,2 bay leaves,bay leaves,2.0,0.0,,
+110,2 tablespoons kosher salt,salt,2.0,0.0,tablespoon,kosher
+111,"5 pounds sweet Italian sausage in casing, cut into 1-inch lengths",sausage,5.0,0.0,pound,"sweet Italian in casing, cut into 1-inch lengths"
+112,1/2 teaspoon hot red-pepper flakes,red-pepper flakes,0.5,0.0,teaspoon,hot
+113,1/4 teaspoon freshly ground black pepper,black pepper,0.25,0.0,teaspoon,freshly ground
+114,2 tablespoons kosher salt,salt,2.0,0.0,tablespoon,kosher
+115,1 teaspoon thyme,thyme,1.0,0.0,teaspoon,
+116,1 1/2 teaspoons oregano,oregano,1.5,0.0,teaspoon,
+117,2 28-ounce cans crushed tomatoes,tomatoes,56.0,0.0,ounce,2 cans crushed
+118,1/2 cup olive oil,olive oil,0.5,0.0,cup,
+119,"8 cloves garlic, peeled and smashed",garlic,8.0,0.0,clove,peeled and smashed
+120,2 cups parsley leaves,parsley leaves,2.0,0.0,cup,
+121,3/4 cup of liquid from cooked mussels,liquid from cooked mussels,0.75,0.0,cup,
+122,4 tablespoons drained and rinsed capers,capers,4.0,0.0,tablespoon,drained and rinsed
+123,1/2 teaspoon freshly ground black pepper,Freshly ground black pepper,0.5,0.0,teaspoon,
+124,1 tablespoon kosher salt,kosher salt,1.0,0.0,tablespoon,
+125,1/4 cup good quality olive oil,good quality olive oil,0.25,0.0,cup,
+126,1/2 cup fresh lemon juice,fresh lemon juice,0.5,0.0,cup,
+127,"3/4 pound white onion, quartered and thinly sliced (2 cups)",onion,0.75,0.0,pound,"white, quartered and thinly sliced (2 cups)"
+128,"8 stalks (about 1 1/2 pounds) celery, peeled and cut diagonally into 1/4-inch slices",celery,8.0,0.0,stalk,"(about 1 1/2 pounds), peeled and cut diagonally into 1/4-inch slices"
+129,4 9-ounce boxes frozen artichoke hearts,frozen artichoke hearts,4.0,0.0,box,(9-ounce boxes)
+130,1 teaspoon kosher salt,kosher salt,1.0,0.0,teaspoon,
+131,"3 1/4 pounds medium shrimp (20-24 to the pound), shelled",medium shrimp,3.25,0.0,pound,"(20-24 to the pound), shelled"
+132,"6 1/2 pounds mussels (about 6 dozen), scrubbed and beards removed",mussels,6.5,0.0,pound,"(about 6 dozen), scrubbed and beards removed"
+133,1/2 teaspoon sugar,sugar,0.5,0.0,teaspoon,
+134,1 teaspoon Asian sesame oil,Asian sesame oil,1.0,0.0,teaspoon,
+135,10 ounces brussels sprouts,brussels sprouts,10.0,0.0,ounce,
+136,2 scallions,scallions,2.0,0.0,,
+137,"8 Italian, French or Greek black olives",black olives,8.0,0.0,,"Italian, French or Greek"
+138,4 ripe plum tomatoes,plum tomatoes,4.0,0.0,,ripe
+139,1 teaspoon olive oil,olive oil,1.0,0.0,teaspoon,
+140,1 cup whole-wheat couscous,whole-wheat couscous,1.0,0.0,cup,
+141,No-salt added beef stock or broth,beef stock or broth,0.0,0.0,,No-salt added
+142,8 ounces pork tenderloin,pork tenderloin,8.0,0.0,ounce,
+143,1 clove garlic,garlic,1.0,0.0,clove,
+144,1/2 teaspoon ground ginger,ground ginger,0.5,0.0,teaspoon,
+145,1 teaspoon cumin,cumin,1.0,0.0,teaspoon,
+146,1 teaspoon ground cinnamon,cinnamon,1.0,0.0,teaspoon,ground
+147,1 teaspoon ground cloves,cloves,1.0,0.0,teaspoon,ground
+148,1 teaspoon ground ginger,ginger,1.0,0.0,teaspoon,ground
+149,2 teaspoons baking soda,baking soda,2.0,0.0,teaspoon,
+150,1 1/2 teaspoons kosher salt,salt,1.5,0.0,teaspoon,kosher
+151,2 cups all-purpose flour,all-purpose flour,2.0,0.0,cup,
+152,1 large egg,egg,1.0,0.0,,large
+153,"1 cup sugar, plus 1/4 cup for dusting the cookies",sugar,1.0,0.0,cup,plus 1/4 cup for dusting the cookies
+154,4 tablespoons dark molasses,molasses,4.0,0.0,tablespoon,dark
+155,"3/4 cup bacon fat, cooled (from 1 1/2 to 2 pounds Oscar Mayer bacon)",bacon fat,0.75,0.0,cup,cooled (from 1 1/2 to 2 pounds Oscar Mayer bacon)
+156,"Maple syrup, optional",Maple syrup,0.0,0.0,,optional
+157,1 1/4 cups chopped fresh cranberries,cranberries,1.25,0.0,cup,chopped fresh
+158,1 1/2 teaspoons salt,salt,1.5,0.0,teaspoon,
+159,2 tablespoons plus 2 teaspoons baking powder,baking powder,8.0,0.0,teaspoon,
+160,2 tablespoons sugar,sugar,2.0,0.0,tablespoon,
+161,1/2 cup yellow cornmeal,yellow cornmeal,0.5,0.0,cup,
+162,2 cups flour,flour,2.0,0.0,cup,
+163,4 large eggs,eggs,4.0,0.0,,large
+164,2 cups milk,milk,2.0,0.0,cup,
+165,Salt,Salt,0.0,0.0,,
+166,"10 tablespoons butter, cut into chunks, plus more for greasing pan",butter,10.0,0.0,tablespoon,"cut into chunks, plus more for greasing pan"
+167,1/2 tablespoon butter,butter,0.5,0.0,tablespoon,
+168,1/2 cup heavy cream,heavy cream,0.5,0.0,cup,
+169,2 tablespoons sugar,sugar,2.0,0.0,tablespoon,
+170,2 teaspoons cream cheese,cream cheese,2.0,0.0,teaspoon,
+171,2 teaspoons cornstarch,cornstarch,2.0,0.0,teaspoon,
+172,2 cups apple cider,apple cider,2.0,0.0,cup,
+173,3/4 teaspoon pumpkin-pie spice,pumpkin-pie spice,0.75,0.0,teaspoon,
+174,1/2 teaspoon salt,salt,0.5,0.0,teaspoon,
+175,1/2 cup packed light brown sugar,light brown sugar,0.5,0.0,cup,packed
+176,2 Granny Smith apples,Granny Smith apples,2.0,0.0,,
+177,2 gala apples,gala apples,2.0,0.0,,
+178,Chopped fresh parsley leaves for garnish,chopped fresh parsley leaves for garnish,0.0,0.0,,
+179,"1 lemon, thinly sliced","lemon, thinly sliced",1.0,0.0,,
+180,Flour for dredging,flour for dredging,0.0,0.0,,
+181,1 cup mixed good olives,mixed good olives,1.0,0.0,cup,
+182,"8 to 12 thin slices veal, preferably from the leg, pounded slightly until less than 1/4-inch thick","veal, preferably from the leg, pounded slightly until less than 1/4-inch thick",8.0,12.0,slice,
+183,Salt and pepper,salt and pepper,0.0,0.0,,
+184,2 cups chopped tomatoes (canned are fine; drain them first),chopped tomatoes (canned are fine; drain them first),2.0,0.0,cup,
+185,1 teaspoon minced garlic,minced garlic,1.0,0.0,teaspoon,
+186,Extra virgin olive oil as needed,extra virgin olive oil as needed,0.0,0.0,,
+187,Freshly grated Parmesan,Parmesan,0.0,0.0,,Freshly grated
+188,"1/4 cup chopped fresh basil, optional",basil,0.25,0.0,cup,"chopped fresh, optional"
+189,1/4 cup chopped fresh parsley,parsley,0.25,0.0,cup,chopped fresh
+190,"6 cups stock or water, more as necessary",stock,6.0,0.0,cup,"or water, more as necessary"
+191,2 cups chopped tomatoes (canned are fine; do not drain),tomatoes,2.0,0.0,cup,chopped (canned are fine; do not drain)
+192,"1 cup dried white beans, soaked for several hours or overnight",white beans,1.0,0.0,cup,"dried, soaked for several hours or overnight"
+193,"1 cup farro, spelt or barley",farro,1.0,0.0,cup,spelt or barley
+194,1 tablespoon minced garlic,garlic,1.0,0.0,tablespoon,minced
+195,Salt and pepper,Salt and pepper,0.0,0.0,,
+196,"2 carrots, peeled and chopped",carrots,2.0,0.0,,peeled and chopped
+197,"2 celery stalks, trimmed and chopped",celery,2.0,0.0,stalk,trimmed and chopped
+198,"1 large onion, sliced",onion,1.0,0.0,,"large, sliced"
+199,2 tablespoons extra virgin olive oil,olive oil,2.0,0.0,tablespoon,extra virgin
+200,Chopped fresh parsley leaves for garnish,parsley leaves,0.0,0.0,,Chopped fresh for garnish
+201,Black pepper,Black pepper,0.0,0.0,,
+202,1/3 cup extra virgin olive oil,olive oil,0.33,0.0,cup,extra virgin
+203,2 pounds potatoes,potatoes,2.0,0.0,pound,
+204,"1 1/2 to 2 pounds thick-cut cod, whiting, or hake fillets",cod,1.5,2.0,pound,"thick-cut, whiting, or hake fillets"
+205,Coarse salt as needed,salt,0.0,0.0,,Coarse as needed
+206,1 teaspoon vanilla extract,vanilla extract,1.0,0.0,teaspoon,
+207,"2 tablespoons unsalted butter, at room temperature and cut into 4 pieces","unsalted butter, at room temperature and cut into 4 pieces",2.0,0.0,tablespoon,
+208,"5 ounces bittersweet chocolate, melted and still warm","bittersweet chocolate, melted and still warm",5.0,0.0,ounce,
+209,2 large egg yolks,large egg yolks,2.0,0.0,,
+210,1/4 teaspoon salt,salt,0.25,0.0,teaspoon,
+211,1 large egg,large egg,1.0,0.0,,
+212,2 tablespoons cornstarch,cornstarch,2.0,0.0,tablespoon,
+213,2 tablespoons cocoa,cocoa,2.0,0.0,tablespoon,
+214,6 tablespoons sugar,sugar,6.0,0.0,tablespoon,
+215,2 1/4 cups whole milk,whole milk,2.25,0.0,cup,
+216,3 tablespoons slivered almonds,almonds,3.0,0.0,tablespoon,slivered
+217,Pinch of salt,salt,1.0,0.0,pinch,
+218,1 1/4 teaspoons vanilla extract,vanilla extract,1.25,0.0,teaspoon,
+219,7 egg whites,egg,7.0,0.0,,whites
+220,10 tablespoons confectioners' sugar,confectioners' sugar,10.0,0.0,tablespoon,
+221,2/3 cup heavy cream,heavy cream,0.67,0.0,cup,
+222,"4 1/2 tablespoons flour, preferably cake flour",flour,4.5,0.0,tablespoon,preferably cake flour
+223,"About 2/3 cup blanched almonds, finely ground",almonds,0.67,0.0,cup,"About blanched, finely ground"
+224,3/4 cup granulated sugar,sugar,0.75,0.0,cup,granulated
+225,4 egg yolks,egg,4.0,0.0,,yolks
+226,1/3 cup plus 1/4 cup kirsch or dark rum,rum,0.58,0.0,cup,kirsch or dark
+227,"2 16-ounce cans dark cherries, pitted",cherries,32.0,0.0,ounce,"2 16-ounce cans dark, pitted"
+228,2 tablespoons chopped parsley,parsley,2.0,0.0,tablespoon,chopped
+229,2 tablespoons chopped parsley,parsley,2.0,0.0,tablespoon,chopped
+230,Freshly ground black pepper,black pepper,0.0,0.0,,Freshly ground
+231,"3 large cloves garlic, smashed",garlic,3.0,0.0,clove,smashed
+232,5 tablespoons tomato paste,tomato paste,5.0,0.0,tablespoon,
+233,6 cups chicken stock,chicken stock,6.0,0.0,cup,
+234,1 cup sliced onion,onion,1.0,0.0,cup,sliced
+235,1 1/2 pounds hot Italian or Spanish sausage,sausage,1.5,0.0,pound,hot Italian or Spanish
+236,"2 ducks, about 4 1/2 pounds each",ducks,2.0,0.0,,"about, 4 1/2 pounds each"
+237,1 2 1/2-pound chunk of slab bacon,slab bacon,2.5,0.0,pound,1 2 1/2-pound chunk of
+238,"Bouquet garni of 1 sprig thyme, 2 bay leaves, parsley stalks and 3 large cloves garlic",bouquet garni,1.0,0.0,,"1 sprig thyme, 2 bay leaves, parsley + stalks and 3 large cloves garlic"
+239,"4 medium carrots, peeled and sliced",carrots,4.0,0.0,,"medium, peeled and sliced"
+240,"1 onion, peeled and stuck with 2 cloves",onion,1.0,0.0,,peeled and stuck with 2 cloves
+241,Rind from 1/2 pound salt pork,salt pork,0.5,0.0,pound,Rind from
+242,2 pounds (5 1/2 cups) dry white beans (Great Northern),beans,5.0,0.0,pound,(5 1/2 cups) dry white (Great Northern)
+243,"Pyrex cups or ramekins, buttered",Pyrex cups,0.0,0.0,,"or ramekins, buttered"
+244,"8 scallop shells, Pyrex cups or ramekins, buttered",scallop shells,8.0,0.0,,buttered
+245,"3 tablespoons fresh parsley, chopped",parsley,3.0,0.0,tablespoon,"fresh, chopped"
+246,"2/3 cup stale bread crumbs, from good bread",bread crumbs,0.67,0.0,cup,"stale, from good bread"
+247,1 stick plus 2 tablespoons butter,butter,10.0,0.0,tablespoon,
+248,"About 8 shallots, to yield 1 cup, minced",shallots,8.0,0.0,,"About, to yield 1 cup, minced"
+249,"Black pepper, freshly ground",Black pepper,0.0,0.0,,freshly ground
+250,Salt,Salt,0.0,0.0,,
+251,"2 to 3 dozen scallops, to yield 1 pound",scallops,2.0,3.0,dozen,to yield 1 pound
+252,2 tablespoons unsalted butter,unsalted butter,2.0,0.0,tablespoon,
+253,2 to 3 teaspoons minced jalapeño,jalapeños,2.0,3.0,teaspoon,minced
+254,2 cups grated Monterey Jack,Monterey Jack,2.0,0.0,cup,grated
+255,2/3 cup corn oil,corn oil,0.67,0.0,cup,
+256,2 cups buttermilk,buttermilk,2.0,0.0,cup,
+257,1 teaspoon baking soda,baking soda,1.0,0.0,teaspoon,
+258,1 teaspoon salt,salt,1.0,0.0,teaspoon,
+259,4 lightly beaten eggs,eggs,4.0,0.0,,lightly beaten
+260,2 cups stone-ground yellow cornmeal,cornmeal,2.0,0.0,cup,stone-ground yellow
+261,"2 8 1/2-ounce cans, or 2 cups plus 2 tablespoons cream-style corn",cream-style corn,17.0,0.0,ounce,"2 cans, or 2 cups plus 2 tablespoons"
+262,"Creme fraiche for topping, optional",creme fraiche,0.0,0.0,,"for topping, optional"
+263,4 tablespoons regular or low-fat sour cream,sour cream,4.0,0.0,tablespoon,regular or low-fat
+264,1 tablespoon grated lime rind,lime rind,1.0,0.0,tablespoon,grated
+265,4 teaspoons lemon juice,lemon juice,4.0,0.0,teaspoon,
+266,Salt to taste,Salt,0.0,0.0,,to taste
+267,1/4 teaspoon ground cloves or to taste,cloves,0.25,0.0,teaspoon,ground or to taste
+268,1 1/4 teaspoon ground cardamom,cardamom,1.25,0.0,teaspoon,ground
+269,3 tablespoons maple syrup,maple syrup,3.0,0.0,tablespoon,
+270,3 eggs,eggs,3.0,0.0,,
+271,3 pounds sweet potatoes,sweet potatoes,3.0,0.0,pound,
+272,1 cup good quality chicken stock (approximately),chicken stock,1.0,0.0,cup,good quality (approximately)
+273,2 lightly beaten eggs,eggs,2.0,0.0,,lightly beaten
+274,Salt and freshly ground black pepper to taste,Salt and black pepper,0.0,0.0,,freshly ground to taste
+275,1 cup finely minced celery,celery,1.0,0.0,cup,finely minced
+276,1 1/2 cups green bell peppers,green bell peppers,1.5,0.0,cup,
+277,"2 large cloves garlic, minced",garlic,2.0,0.0,clove,minced
+278,2 cups finely chopped onion,onion,2.0,0.0,cup,finely chopped
+279,2 tablespoons unsalted butter,unsalted butter,2.0,0.0,tablespoon,
+280,"2 hard-cooked eggs, chopped",eggs,2.0,0.0,,"hard-cooked, chopped"
+281,5 cups toasted bread cubes,bread cubes,5.0,0.0,cup,toasted
+282,5 cups corn bread cubes,corn bread cubes,5.0,0.0,cup,
+283,2/3 cup coarsely chopped pecans,pecans,0.67,0.0,cup,coarsely chopped
+284,6 tablespoons Grand Marnier,Grand Marnier,6.0,0.0,tablespoon,
+285,1/4 cup orange juice,orange juice,0.25,0.0,cup,
+286,1/2 to 3/4 cup sugar,sugar,0.5,0.75,cup,
+287,1 pound fresh cranberries,cranberries,1.0,0.0,pound,fresh
+288,2 tablespoons coarse sugar like Demerara or turbinado (optional),sugar,2.0,0.0,tablespoon,coarse like Demerara or turbinado (optional)
+289,"2 sheets frozen puff pastry, thawed overnight in refrigerator",puff pastry,2.0,0.0,sheet,"frozen, thawed overnight in refrigerator"
+290,1/8 teaspoon salt,salt,0.13,0.0,teaspoon,
+291,Flour for rolling out pastry,Flour,0.0,0.0,,for rolling out pastry
+292,1 tablespoon fresh lemon juice,lemon juice,1.0,0.0,tablespoon,fresh
+293,"1 cup peeled and grated tart apple, like Granny Smith (about 2 apples)",tart apple,1.0,0.0,cup,"peeled and grated, like Granny Smith (about 2 apples)"
+294,1/2 teaspoon ground cinnamon,cinnamon,0.5,0.0,teaspoon,ground
+295,6 tablespoons granulated sugar,sugar,6.0,0.0,tablespoon,granulated
+296,1 tablespoon finely chopped crystallized ginger,crystallized ginger,1.0,0.0,tablespoon,finely chopped
+297,2/3 cup crumbled amaretti cookies,amaretti cookies,0.67,0.0,cup,crumbled
+298,"1/8 teaspoon ground nutmeg, optional",nutmeg,0.13,0.0,teaspoon,"ground, optional"
+299,"1/4 teaspoon ground cinnamon, optional",cinnamon,0.25,0.0,teaspoon,"ground, optional"
+300,1/3 cup granulated sugar,sugar,0.33,0.0,cup,granulated
+301,8 egg yolks,egg,8.0,0.0,,yolks
+302,"1 vanilla bean, split lengthwise",vanilla bean,1.0,0.0,,split lengthwise
+303,3 cups heavy cream,heavy cream,3.0,0.0,cup,
+304,1 cup canned pumpkin puree,pumpkin puree,1.0,0.0,cup,canned
+305,Freshly ground white pepper,white pepper,0.0,0.0,,Freshly ground
+306,1/4 teaspoon ground cloves,cloves,0.25,0.0,teaspoon,ground
+307,1/4 teaspoon ground allspice,allspice,0.25,0.0,teaspoon,ground
+308,1/4 cup red wine vinegar,red wine vinegar,0.25,0.0,cup,
+309,1/2 cup maple syrup,maple syrup,0.5,0.0,cup,
+310,Salt,Salt,0.0,0.0,,
+311,1 cup heavy cream,heavy cream,1.0,0.0,cup,
+312,"1 celery root, about 1 1/2 pounds, peeled and cut in chunks",celery root,1.0,0.0,,"about 1 1/2 pounds, peeled and cut in chunks"
+313,"Sesame oil for drizzling, optional",Sesame oil,0.0,0.0,,"for drizzling, optional"
+314,"1/2 cup roasted peanuts, optional",peanuts,0.5,0.0,cup,"roasted, optional"
+315,1/4 cup minced scallions,scallions,0.25,0.0,cup,minced
+316,"1/4 cup crispy cooked bacon, minced, optional",bacon,0.25,0.0,cup,"crispy cooked, minced, optional"
+317,Soy sauce or salt to taste,Soy sauce,0.0,0.0,,or salt to taste
+318,"1/4 pound slab bacon, optional",slab bacon,0.25,0.0,pound,optional
+319,"1 3-inch piece of ginger, peeled and roughly chopped",ginger,1.0,0.0,piece,"1 3-inch piece of, peeled and roughly chopped"
+320,1 cup short-grain rice,short-grain rice,1.0,0.0,cup,
+321,"2 cups chicken stock, preferably homemade, or water",chicken stock,2.0,0.0,cup,"preferably homemade, or water"
+322,3 tablespoons extra-virgin olive oil,olive oil,3.0,0.0,tablespoon,extra-virgin
+323,1 tablespoon chili powder,chili powder,1.0,0.0,tablespoon,
+324,"6 cups cooked pinto or kidney beans, or a mixture",beans,6.0,0.0,cup,"cooked pinto or kidney, or a mixture"
+325,1/2 cup fresh lime juice,lime juice,0.5,0.0,cup,fresh
+326,3 ripe Haas avocados,Haas avocados,3.0,0.0,,ripe
+327,"1 fresh jalapeno pepper, seeded and minced",jalapeno pepper,1.0,0.0,,"fresh, seeded and minced"
+328,"2 medium-size cucumbers, peeled and seeded",cucumbers,2.0,0.0,,"medium-size, peeled and seeded"
+329,"1 large red bell pepper, cored and seeded",red bell pepper,1.0,0.0,,"large, cored and seeded"
+330,2 medium-size red onions,red onions,2.0,0.0,,medium-size
+331,3 pints cherry tomatoes,cherry tomatoes,3.0,0.0,pint,
+332,Salt and freshly ground black pepper,Salt and black pepper,0.0,0.0,,freshly ground
+333,1/2 cup dry red wine,dry red wine,0.5,0.0,cup,
+334,3 tablespoons concentrated duck or veal stock (glace de viande),stock,3.0,0.0,tablespoon,concentrated duck or veal (glace de viande)
+335,3 tablespoons reserved marinade (see note),marinade,3.0,0.0,tablespoon,reserved (see note)
+336,1 tablespoon finely minced fresh ginger,ginger,1.0,0.0,tablespoon,finely minced fresh
+337,"2 shallots, finely minced",shallots,2.0,0.0,,finely minced
+338,2 tablespoons fat from cooking duck breasts,fat,2.0,0.0,tablespoon,2 tablespoons from cooking duck breasts
+339,1 tablespoon fresh lemon juice,lemon juice,1.0,0.0,tablespoon,fresh
+340,3 tablespoons light soy sauce,soy sauce,3.0,0.0,tablespoon,light
+341,2 tablespoons honey,honey,2.0,0.0,tablespoon,
+342,1 tablespoon Chinese five-spice powder,Chinese five-spice powder,1.0,0.0,tablespoon,
+343,3 moulard duck breasts (magret de canard),duck breasts,3.0,0.0,,moulard (magret de canard)
+344,"4 tablespoons chives, cut into 1-inch-long pieces",chives,4.0,0.0,tablespoon,cut into 1-inch-long pieces
+345,4 tablespoons shaved parmesan cheese,Parmesan cheese,4.0,0.0,tablespoon,shaved
+346,3/4 cup grated parmesan cheese,Parmesan cheese,0.75,0.0,cup,grated
+347,Salt and freshly ground black pepper,Salt and black pepper,0.0,0.0,,freshly ground
+348,"1 pound parmesan cheese, chopped",Parmesan cheese,1.0,0.0,pound,chopped
+349,8 cups chicken broth,chicken broth,8.0,0.0,cup,
+350,1 cup diced Spanish onion,onion,1.0,0.0,cup,diced Spanish
+351,2 tablespoons butter,butter,2.0,0.0,tablespoon,
+352,2 teaspoons salt,salt,2.0,0.0,teaspoon,
+353,5 cups peeled and diced eggplant,eggplant,5.0,0.0,cup,peeled and diced
+354,"Orange zest, for garnish (optional)",Orange,0.0,0.0,,"zested, for garnish (optional)"
+355,,gingersnap cookies,0.0,0.0,,"finely crumbled, for rimming the glass"
+356,"Orange zest, for garnish (optional)",Orange,0.0,0.0,,"zested, for garnish (optional)"
+357,"Agave syrup (or honey) and finely crumbled gingersnap cookies, for rimming the glass",Agave syrup,0.0,0.0,,or honey
+358,Dash of lemon juice,lemon juice,1.0,0.0,dash,
+359,2 1/2 ounces apple cider,apple cider,2.5,0.0,ounce,
+360,1 ounce vanilla vodka,vanilla vodka,1.0,0.0,ounce,
+361,2 ounces Domaine de Canton ginger and cognac liqueur,Domaine de Canton ginger,2.0,0.0,ounce,
+362,Salt and freshly ground pepper,Salt and pepper,0.0,0.0,,freshly ground
+363,1 tablespoon chopped fresh oregano or 1 teaspoon dried,oregano,1.0,0.0,tablespoon,chopped fresh or 1 teaspoon dried
+364,1 tablespoon chopped fresh basil or 1 teaspoon dried,basil,1.0,0.0,tablespoon,chopped fresh or 1 teaspoon dried
+365,1 6-ounce can tomato paste,tomato paste,6.0,0.0,ounce,1 6-ounce can
+366,28 ounces no-salt-added whole tomatoes,tomatoes,28.0,0.0,ounce,no-salt-added whole
+367,"1 pound mushrooms, chopped",mushrooms,1.0,0.0,pound,chopped
+368,1/2 cup chopped carrots,carrots,0.5,0.0,cup,chopped
+369,"2 large cloves of garlic, minced",garlic,2.0,0.0,clove,"large, minced"
+370,3/4 pound chopped onion,onion,0.75,0.0,pound,chopped
+371,1 tablespoon olive oil,olive oil,1.0,0.0,tablespoon,
+372,1 pound extra-lean ground beef,beef,1.0,0.0,pound,extra-lean ground
+373,Olive oil for grilling,Olive oil,0.0,0.0,,for grilling
+374,"6 swordfish steaks, 1-inch-thick",swordfish,6.0,0.0,,"steaks, 1-inch-thick"
+375,"8 anchovy fillets, dried on paper towels",anchovy,8.0,0.0,,"fillets, dried on paper towels"
+376,1/3 cup chopped cornichons,cornichons,0.33,0.0,cup,chopped
+377,1 cup diced red onion,onion,1.0,0.0,cup,diced red
+378,2 tablespoons capers,capers,2.0,0.0,tablespoon,
+379,1 tablespoon Dijon mustard,Dijon mustard,1.0,0.0,tablespoon,
+380,Grated rind from 2 lemons,lemons,2.0,0.0,,Grated rind from
+381,Juice of 1 lemon,lemon,1.0,0.0,,Juice of
+382,3/4 cup extra virgin olive oil,olive oil,0.75,0.0,cup,extra virgin
+383,1 1/2 large bunches flat-leaf parsley,parsley,1.5,0.0,bunch,large flat-leaf
+384,Sea salt and freshly ground black pepper,Sea salt and black pepper,0.0,0.0,,freshly ground
+385,30 or more basil leaves,basil leaves,30.0,0.0,,or more
+386,6 cups chicken or vegetable stock,stock,6.0,0.0,cup,chicken or vegetable
+387,"8 ounces stale Italian or sourdough bread, torn into 1-inch pieces",stale bread,8.0,0.0,ounce,"Italian or sourdough, torn into 1-inch pieces"
+388,1 2-pound-3-ounce can best-quality Italian tomatoes,tomatoes,35.0,0.0,ounce,1 2-pound-3-ounce can best-quality Italian
+389,"4 large cloves garlic, crushed",garlic,4.0,0.0,clove,"large, crushed"
+390,"4 tablespoons extra virgin olive oil, plus additional oil for topping (optional)",olive oil,4.0,0.0,tablespoon,"extra virgin, plus additional oil for topping (optional)"
+391,1 tablespoon olive oil,olive oil,1.0,0.0,tablespoon,
+392,2 tablespoons fresh coriander leaves plus 4 coriander sprigs,fresh coriander leaves,2.0,0.0,tablespoon,plus 4 coriander sprigs
+393,"2 jalapeno or serrano chilies, seeded and minced","jalapeno or serrano chilies, seeded and minced",2.0,0.0,,
+394,"1 small red onion, finely diced","small red onion, finely diced",1.0,0.0,,
+395,4 tablespoons lime juice,lime juice,4.0,0.0,tablespoon,
+396,"3 small ripe avocados, skinned and pitted",avocados,3.0,0.0,,"small ripe, skinned and pitted"
+397,Salt and freshly ground black pepper,Salt and black pepper,0.0,0.0,,freshly ground
+398,1/2 cup coarsely grated Parmigiano-Reggiano,"Parmigiano-Reggiano, coarsely grated",0.5,0.0,cup,
+399,4 tablespoons unsalted butter,unsalted butter,4.0,0.0,tablespoon,
+400,1 1/2 cups instant polenta,"polenta, instant",1.5,0.0,cup,
+401,1 tablespoon sesame paste (tahini),sesame paste,1.0,0.0,tablespoon,(tahini)
+402,"2 garlic cloves, peeled and crushed",garlic,2.0,0.0,clove,peeled and crushed
+403,1 1/2 teaspoons ground cumin,ground cumin,1.5,0.0,teaspoon,
+404,Salt and freshly ground black pepper,salt and freshly ground black pepper,0.0,0.0,,
+405,Juice of 1 large lemon,juice of 1 lemon,0.0,0.0,,
+406,1 cup extra-virgin olive oil,extra-virgin olive oil,1.0,0.0,cup,
+407,"2 1 1/2-pound eggplants, peeled and diced",eggplants (1 1/2-pound each),2.0,0.0,,peeled and diced
+408,"1 tablespoon, plus 1 teaspoon, confectioners' sugar",confectioners' sugar,4.0,0.0,teaspoon,
+409,2 medium egg yolks,egg,2.0,0.0,,medium yolks
+410,6 tablespoons whole milk,milk,6.0,0.0,tablespoon,whole
+411,"4 1/2 ounces bittersweet chocolate, chopped",chocolate,4.5,0.0,ounce,"bittersweet, chopped"
+412,"Half a vanilla bean, split lengthwise, seeds scraped",vanilla bean,0.5,0.0,,"split lengthwise, seeds scraped"
+413,3/4 cup heavy cream,heavy cream,0.75,0.0,cup,
+414,"1 small bunch of watercress, to garnish (optional)",watercress,1.0,0.0,bunch,to garnish (optional)
+415,"Salt, as needed",Salt,0.0,0.0,,as needed
+416,Juice of 1 lemon,lemon,1.0,0.0,,Juice of
+417,1 2/3 cups white wine,white wine,1.67,0.0,cup,
+418,Freshly ground black pepper,black pepper,0.0,0.0,,Freshly ground
+419,"6 tablespoons butter, softened",butter,6.0,0.0,tablespoon,softened
+420,1 bunch rosemary,rosemary,1.0,0.0,bunch,
+421,"20 anchovy fillets in oil, drained",anchovy,20.0,0.0,fillet,"in oil, drained"
+422,"4 large garlic cloves, peeled and sliced lengthwise into thirds",garlic,4.0,0.0,clove,peeled and sliced lengthwise into thirds
+423,1 4-pound bone-in leg of lamb,leg of lamb,4.0,0.0,pound,1 4-pound bone-in
+424,Splash of Champagne (optional),Splash of Champagne,0.0,0.0,,(optional)
+425,6 tablespoons chopped mint plus 6 sprigs mint for serving,mint,6.0,0.0,tablespoon,chopped plus 6 sprigs mint for serving
+426,6 cups freshly squeezed tangerine juice,tangerine juice,6.0,0.0,cup,freshly squeezed
+427,"4 dried figs, quartered",figs,4.0,0.0,,"dried, quartered"
+428,"8 dried Turkish apricots, cut in half",Turkish apricots,8.0,0.0,,"dried, cut in half"
+429,1 firm tart apple,apple,1.0,0.0,,firm tart
+430,3 firm Bosc pears,Bosc pears,3.0,0.0,,firm
+431,"2 2-inch long pieces lemon zest (peeled with a vegetable peeler), preferably Meyer lemons",lemon zest,2.0,0.0,piece,"2 2-inch long pieces (peeled with a vegetable peeler), preferably Meyer"
+432,3 star anise,star anise,3.0,0.0,,
+433,"1 plump vanilla bean, split in half lengthwise",vanilla bean,1.0,0.0,,"plump, split in half lengthwise"
+434,1 1/4 cup sugar,sugar,1.25,0.0,cup,
+435,1/4 cup coarsely chopped toasted almonds,almonds,0.25,0.0,cup,coarsely chopped toasted
+436,1/4 teaspoon almond extract,almond extract,0.25,0.0,teaspoon,
+437,1 cup milk,milk,1.0,0.0,cup,
+438,1/4 cup mascarpone cheese,mascarpone cheese,0.25,0.0,cup,
+439,1 tablespoon peeled and minced ginger,ginger,1.0,0.0,tablespoon,peeled and minced
+440,"1/2 cup minced cilantro leaves, plus more for garnish",cilantro leaves,0.5,0.0,cup,"minced, plus more for garnish"
+441,"1 fresh or dried hot red chile, minced, or 1/4 teaspoon cayenne, or to taste",red chilies,1.0,0.0,,"fresh or dried hot, minced, or 1/4 teaspon cayenne, or to taste"
+442,Freshly ground black pepper to taste,black pepper,0.0,0.0,,Freshly ground to taste
+443,2 tablespoons peanut or other oil,oil,2.0,0.0,tablespoon,peanut or other
+444,Lime wedges,Lime wedges,0.0,0.0,,
+445,3/4 cup plus 2 tablespoons sugar,sugar,0.75,0.0,cup,plus 2 tablespoons
+446,1/4 teaspoon salt,salt,0.25,0.0,teaspoon,
+447,6 tablespoons butter,butter,6.0,0.0,tablespoon,
+448,8 eggs,eggs,8.0,0.0,,
+449,12 to 15 slices brioche or challah bread (all should be about 1/2-inch thick and about 3 inches round; cut accordingly),brioche or challah bread,12.0,15.0,slice,(all should be about 1/2-inch thick and about 3 inches round; cut accordingly)
+450,Salt to taste,Salt,0.0,0.0,,to taste
+451,"1 1/2 pounds fillet of cod or other mild, delicate white fish",cod,1.5,0.0,pound,"fillet of or other mild, delicate white fish"
+452,1 baking potato weighing about 1/2 pound,potato,1.0,0.0,,baking weighing about 1/2 pound
+453,Plain yogurt for serving,yogurt,0.0,0.0,,Plain for serving
+454,3/4 cup diced mango for serving,mango,0.75,0.0,cup,diced for serving
+455,3/4 cup diced pineapple or sliced strawberries for serving,pineapple,0.75,0.0,cup,diced or sliced strawberries for serving
+456,2 tablespoons pomegranate seeds,pomegranate seeds,2.0,0.0,tablespoon,
+457,2 star fruits,fruits,2.0,0.0,,star
+458,"2 bananas, peeled and sliced",bananas,2.0,0.0,,peeled and sliced
+459,2 cups pure pomegranate juice (see note),pomegranate juice,2.0,0.0,cup,pure (see note)
+460,9 sheets (3/4 ounce) leaf gelatin (see note),leaf gelatin,9.0,0.0,sheet,3/4 ounce see note
+461,1 3/4 ounces (about 1 1/4 cups) dried hibiscus flowers (see note),hibiscus flowers,1.75,0.0,ounce,(about 1 1/4 cups) dried (see note)
+462,1 1/4 cups sugar,sugar,1.25,0.0,cup,
+463,2 cups bottled water,water,2.0,0.0,cup,bottled
+464,1 teaspoon vanilla extract,vanilla extract,1.0,0.0,teaspoon,
+465,3 tablespoons confectioners' sugar,confectioners' sugar,3.0,0.0,tablespoon,
+466,1 cup heavy cream,heavy cream,1.0,0.0,cup,
+467,2 tablespoons Grand Marnier,Grand Marnier,2.0,0.0,tablespoon,
+468,1 1/2 cups blueberries,blueberries,1.5,0.0,cup,
+469,Creme chantilly,Creme chantilly,0.0,0.0,,
+470,4 tablespoons melted butter for brushing,butter,4.0,0.0,tablespoon,melted for brushing
+471,2 teaspoons vanilla extract,vanilla extract,2.0,0.0,teaspoon,
+472,"4 tablespoons sweet butter, melted",butter,4.0,0.0,tablespoon,"sweet, melted"
+473,1/2 cup cold water,water,0.5,0.0,cup,cold
+474,Pinch of salt,salt,1.0,0.0,pinch,
+475,2 cups low-fat milk,milk,2.0,0.0,cup,low-fat
+476,1/4 cup sugar,sugar,0.25,0.0,cup,
+477,4 eggs,eggs,4.0,0.0,,
+478,2 cups fresh raspberries or strawberries,raspberries,2.0,0.0,cup,fresh or strawberries
+479,2 tablespoons Cognac,Cognac,2.0,0.0,tablespoon,
+480,28 to 32 store-bought ladyfingers,ladyfingers,28.0,32.0,,store-bought
+481,"1/2 cup chopped marron glace (French candied chestnuts), see note",marron glace,0.5,0.0,cup,"chopped (French candied chestnuts), see note"
+482,Creme chantilly,Creme chantilly,0.0,0.0,,
+483,1/4 cup warm water,water,0.25,0.0,cup,warm
+484,2 1/4-ounce packages unflavored gelatin,unflavored gelatin,0.5,0.0,ounce,2 packages
+485,"1 cup creme de marron (French chestnut puree), see note",creme de marron,1.0,0.0,cup,"(French chestnut puree), see note"
+486,Pinch of salt,salt,1.0,0.0,pinch,
+487,"1 vanilla bean, split in half",vanilla bean,1.0,0.0,,split in half
+488,10 egg yolks,egg,10.0,0.0,,yolks
+489,1 1/4 cup sugar,sugar,1.25,0.0,cup,
+490,3 cups milk,milk,3.0,0.0,cup,
+491,"12 to 16 ladyfingers, store-bought",ladyfingers,12.0,16.0,,store-bought
+492,1 can (16 ounces) pears in syrup,pears,16.0,0.0,ounce,1 can in syrup
+493,2 tablespoons dark rum,rum,2.0,0.0,tablespoon,dark
+494,Powdered sugar,powdered sugar,0.0,0.0,,
+495,2 tablespoons water,water,2.0,0.0,tablespoon,
+496,1/2 teaspoon vanilla extract,vanilla extract,0.5,0.0,teaspoon,
+497,1/4 cup sugar,sugar,0.25,0.0,cup,
+498,Pinch of salt,salt,1.0,0.0,pinch,
+499,"1 1/4-ounce package, plus 1 teaspoon, unflavored gelatin",unflavored gelatin,2.5,0.0,teaspoon,"1 package, plus 1 teaspoon"
+500,Pinch of salt,salt,1.0,0.0,pinch,
+501,"1 vanilla bean, split in half",vanilla bean,1.0,0.0,,split in half
+502,1 1/2 cup milk,milk,1.5,0.0,cup,
+503,3/4 cup sugar,sugar,0.75,0.0,cup,
+504,5 egg yolks,egg,5.0,0.0,,yolks
+505,Coarse salt and freshly ground pepper to taste,salt and pepper,0.0,0.0,,Coarse freshly ground to taste
+506,"1 to 2 cups chicken stock, preferably homemade",chicken stock,1.0,2.0,cup,preferably homemade
+507,2 tablespoons unsalted butter,unsalted butter,2.0,0.0,tablespoon,
+508,"1 pound chestnuts, peeled",chestnuts,1.0,0.0,pound,peeled
+509,2 pounds brussels sprouts,brussels sprouts,2.0,0.0,pound,
+510,"1 lemon, halved",lemon,1.0,0.0,,halved
+511,1 8- to 10-pound goose,goose,8.0,10.0,pound,1 8- to 10-pound
+512,Coarse salt and freshly ground pepper to taste,salt and pepper,0.0,0.0,,Coarse freshly ground to taste
+513,1 cup white bread crumbs,white bread crumbs,1.0,0.0,cup,
+514,"1 pound cooking apples, peeled, cored and chopped",cooking apples,1.0,0.0,pound,"peeled, cored and chopped"
+515,Dash sage,sage,1.0,0.0,dash,
+516,1/4 teaspoon thyme,thyme,0.25,0.0,teaspoon,
+517,"4 tablespoons parsley, chopped",parsley,4.0,0.0,tablespoon,chopped
+518,"6 stalks celery, chopped",celery,6.0,0.0,stalk,chopped
+519,"2 cloves garlic, minced",garlic,2.0,0.0,clove,minced
+520,"1 medium onion, chopped",onion,1.0,0.0,,"medium, chopped"
+521,2 tablespoons unsalted butter,unsalted butter,2.0,0.0,tablespoon,
+522,1 cup port or madeira,port,1.0,0.0,cup,or madeira
+523,"1 pound prunes, pitted",prunes,1.0,0.0,pound,pitted
+524,Lemon juice to taste,Lemon juice,0.0,0.0,,to taste
+525,Coarse salt to taste,salt,0.0,0.0,,Coarse to taste
+526,1/2 teaspoon powdered ginger,ginger,0.5,0.0,teaspoon,powdered
+527,Cayenne pepper to taste,Cayenne pepper,0.0,0.0,,to taste
+528,Dash freshly grated nutmeg,nutmeg,1.0,0.0,dash,freshly grated
+529,1 teaspoon ground mace,mace,1.0,0.0,teaspoon,ground
+530,"1 clove garlic, crushed",garlic,1.0,0.0,clove,crushed
+531,"1 pound small shrimp, shelled",shrimp,1.0,0.0,pound,"small, shelled"
+532,1/2 pound unsalted butter,unsalted butter,0.5,0.0,pound,
+533,"1 medium-size red onion, about 1/2 pound, cut into thin rings",onion,1.0,0.0,,"medium-size red, about 1/2 pound, cut into thin rings"
+534,"2 medium-size tomatoes, about 3/4 pound, cored and cut into small wedges",tomatoes,2.0,0.0,,"medium-size, about 3/4 pound, cored and cut into small wedges"
+535,"1 whole cucumber, about 1/2 pound, peeled and cut into thin rounds",cucumber,1.0,0.0,,"whole, about 1/2 pound, peeled and cut into thin rounds"
+536,"1 cup coarsely chopped, trimmed scallions, green part and all",scallions,1.0,0.0,cup,"coarsely chopped, trimmed, green part and all"
+537,"8 cups reasonably packed romaine lettuce leaves broken into fairly large, bite-size pieces",lettuce leaves,8.0,0.0,cup,"reasonably packed romaine broken into fairly large, bite-size pieces"
+538,1/2 teaspoon dried hot red-pepper flakes,red-pepper flakes,0.5,0.0,teaspoon,dried hot
+539,8 sprigs fresh coriander with stems and leaves,coriander,8.0,0.0,sprig,fresh with stems and leaves
+540,1 tablespoon finely minced garlic,garlic,1.0,0.0,tablespoon,finely minced
+541,1/2 cup fish sauce,fish sauce,0.5,0.0,cup,
+542,1 cup freshly squeezed lime juice,lime juice,1.0,0.0,cup,freshly squeezed
+543,"2 tablespoons corn, peanut or vegetable oil",oil,2.0,0.0,tablespoon,"corn, peanut or vegetable"
+544,"1/2 pound lean, tender beef, preferably fillet of beef",beef,0.5,0.0,pound,"lean, tender, preferably fillet"
+545,"2 pounds pears (or apples), peeled, cored and sliced",pears,2.0,0.0,pound,"(or apples), peeled, cored and sliced"
+546,"1 tablespoon vinegar (sherry, Champagne or white wine vinegar)",vinegar,1.0,0.0,tablespoon,"(sherry, Champagne or white wine vinegar)"
+547,"2 cups not-too-dry white wine, like gewürztraminer or riesling",not-too-dry dry white wine,2.0,0.0,cup,like gewürztraminer or riesling
+548,1/2 pound dried pears or apples,dried pears or apples,0.5,0.0,pound,
+549,A few thyme sprigs,thyme,0.0,0.0,,A few sprigs
+550,4 bay leaves,bay leaves,4.0,0.0,,
+551,"2 large onions, roughly chopped",large onions,2.0,0.0,,roughly chopped
+552,"1/2 cup diced bacon or pancetta, optional",diced bacon or pancetta,0.5,0.0,cup,optional
+553,Salt and freshly ground pepper,salt and freshly ground pepper,0.0,0.0,,
+554,"1 goose, cut into serving pieces, excess fat removed",goose,1.0,0.0,,"cut into serving pieces, excess fat removed"
+555,8 tablespoons unsalted butter,unsalted butter,8.0,0.0,tablespoon,
+556,1/8 teaspoon vanilla extract,vanilla extract,0.13,0.0,teaspoon,
+557,1/2 cup milk,milk,0.5,0.0,cup,
+558,1/2 cup all-purpose flour,all-purpose flour,0.5,0.0,cup,
+559,3 large eggs,eggs,3.0,0.0,,large
+560,1/2 teaspoon ground cinnamon,cinnamon,0.5,0.0,teaspoon,ground
+561,Scant 1/2 cup sugar plus 1 1/2 tablespoons sugar,sugar,9.5,0.0,cup,Scant
+562,1 large Granny Smith apple,Granny Smith apple,1.0,0.0,,large
+563,1 teaspoon garam masala (optional),garam masala,1.0,0.0,teaspoon,optional
+564,2 pinches cayenne,cayenne,2.0,0.0,pinch,
+565,2 tablespoons lemon juice,lemon juice,2.0,0.0,tablespoon,
+566,2 teaspoons salt,salt,2.0,0.0,teaspoon,
+567,"2 onions, halved and thinly sliced crosswise",onions,2.0,0.0,,halved and thinly sliced crosswise
+568,2 teaspoons sesame seeds,sesame seeds,2.0,0.0,teaspoon,
+569,1 tablespoon cumin or caraway seeds,seeds,1.0,0.0,tablespoon,cumin or caraway
+570,6 tablespoons vegetable oil,vegetable oil,6.0,0.0,tablespoon,
+571,1 large head green cabbage,cabbage,1.0,0.0,head,green
+572,"2 cloves garlic, crushed",garlic,2.0,0.0,clove,crushed
+573,1/4 cup olive oil,olive oil,0.25,0.0,cup,
+574,"4 pounds chard, red or green",chard,4.0,0.0,pound,red or green
+575,Salt and pepper,Salt and pepper,0.0,0.0,,
+576,"2 teaspoons black or mixed peppercorns, bruised; more for garnish",peppercorns,2.0,0.0,teaspoon,"black or mixed, bruised; more for garnish"
+577,1 tablespoon sugar,sugar,1.0,0.0,tablespoon,
+578,1/2 teaspoon red pepper flakes,red pepper flakes,0.5,0.0,teaspoon,
+579,4 thyme sprigs,thyme,4.0,0.0,sprig,
+580,2 bay leaves,bay leaves,2.0,0.0,,
+581,1 1/2 cups white wine vinegar,white wine vinegar,1.5,0.0,cup,
+582,"2 large red onions, peeled and sliced into thick rings, rings separated",onions,2.0,0.0,,"large red, peeled and sliced into thick rings, rings separated"
+583,Salt and pepper,Salt and pepper,0.0,0.0,,
+584,"2 teaspoons fresh thyme leaves, plus more for garnish",thyme leaves,2.0,0.0,teaspoon,"fresh, plus more for garnish"
+585,"2 shallots, diced",shallots,2.0,0.0,,diced
+586,3 tablespoons butter,butter,3.0,0.0,tablespoon,
+587,40 radishes (green tops optional),radishes,40.0,0.0,,green tops optional
+588,"4 medium-size garlic cloves, minced",garlic,4.0,0.0,clove,minced
+589,"1/4 cup minced fresh ginger (about 6 inches ginger root, peeled)",ginger,0.25,0.0,cup,"minced fresh(about 6 inches ginger root, peeled)"
+590,4 tablespoons vegetable oil,vegetable oil,4.0,0.0,tablespoon,
+591,"2 1/2 pounds string beans (French-style slim haricots verts work especially well), trimmed",string beans,2.5,0.0,pound,"(French-style slim haricots verts work especially well), trimmed"
+592,Salt,Salt,0.0,0.0,,
+593,Salt and pepper to taste,Salt and pepper,0.0,0.0,,to taste
+594,1/4 cup dry white wine or vermouth,dry white wine,0.25,0.0,cup,or vermouth
+595,"2 tablespoons black mustard seeds, cumin seeds, or poppy seeds",seeds,2.0,0.0,tablespoon,black mustard or poppy seeds
+596,"3 garlic cloves, minced",garlic,3.0,0.0,clove,minced
+597,2 tablespoons butter,butter,2.0,0.0,tablespoon,
+598,2 tablespoons olive oil,olive oil,2.0,0.0,tablespoon,
+599,2 to 3 pounds brussels sprouts,brussels sprouts,2.0,0.0,pound,to 3 pounds
+600,Grated zest of 1 lemon,lemon,1.0,0.0,,
+601,"2 tablespoons freshly squeezed lemon juice, more to taste",lemon juice,2.0,0.0,tablespoon,"freshly squeezed, more to taste"
+602,Flour for dredging,Flour,0.0,0.0,,for dredging
+603,2 tablespoons unsalted butter ,butter,2.0,0.0,tablespoon,unsalted
+604,"1 clove garlic, minced ",garlic,1.0,0.0,clove,minced 
+605,1/2 pound chanterelles,chanterelles,0.5,0.0,pound,
+606,3 tablespoons creme fraiche,creme fraiche,3.0,0.0,tablespoon,
+607,2 tablespoons fresh tarragon (if available),tarragon,2.0,0.0,tablespoon,fresh (if available)
+608,2 tablespoons chopped parsley,parsley,2.0,0.0,tablespoon,chopped
+609,"1 medium-size orange, peeled and sectioned",orange,1.0,0.0,,"medium-size, peeled and sectioned"
+610,1/3 cup chopped red onion,onion,0.33,0.0,cup,chopped red
+611,Salt and freshly ground pepper to taste,Salt and pepper,0.0,0.0,,freshly ground to taste
+612,2 tablespoons red-wine vinegar,red-wine vinegar,2.0,0.0,tablespoon,
+613,1/3 cup olive or vegetable or corn oil,oil,0.33,0.0,cup,olive or vegetable or corn
+614,2 teaspoons Dijon-style mustard,Dijon-style mustard,2.0,0.0,teaspoon,
+615,2 endives,endives,2.0,0.0,,
+616,4 tablespoons grated Parmesan or pecorino cheese,cheese,4.0,0.0,tablespoon,grated Parmesan or pecorino
+617,"1 bunch watercress, washed and drained",watercress,1.0,0.0,bunch,washed and drained
+618,4 tablespoons coarsely chopped Italian parsley,parsley,4.0,0.0,tablespoon,coarsely chopped Italian
+619,"1/8 teaspoon red hot pepper flakes, optional",red hot pepper flakes,0.13,0.0,teaspoon,optional
+620,3/4 cup heavy cream,heavy cream,0.75,0.0,cup,
+621,2 teaspoons chopped fresh oregano or 1 teaspoon dried,oregano,2.0,0.0,teaspoon,chopped fresh or 1 teaspoon dried
+622,2 teaspoons chopped fresh rosemary or 1 teaspoon dried,rosemary,2.0,0.0,teaspoon,chopped fresh or 1 teaspoon dried
+623,"3 red ripe tomatoes, about 1 pound, peeled and cut into 1/2-inch cubes",tomatoes,3.0,0.0,,"red ripe, about 1 pound, peeled and cut into 1/2-inch cubes"
+624,1 tablespoon finely chopped garlic,garlic,1.0,0.0,tablespoon,finely chopped
+625,2 tablespoons olive oil,olive oil,2.0,0.0,tablespoon,
+626,Freshly ground pepper to taste,pepper,0.0,0.0,,Freshly ground to taste
+627,Salt to taste,Salt,0.0,0.0,,to taste
+628,3/4 pound cut ziti,ziti,0.75,0.0,pound,cut
+629,"1 bunch broccoli, about 1 1/4 pounds",broccoli,1.0,0.0,bunch,about 1 1/4 pounds
+630,"2 skinless boneless chicken breasts, about 1 pound",chicken breasts,2.0,0.0,,"skinless boneless, about 1 pound"
+631,2 tablespoons Parmesan cheese,Parmesan cheese,2.0,0.0,tablespoon,
+632,1/2 teaspoon freshly ground black pepper,black pepper,0.5,0.0,teaspoon,freshly ground
+633,3/4 teaspoon salt,salt,0.75,0.0,teaspoon,
+634,1 tablespoon unsalted butter,unsalted butter,1.0,0.0,tablespoon,
+635,2 tablespoons olive oil,olive oil,2.0,0.0,tablespoon,
+636,1 butternut squash (about 3 pounds),butternut squash,1.0,0.0,,about 3 pounds
+637,2 tablespoons chopped parsley,parsley,2.0,0.0,tablespoon,chopped
+638,1/4 teaspoon freshly ground black pepper,black pepper,0.25,0.0,teaspoon,freshly ground
+639,1 teaspoon salt,salt,1.0,0.0,teaspoon,
+640,1 1/2 tablespoons unsalted butter,unsalted butter,1.5,0.0,tablespoon,
+641,2 tablespoons lemon juice,lemon juice,2.0,0.0,tablespoon,
+642,2 ounces (1 can) flat anchovy fillets,anchovy,2.0,0.0,ounce,(1 can) flat fillets
+643,"1 whole (double) turkey breast (see note), including the wings, about 5 pounds; or 6 boneless turkey steaks; or 2 to 2 1/4 pounds of other turkey meat",turkey breast,1.0,0.0,,"whole (double) (see note), including the wings, about 5 pounds; or 6 boneless turkey steaks; or 2 to 2 1/4 pounds of other turkey meat"
+644,"1/3 cup salted pistachio nuts, coarsely ground",pistachio nuts,0.33,0.0,cup,"salted, coarsely ground"
+645,Sea salt,Sea salt,0.0,0.0,,
+646,1/4 teaspoon freshly ground black pepper,black pepper,0.25,0.0,teaspoon,freshly ground
+647,1/3 cup chopped mint,mint,0.33,0.0,cup,chopped
+648,"1/2 cup finely sliced celery hearts, with leaves",celery,0.5,0.0,cup,"finely sliced hearts, with leaves"
+649,1 teaspoon toasted and ground cumin seeds,cumin seeds,1.0,0.0,teaspoon,toasted and ground
+650,1 teaspoon toasted and ground coriander seeds,coriander seeds,1.0,0.0,teaspoon,toasted and ground
+651,"1/2 cup grated Pecorino Romano, preferably Fulvi",Pecorino Romano,0.5,0.0,cup,"grated, preferably Fulvi"
+652,Grated zest of 1 lemon,lemon,1.0,0.0,,Grated zested of
+653,1 tablespoon lemon juice,lemon juice,1.0,0.0,tablespoon,
+654,"1/2 cup goat cheese (ché,vre), (4 ounces), softened",goat cheese,0.5,0.0,cup,"(chèvre), (4 ounces), softened"
+655,"1 cup cream cheese (8 ounces), softened",cream cheese,1.0,0.0,cup,"(8 ounces), softened"
+656,1 nutmeg,nutmeg,1.0,0.0,,
+657,Pinch sea salt,sea salt,1.0,0.0,pinch,
+658,6 fresh egg whites,egg,6.0,0.0,,fresh whites
+659,1 cup cream,cream,1.0,0.0,cup,
+660,1 1/2 cups milk,milk,1.5,0.0,cup,
+661,2 cups good quality bourbon,bourbon,2.0,0.0,cup,good quality
+662,6 fresh egg yolks,egg,6.0,0.0,,fresh yolks
+663,1 cup confectioners' sugar,confectioners' sugar,1.0,0.0,cup,
+664,"1/3 cup Armagnac, bourbon or whiskey",Armagnac,0.33,0.0,cup,bourbon or whiskey
+665,White corn syrup,White corn syrup,0.0,0.0,,
+666,2 cups shelled walnuts,walnuts,2.0,0.0,cup,shelled
+667,2 1/2 cups shelled pecans,pecans,2.5,0.0,cup,shelled
+668,1 cup shelled almonds,almonds,1.0,0.0,cup,shelled
+669,2 cups shelled salted pistachios,pistachios,2.0,0.0,cup,shelled salted
+670,2 teaspoons almond extract,almond extract,2.0,0.0,teaspoon,
+671,1 cup granulated sugar,sugar,1.0,0.0,cup,granulated
+672,4 eggs,eggs,4.0,0.0,,
+673,1/2 teaspoon kosher salt,salt,0.5,0.0,teaspoon,kosher
+674,2 teaspoons double acting baking powder,baking powder,2.0,0.0,teaspoon,double acting
+675,2 cups sifted all-purpose flour,all-purpose flour,2.0,0.0,cup,sifted
+676,"1 cup chopped candied orange peel, or 1/4 cup freshly grated orange zest",orange peel,1.0,0.0,cup,"chopped candied, or 1/4 cup freshly grated orange zested"
+677,1 pound candied cherries,cherries,1.0,0.0,pound,candied
+678,1 pound candied pineapple,pineapple,1.0,0.0,pound,candied
+679,1/2 pound prunes from Agen or use more dates,prunes,0.5,0.0,pound,from Agen or use more dates
+680,Butter for pans,Butter,0.0,0.0,,for pans
+681,1 pound pitted Medjool dates,Medjool dates,1.0,0.0,pound,pitted
+682,Sea salt,Sea salt,0.0,0.0,,
+683,"Grated zest from 2 lemons, preferably Meyer; cut lemons into large wedges",lemons,2.0,0.0,,"Grated zested from, preferably Meyer; cut lemons into large wedges"
+684,"4 ounces butter, softened",butter,4.0,0.0,ounce,softened
+685,"3 dozen unshucked oysters, scrubbed",oysters,3.0,0.0,dozen,unshucked scrubbed
+686,3 eggs,eggs,3.0,0.0,,
+687,1 cup all-purpose flour,all-purpose flour,1.0,0.0,cup,
+688,1/4 teaspoon salt,salt,0.25,0.0,teaspoon,
+689,1 teaspoon cinnamon,cinnamon,1.0,0.0,teaspoon,
+690,1/2 cup or 1 stick butter,butter,0.5,0.0,cup,or 1 stick
+691,1/2 cup plus 1 tablespoon sugar,sugar,9.0,0.0,tablespoon,
+692,"Corn, grapeseed, canola or other neutral oil for frying",corn oil for frying,0.0,0.0,,"or grapeseed oil, or canola oil or other neutral oil"
+693,1 tablespoon butter,butter,1.0,0.0,tablespoon,
+694,2 eggs plus 2 egg yolks,eggs,2.0,0.0,,plus 2 egg yolks
+695,3/4 cup low-fat milk,milk,0.75,0.0,cup,low-fat
+696,1 teaspoon fresh thyme leaves,thyme,1.0,0.0,teaspoon,fresh leaves
+697,"2 stalks celery, coarsely chopped",celery,2.0,0.0,stalk,coarsely chopped
+698,"2 carrots, peeled, coarsely chopped",carrots,2.0,0.0,,"peeled, coarsely chopped"
+699,"1 small clove garlic, peeled, finely chopped",garlic,1.0,0.0,clove,"small, peeled, finely chopped"
+700,"1 small onion, peeled, finely chopped",onion,1.0,0.0,,"small, peeled, finely chopped"
+701,"2 medium yams, about 2/3 pound, peeled, coarsely chopped",yams,2.0,0.0,,"medium, about 2/3 pound, peeled, coarsely chopped"
+702,"4 cups chicken broth, homemade or low-sodium canned",chicken broth,4.0,0.0,cup,homemade or low-sodium canned
+703,"4 black peppercorns, crushed",black peppercorns,4.0,0.0,,crushed
+704,1 bay leaf,bay leaf,1.0,0.0,,
+705,"1 cup fresh mozzarella, cut into 1/4-inch dice",mozzarella,1.0,0.0,cup,"fresh, cut into 1/4-inch dice"
+706,"1 meaty ham hock, quartered",ham hock,1.0,0.0,,"meaty, quartered"
+707,"2 cups bitter greens, like mustard or dandelion, rinsed and shredded",bitter greens,2.0,0.0,cup,"like mustard or dandelion, rinsed and shredded"
+708,1/2 teaspoon salt,salt,0.5,0.0,teaspoon,
+709,1 teaspoon freshly ground pepper,pepper,1.0,0.0,teaspoon,freshly ground
+710,1 tablespoon grated Parmesan cheese,Parmesan cheese,1.0,0.0,tablespoon,grated
+711,1 tablespoon minced fresh chives,chives,1.0,0.0,tablespoon,minced fresh
+712,1/2 cup fresh minced sage leaves,sage leaves,0.5,0.0,cup,fresh minced
+713,10 cups broth (see above),broth,10.0,0.0,cup,see above
+714,3 cups Arborio rice,Arborio rice,3.0,0.0,cup,
+715,"1 white onion, minced",white onion,1.0,0.0,,minced
+716,1 tablespoon unsalted butter,unsalted butter,1.0,0.0,tablespoon,
+717,1 cup shaved almonds,almonds,1.0,0.0,cup,shaved
+718,1/8 teaspoon cayenne pepper,cayenne pepper,0.13,0.0,teaspoon,
+719,1/4 teaspoon kosher salt,kosher salt,0.25,0.0,teaspoon,
+720,1 teaspoon water,water,1.0,0.0,teaspoon,
+721,1/2 teaspoon olive oil,olive oil,0.5,0.0,teaspoon,
+722,"1 stalk celery, cut into 1-inch pieces",celery,1.0,0.0,stalk,cut into 1-inch pieces
+723,"1 carrot, peeled, cut into 1-inch pieces",carrot,1.0,0.0,,"peeled, cut into 1-inch pieces"
+724,"3 medium yams, about 1 pound total, peeled, cut in half",yams,3.0,0.0,,"medium, about 1 pound total, peeled, cut in half"
+725,"1 gallon chicken broth, homemade or low-sodium canned",chicken broth,1.0,0.0,gallon,homemade or low-sodium canned
+726,"1 tablespoon butter, cut into small pieces",butter,1.0,0.0,tablespoon,cut into small pieces
+727,1 tablespoon fresh thyme leaves,thyme,1.0,0.0,tablespoon,fresh leaves
+728,1/4 teaspoon freshly ground pepper,pepper,0.25,0.0,teaspoon,freshly ground
+729,1/2 teaspoon salt,salt,0.5,0.0,teaspoon,
+730,2 teaspoons brown sugar,brown sugar,2.0,0.0,teaspoon,
+731,2 cups apple cider,apple cider,2.0,0.0,cup,
+732,"3 medium yams, about 1 pound, cut into thin round slices",yams,3.0,0.0,,"medium, about 1 pound, cut into thin round slices"
+733,"3 medium red onions, peeled, cut into paper-thin round slices",red onion,3.0,0.0,,"medium, peeled, cut into paper-thin round slices"
+734,"6 sprigs flat-leaf parsley, stems removed, finely chopped",flat-leaf parsley,6.0,0.0,sprig,"stems removed, finely chopped"
+735,6 tablespoons plain low-fat yogurt,plain low-fat yogurt,6.0,0.0,tablespoon,
+736,1 teaspoon freshly ground pepper,pepper,1.0,0.0,teaspoon,freshly ground
+737,1/2 teaspoon salt,salt,0.5,0.0,teaspoon,
+738,"1 1/2 quarts chicken broth, homemade or low-sodium canned",chicken broth,1.5,0.0,quart,homemade or low-sodium canned
+739,1 tablespoon fresh thyme leaves,thyme,1.0,0.0,tablespoon,fresh leaves
+740,1 bay leaf,bay leaf,1.0,0.0,,
+741,"3 carrots, peeled, coarsely chopped",carrots,3.0,0.0,,"peeled, coarsely chopped"
+742,"1 rib celery, coarsely chopped",celery rib,1.0,0.0,,coarsely chopped
+743,"1 small clove garlic, peeled, finely chopped",garlic,1.0,0.0,clove,"small, peeled, finely chopped"
+744,"1 red onion, peeled, coarsely chopped",red onion,1.0,0.0,,"peeled, coarsely chopped"
+745,"6 medium yams, about 2 pounds, peeled, cut into 1-inch chunks",yams,6.0,0.0,,"medium, about 2 pounds, peeled, cut into 1-inch chunks"
+746,1/2 teaspoon kosher salt,salt,0.5,0.0,teaspoon,kosher
+747,"2 medium cloves garlic, smashed, peeled and mashed to a paste",garlic,2.0,0.0,clove,"medium, smashed, peeled and mashed to a paste"
+748,"3 teaspoons capers, drained",capers,3.0,0.0,teaspoon,drained
+749,1 1/2 tablespoons fresh lemon juice,lemon juice,1.5,0.0,tablespoon,fresh
+750,3 tablespoons minced fresh Italian parsley leaves,parsley leaves,3.0,0.0,tablespoon,minced fresh Italian
+751,3 tablespoons olive oil,olive oil,3.0,0.0,tablespoon,
+752,"3 7-ounce jars roasted red peppers, drained",red peppers,21.0,0.0,ounce,"3 7-ounce jars roasted, drained"
+753,"1 medium pear, cored, peeled and cut into chunks",pear,1.0,0.0,,"medium, cored, peeled and cut into chunks"
+754,2 teaspoons olive oil,olive oil,2.0,0.0,teaspoon,
+755,2 one-pound pork tenderloins (each 10 inches long and 2 1/2 inches in diameter),pork tenderloins,2.0,0.0,,one-pound (each 10 inches long and 2 1/2 inches in diameter)
+756,15 grinds fresh black pepper,black pepper,15.0,0.0,,grinds fresh
+757,Scant 1/2 teaspoon ground cardamom,cardamom,0.5,0.0,teaspoon,Scant ground
+758,Scant 1/2 teaspoon cinnamon,cinnamon,0.5,0.0,teaspoon,Scant
+759,1 1/2 teaspoons kosher salt,salt,1.5,0.0,teaspoon,kosher
+760,"6 limes, sliced into thin wedges",limes,6.0,0.0,,sliced into thin wedges
+761,3 pounds peeled shrimp (20 to 24 a pound),shrimp,3.0,0.0,pound,peeled (20 to 24 a pound)
+762,"Kosher salt, to taste",salt,0.0,0.0,,"Kosher, to taste"
+763,"6 jalapeno peppers, seeded, de-veined and cut into chunks",jalapeno peppers,6.0,0.0,,"seeded, de-veined and cut into chunks"
+764,"1 1/4 cups trimmed, washed cilantro plus 75 nice leaves for garnish",cilantro,1.25,0.0,cup,"trimmed, washed plus 75 nice leaves for garnish"
+765,3 tablespoons olive oil,olive oil,3.0,0.0,tablespoon,
+766,8 tablespoons lime juice,lime juice,8.0,0.0,tablespoon,
+767,Freshly ground black pepper to taste,"black pepper, freshly ground to taste",0.0,0.0,,
+768,1 1/2 teaspoons kosher salt,kosher salt,1.5,0.0,teaspoon,
+769,3/4 cup Parmesan cheese,Parmesan cheese,0.75,0.0,cup,
+770,4 ounces mozzarella cheese diced into 1/4-inch pieces,"mozzarella cheese, diced into 1/4-inch pieces",4.0,0.0,ounce,
+771,2 tablespoons tomato paste,tomato paste,2.0,0.0,tablespoon,
+772,1/4 cup roughly chopped basil,"basil, roughly chopped",0.25,0.0,cup,
+773,"2 small cloves garlic, smashed, peeled and minced","garlic, small, smashed, peeled and minced",2.0,0.0,clove,
+774,"6 small plum tomatoes, stem end cut off, and diced into 1/4-inch pieces","small plum tomatoes, stem end cut off, and diced into 1/4-inch pieces",6.0,0.0,,
+775,"1 small white boiling onion, peeled and diced in 1/4-inch pieces","small white boiling onion, peeled and diced in 1/4-inch pieces",1.0,0.0,,
+776,1 tablespoon olive oil,olive oil,1.0,0.0,tablespoon,
+777,2 tablespoons honey,honey,2.0,0.0,tablespoon,
+778,"6 strips lemon peel, white pith removed, about 1/2 inch wide and 3 1/2 inches long",lemon peel,6.0,0.0,strip,"white pith removed, about 1/2 inch wide and 3 1/2 inches long"
+779,"8 strips of orange peel, white pith removed, about 1/2 inch wide and 3 1/2 inches long",orange peel,8.0,0.0,strip,"white pith removed, about 1/2 inch wide and 3 1/2 inches long"
+780,4 cups Kalamata (preferred) or Gaeta olives,olives,4.0,0.0,cup,Kalamata (preferred) or Gaeta
+781,2 tablespoons red wine vinegar,red wine vinegar,2.0,0.0,tablespoon,
+782,"4 cloves garlic, smashed and peeled","garlic, smashed and peeled",4.0,0.0,clove,
+783,6 tablespoons orange juice,orange juice,6.0,0.0,tablespoon,
+784,4 teaspoons fennel seeds,fennel seeds,4.0,0.0,teaspoon,
+785,Freshly ground black pepper to taste,black pepper,0.0,0.0,,Freshly ground to taste
+786,1/8 teaspoon salt,salt,0.13,0.0,teaspoon,
+787,2 teaspoons Dijon mustard,Dijon mustard,2.0,0.0,teaspoon,
+788,3/4 cup nonfat buttermilk,nonfat buttermilk,0.75,0.0,cup,
+789,Bunch fresh chives to yield 1 tablespoon chopped,chives,0.0,0.0,,Bunch fresh to yield 1 tablespoon chopped
+790,1/2 pound cabbage,cabbage,0.5,0.0,pound,
+791,3/4 pound tiny thin-skinned potatoes,potatoes,0.75,0.0,pound,tiny thin-skinned
+792,1/4 cup dry red wine,dry red wine,0.25,0.0,cup,
+793,8 ounces fresh tuna,tuna,8.0,0.0,ounce,fresh
+794,1/2 teaspoon anchovy paste,anchovy paste,0.5,0.0,teaspoon,
+795,1 teaspoon capers,capers,1.0,0.0,teaspoon,
+796,4 oil-cured olives,olives,4.0,0.0,,oil-cured
+797,1 large clove garlic,garlic,1.0,0.0,clove,large
+798,2 teaspoons olive oil,olive oil,2.0,0.0,teaspoon,
+799,"6 ounces whole red onion or 5 ounces chopped, ready-cut onion (1 1/3 cups)",onion,6.0,0.0,ounce,"whole red, or 5 ounces chopped, ready-cut onion (1 1/3 cups)"
+800,1 teaspoon grated lemon zest,lemon,1.0,0.0,teaspoon,grated zested
+801,"1 cup pecans, toasted and chopped",pecans,1.0,0.0,cup,toasted and chopped
+802,"4 cups fresh dates, pitted and cut into 1/2-inch dice",dates,4.0,0.0,cup,"fresh, pitted and cut into 1/2-inch dice"
+803,"8 large Granny Smith apples, peeled, cored and cut into 1/2-inch slices",apples,8.0,0.0,,"large Granny Smith, peeled, cored and cut into 1/2-inch slices"
+804,2 teaspoons grated orange zest,orange,2.0,0.0,teaspoon,grated zested
+805,"1 cup unsalted butter, cut into small pieces",unsalted butter,1.0,0.0,cup,cut into small pieces
+806,1 teaspoon ground nutmeg,nutmeg,1.0,0.0,teaspoon,ground
+807,1 teaspoon kosher salt,salt,1.0,0.0,teaspoon,kosher
+808,2 teaspoons ground cinnamon,cinnamon,2.0,0.0,teaspoon,ground
+809,2 cups brown sugar,brown sugar,2.0,0.0,cup,
+810,1 cup all-purpose flour,flour,1.0,0.0,cup,all-purpose
+811,2 cups old-fashioned oats,oats,2.0,0.0,cup,old-fashioned
+812,Kosher salt and freshly ground black pepper to taste,salt and black pepper,0.0,0.0,,Kosher freshly ground to taste
+813,3 tablespoon chopped Italian parsley,parsley,3.0,0.0,tablespoon,chopped Italian
+814,2/3 cup pine nuts,pine nuts,0.67,0.0,cup,
+815,2 tablespoons coarsely chopped Italian parsley leaves,Italian parsley leaves,2.0,0.0,tablespoon,coarsely chopped
+816,1/3 cup pitted and sliced picholine olives,picholine olives,0.33,0.0,cup,pitted and sliced
+817,"16 fresh dates, pitted and thinly sliced",dates,16.0,0.0,,"fresh, pitted and thinly sliced"
+818,1 tablespoon olive oil,olive oil,1.0,0.0,tablespoon,
+819,"1 small bunch fresh thyme, roughly chopped",thyme,1.0,0.0,bunch,"small fresh, roughly chopped"
+820,"1 large onion, peeled and roughly chopped",onion,1.0,0.0,,"large, peeled and roughly chopped"
+821,"4 ribs celery, chopped",celery rib,4.0,0.0,,chopped
+822,Freshly ground black pepper to taste,black pepper,0.0,0.0,,Freshly ground to taste
+823,4 teaspoons kosher salt,salt,4.0,0.0,teaspoon,kosher
+824,"2 whole Long Island ducks, trimmed of wing tips and excess fat",Long Island ducks,2.0,0.0,,"whole, trimmed of wing tips and excess fat"
+825,"16 fresh dates, pitted and thinly sliced lengthwise",fresh dates,16.0,0.0,,pitted and thinly sliced lengthwise
+826,Olive oil for greasing the pan,olive oil,0.0,0.0,,for greasing the pan
+827,2 teaspoons kosher salt,kosher salt,2.0,0.0,teaspoon,
+828,1 teaspoon kosher salt,kosher salt,1.0,0.0,teaspoon,
+829,1/2 cup olive oil,olive oil,0.5,0.0,cup,
+830,1/2 cup red-wine vinegar,red-wine vinegar,0.5,0.0,cup,
+831,2 tablespoons whole allspice,whole allspice,2.0,0.0,tablespoon,
+832,1 tablespoon whole cloves,whole cloves,1.0,0.0,tablespoon,
+833,"1 whole nutmeg seed, smashed",whole nutmeg seed,1.0,0.0,,smashed
+834,2 3-inch cinnamon sticks,cinnamon sticks,2.0,0.0,,3-inch
+835,1/3 cup brown sugar,brown sugar,0.33,0.0,cup,
+836,1 bottle cabernet sauvignon,cabernet sauvignon,1.0,0.0,bottle,
+837,1 cup whole unblanched almonds,whole unblanched almonds,1.0,0.0,cup,
+838,1 egg,egg,1.0,0.0,,
+839,1 1/2 teaspoons chopped fresh rosemary,rosemary,1.5,0.0,teaspoon,chopped fresh
+840,1/4 teaspoon freshly ground black pepper,black pepper,0.25,0.0,teaspoon,freshly ground
+841,1 teaspoon kosher salt,salt,1.0,0.0,teaspoon,kosher
+842,1 teaspoon baking powder,baking powder,1.0,0.0,teaspoon,
+843,1 tablespoon sugar,sugar,1.0,0.0,tablespoon,
+844,1 cup all-purpose flour,flour,1.0,0.0,cup,all-purpose
+845,3/4 cup yellow cornmeal,yellow cornmeal,0.75,0.0,cup,
+846,"1/2 cup chopped pitted dates, plus 12 dates, peeled, halved lengthwise and pitted",dates,0.5,0.0,cup,"chopped pitted, plus 12 dates, peeled, halved lengthwise and pitted"
+847,"2 tablespoons vegetable oil, plus more for greasing the pan",vegetable oil,2.0,0.0,tablespoon,plus more for greasing the pan
+848,1/2 cup oatmeal cookie crumbs (from crumbled cookies),oatmeal cookie crumbs,0.5,0.0,cup,(from crumbled cookies)
+849,2 cups Greek or whole milk yogurt,milk yogurt,2.0,0.0,cup,Greek or whole
+850,4 teaspoons confectioners' sugar,confectioners' sugar,4.0,0.0,teaspoon,
+851,2 cups (one 12-ounce bag) frozen raspberries,raspberries,2.0,0.0,cup,(one 12-ounce bag) frozen
+852,"8 small slices (or 4 large slices, halved) stale or day-old white bakery bread",white bakery bread,8.0,0.0,slice,"(or 4 large slices, halved) stale or day-old"
+853,4 large eggs,eggs,4.0,0.0,,large
+854,"1/4 cup tomato ketchup, more if desired",tomato ketchup,0.25,0.0,cup,more if desired
+855,1 cup grated cheddar cheese,cheddar cheese,1.0,0.0,cup,grated
+856,1/4 teaspoon mace,mace,0.25,0.0,teaspoon,
+857,1 1/2 cups whole milk,milk,1.5,0.0,cup,whole
+858,10 slices (6 ounces) bacon,bacon,10.0,0.0,slice,6 ounces
+859,Butter for baking dish,Butter,0.0,0.0,,for baking dish
+860,2 cups granola,granola,2.0,0.0,cup,
+861,1/3 cup vegetable oil,vegetable oil,0.33,0.0,cup,
+862,3/4 cup Golden Baker's natural cane sugar or other light brown sugar,cane sugar,0.75,0.0,cup,Golden Baker's natural or other light brown sugar
+863,1 large egg,egg,1.0,0.0,,large
+864,1 cup buttermilk,butter milk,1.0,0.0,cup,
+865,1/4 teaspoon salt,salt,0.25,0.0,teaspoon,
+866,1 teaspoon baking soda,baking soda,1.0,0.0,teaspoon,
+867,1 1/2 cups all-purpose flour,all-purpose flour,1.5,0.0,cup,
+868,Confectioners' sugar for dusting,Confectioners' sugar,0.0,0.0,,for dusting
+869,Pinch salt,salt,1.0,0.0,pinch,
+870,1/4 cup granulated sugar,sugar,0.25,0.0,cup,granulated
+871,"5 tablespoons frozen lemonade concentrate, thawed",lemonade,5.0,0.0,tablespoon,"frozen concentrate, thawed"
+872,"5 eggs, separated",eggs,5.0,0.0,,separated
+873,Butter for greasing the dish,Butter,0.0,0.0,,for greasing the dish
+874,Freshly ground black pepper,black pepper,0.0,0.0,,Freshly ground
+875,Salt,Salt,0.0,0.0,,
+876,"2 shallots, minced",shallots,2.0,0.0,,minced
+877,1/2 cup brut Champagne,Champagne,0.5,0.0,cup,brut
+878,1 teaspoon olive oil,olive oil,1.0,0.0,teaspoon,
+879,"2 filet mignons, at least 6 ounces each",filet mignons,2.0,0.0,,at least 6 ounces each
+880,2 tablespoons plus 1 teaspoon butter,butter,7.0,0.0,teaspoon,
+881,Freshly ground black pepper,black pepper,0.0,0.0,,Freshly ground
+882,Salt,Salt,0.0,0.0,,
+883,1 egg yolk,egg,1.0,0.0,,yolk
+884,20 ounces golden (whitefish) caviar,caviar,20.0,0.0,ounce,golden (white fish)
+885,1 1/2 pounds angel-hair pasta,pasta,1.5,0.0,pound,angel-hair
+886,"8 tablespoons unsalted butter, softened",unsalted butter,8.0,0.0,tablespoon,softened
+887,2 bay leaves,bay leaves,2.0,0.0,,
+888,1/3 cup Calvados or other brandy,brandy,0.33,0.0,cup,Calvados or other
+889,3 cups créme fraîche,créme fraîche,3.0,0.0,cup,
+890,Freshly grated Reggiano Parmesan,Reggiano Parmesan,0.0,0.0,,Freshly grated
+891,Coarse sea salt and freshly ground pepper to taste,Coarse sea salt and pepper,0.0,0.0,,freshly ground to taste
+892,About 1 cup heavy cream,heavy cream,1.0,0.0,cup,About
+893,"1 clove garlic, minced",garlic,1.0,0.0,clove,minced
+894,3 to 4 tablespoons olive oil,olive oil,3.0,4.0,tablespoon,
+895,About 24 sage leaves,sage leaves,24.0,0.0,,About
+896,4 hot Italian sausages,Italian sausages,4.0,0.0,,hot
+897,1 pound fettuccine,fettuccine,1.0,0.0,pound,
+898,Coarse sea salt to taste,Coarse sea salt,0.0,0.0,,to taste
+899,About 24 sage leaves,sage leaves,24.0,0.0,,
+900,Freshly ground pepper to taste,pepper,0.0,0.0,,Freshly ground to taste
+901,1/2 cup olive oil,olive oil,0.5,0.0,cup,
+902,2 tablespoons Dijon mustard,Dijon mustard,2.0,0.0,tablespoon,
+903,2 lemons,lemons,2.0,0.0,,
+904,"1 salmon fillet, about 1 1/2 to 2 pounds",salmon,1.0,0.0,fillet,about 1 1/2 to 2 pounds
+905,"1/2 cup grated Reggiano Parmesan, plus extra for garnish",Reggiano Parmesan,0.5,0.0,cup,"grated, plus extra for garnish"
+906,1/2 cup dry white wine,dry white wine,0.5,0.0,cup,
+907,2 cups Arborio rice,Arborio rice,2.0,0.0,cup,
+908,1 medium onion,onion,1.0,0.0,,medium
+909,5 1/2 tablespoons unsalted butter,unsalted butter,5.5,0.0,tablespoon,
+910,7 to 8 cups chicken stock,chicken stock,7.0,8.0,cup,
+911,Coarse sea salt and freshly ground pepper to taste,Coarse sea salt and pepper,0.0,0.0,,freshly ground to taste
+912,About 24 sage leaves,sage leaves,24.0,0.0,,
+913,1 medium butternut squash (about 1 pound),butternut squash,1.0,0.0,,medium (about 1 pound)
+914,"2 kaffir lime leaves, very thinly shredded",lime leaves,2.0,0.0,,"kaffir, very thinly shredded"
+915,1 tablespoon or more nam pla (fish sauce),nam pla,1.0,0.0,tablespoon,or more (fish sauce)
+916,1/2 cup green onions,green onions,0.5,0.0,cup,
+917,1/2 cup very thinly sliced lemon grass,lemon grass,0.5,0.0,cup,very thinly sliced
+918,1/2 cup very thinly sliced ginger,ginger,0.5,0.0,cup,very thinly sliced
+919,1/2 cup very thinly sliced shallots,shallots,0.5,0.0,cup,very thinly sliced
+920,1 tablespoon palm sugar,sugar,1.0,0.0,tablespoon,palm
+921,2 tablespoons kaffir lime juice,lime juice,2.0,0.0,tablespoon,kaffir
+922,1 tablespoon tamarind paste,tamarind paste,1.0,0.0,tablespoon,
+923,"4 whole kaffir lime leaves, for garnish",lime leaves,4.0,0.0,,"whole kaffir, for garnish"
+924,"5 sprigs cilantro, washed, dried and chopped",cilantro,5.0,0.0,sprig,"washed, dried and chopped"
+925,3 to 4 tablespoons (or more) lime juice,lime juice,3.0,4.0,tablespoon,or more
+926,2 to 3 teaspoons nam pla (fish sauce),nam pla,2.0,3.0,teaspoon,fish sauce
+927,"2 to 3 bird pepper chilies, stemmed, seeded and minced",bird pepper chilies,2.0,3.0,,"stemmed, seeded and minced"
+928,8 ounces jumbo shrimp,jumbo shrimp,8.0,0.0,ounce,
+929,"5 ounces oyster mushrooms, trimmed and quartered",oyster mushrooms,5.0,0.0,ounce,trimmed and quartered
+930,"3 kaffir lime leaves, very thinly sliced",lime leaves,3.0,0.0,,"kaffir, very thinly sliced"
+931,"4 cups chicken stock, preferably homemade",chicken stock,4.0,0.0,cup,preferably homemade
+932,3 or 4 stalks lemon grass,lemon grass,3.0,4.0,stalk,
+933,8 egg yolks,egg,8.0,0.0,,yolks
+934,1 cup sugar,sugar,1.0,0.0,cup,
+935,4 kaffir lime leaves (see note),lime leaves,4.0,0.0,,kaffir (see note)
+936,1 quart plus 5 tablespoons whole milk,milk,69.0,0.0,tablespoon,whole
+937,12 stalks lemon grass,lemon grass,12.0,0.0,stalk,
+938,"Chopped fresh parsley for garnish, optional",parsley,0.0,0.0,,"Chopped fresh for garnish, optional"
+939,Salt and freshly ground black pepper,Salt and black pepper,0.0,0.0,,freshly ground
+940,"Several sprigs fresh thyme, or 1 teaspoon dried thyme",thyme,0.0,0.0,,"Several sprigs fresh, or 1 teaspoon dried thyme"
+941,1 cup fruity red wine,red wine,1.0,0.0,cup,fruity
+942,"2 pounds cleaned squid, the bodies cut up if large",squid,2.0,0.0,pound,"cleaned, the bodies cut up if large"
+943,"5 cloves garlic, crushed",garlic,5.0,0.0,clove,crushed
+944,3 tablespoons extra virgin olive oil,olive oil,3.0,0.0,tablespoon,extra virgin
+945,Tinted sugar for decoration (optional),sugar,0.0,0.0,,Tinted for decoration (optional)
+946,"Slivered almonds, slightly crushed, for decoration (optional)",almonds,0.0,0.0,,"Slivered, slightly crushed, for decoration (optional)"
+947,"3 to 3 1/2 cups all-purpose flour, more if cookie cutters are used",all-purpose flour,3.0,3.5,cup,more if cookie cutters are used
+948,1/8 teaspoon salt,salt,0.13,0.0,teaspoon,
+949,1 teaspoon vanilla extract,vanilla extract,1.0,0.0,teaspoon,
+950,1 tablespoon brandy,brandy,1.0,0.0,tablespoon,
+951,3/4 cup sugar,sugar,0.75,0.0,cup,
+952,3 large eggs,eggs,3.0,0.0,,large
+953,1 cup unsalted butter or margarine,unsalted butter,1.0,0.0,cup,or margarine
+954,"6 eggs, separated",eggs,6.0,0.0,,separated
+955,1 teaspoon vanilla extract,vanilla extract,1.0,0.0,teaspoon,
+956,1/2 cup sugar,sugar,0.5,0.0,cup,
+957,4 cups milk,milk,4.0,0.0,cup,
+958,"1 cup shelled walnuts, coarsely chopped",walnuts,1.0,0.0,cup,"shelled, coarsely chopped"
+959,"1 cup dried, pitted dates, coarsely chopped",dates,1.0,0.0,cup,"dried, pitted, coarsely chopped"
+960,"1 1/2 cups dried pears, cut into 1/2-inch pieces",pears,1.5,0.0,cup,"dried, cut into 1/2-inch pieces"
+961,1 1/2 cups tawny port,tawny port,1.5,0.0,cup,
+962,1 cup dried cranberries,cranberries,1.0,0.0,cup,dried
+963,"6 cups brioche (approximately 2 large loaves or 4 mini-loaves), cut into 1-inch cubes",brioche,6.0,0.0,cup,"(approximately 2 large loaves or 4 mini-loaves), cut into 1-inch cubes"
+964,1/8 teaspoon salt,salt,0.13,0.0,teaspoon,
+965,2 tablespoons sherry,sherry,2.0,0.0,tablespoon,
+966,"3/4 cup confectioners' sugar, sifted",confectioners' sugar,0.75,0.0,cup,sifted
+967,"4 tablespoons unsalted butter, at room temperature",unsalted butter,4.0,0.0,tablespoon,at room temperature
+968,3/4 cup golden raisins,golden raisins,0.75,0.0,cup,
+969,3/4 cup dried cherries,cherries,0.75,0.0,cup,dried
+970,1/2 teaspoon salt,salt,0.5,0.0,teaspoon,
+971,1/2 teaspoon baking soda,baking soda,0.5,0.0,teaspoon,
+972,2 cups all-purpose flour,flour,2.0,0.0,cup,all-purpose
+973,2 teaspoons ground ginger,ginger,2.0,0.0,teaspoon,ground
+974,1/2 cup milk,milk,0.5,0.0,cup,
+975,1/2 cup molasses,molasses,0.5,0.0,cup,
+976,2 eggs,eggs,2.0,0.0,,
+977,1/2 cup brown sugar,brown sugar,0.5,0.0,cup,
+978,"4 tablespoons unsalted butter, at room temperature",unsalted butter,4.0,0.0,tablespoon,at room temperature
+979,"1 pound dried figs, stemmed",figs,1.0,0.0,pound,"dried, stemmed"
+980,2 teaspoons dried thyme,thyme,2.0,0.0,teaspoon,dried
+981,3/4 cup sugar,sugar,0.75,0.0,cup,
+982,3/4 cup honey,honey,0.75,0.0,cup,
+983,3 cups water,water,3.0,0.0,cup,
+984,1/2 teaspoon salt,salt,0.5,0.0,teaspoon,
+985,"1 1/3 cups blanched almonds, toasted and finely ground",almonds,1.33,0.0,cup,"blanched, toasted and finely ground"
+986,3 tablespoons all-purpose flour,flour,3.0,0.0,tablespoon,all-purpose
+987,1 teaspoon vanilla extract,vanilla extract,1.0,0.0,teaspoon,
+988,2 eggs,eggs,2.0,0.0,,
+989,"2/3 cup confectioners' sugar, sifted",confectioners' sugar,0.67,0.0,cup,sifted
+990,"6 tablespoons unsalted butter, at room temperature",unsalted butter,6.0,0.0,tablespoon,at room temperature
+991,1 tablespoon water,water,1.0,0.0,tablespoon,
+992,"1 egg yolk, whisked with 1 tablespoon water",egg,1.0,0.0,,"yolk, whisked with 1 tablespoon water"
+993,"1/2 cup cold unsalted butter, cut into pieces",unsalted butter,0.5,0.0,cup,"cold, cut into pieces"
+994,1/2 teaspoon ground cinnamon,cinnamon,0.5,0.0,teaspoon,ground
+995,1 teaspoon salt,salt,1.0,0.0,teaspoon,
+996,1/4 cup sugar,sugar,0.25,0.0,cup,
+997,1 1/2 cups all-purpose flour,flour,1.5,0.0,cup,all-purpose
+998,3/4 cup Armagnac,Armagnac,0.75,0.0,cup,

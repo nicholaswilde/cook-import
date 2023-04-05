@@ -1,0 +1,876 @@
+{"prompt":"1 1\/4 cups cooked and pureed fresh butternut squash, or 1 10-ounce package frozen squash, defrosted ->","completion":" butternut squash\n"}
+{"prompt":"1 cup peeled and cooked fresh chestnuts (about 20), or 1 cup canned, unsweetened chestnuts ->","completion":" chestnuts\n"}
+{"prompt":"1 medium-size onion, peeled and chopped ->","completion":" onion\n"}
+{"prompt":"2 stalks celery, chopped coarse ->","completion":" celery\n"}
+{"prompt":"1 1\/2 tablespoons vegetable oil ->","completion":" vegetable oil\n"}
+{"prompt":" ->","completion":" water\n"}
+{"prompt":"2 tablespoons unflavored gelatin, dissolved in 1\/2 cup water ->","completion":" gelatin\n"}
+{"prompt":"Salt ->","completion":" Salt\n"}
+{"prompt":"1 cup canned plum tomatoes with juice ->","completion":" plum tomatoes\n"}
+{"prompt":"6 cups veal or beef stock ->","completion":" stock\n"}
+{"prompt":"1\/3 cup Worcestershire sauce ->","completion":" Worcestershire sauce\n"}
+{"prompt":"1 tablespoon Louisiana hot sauce ->","completion":" Louisiana hot sauce\n"}
+{"prompt":"1\/2 teaspoon hot red pepper flakes ->","completion":" hot red pepper flakes\n"}
+{"prompt":"4 bay leaves ->","completion":" bay leaves\n"}
+{"prompt":"6 cloves garlic, crushed and chopped ->","completion":" garlic\n"}
+{"prompt":"2 carrots, peeled and diced ->","completion":" carrots\n"}
+{"prompt":"2 medium onions, diced ->","completion":" onions\n"}
+{"prompt":"6 tablespoons butter ->","completion":" butter\n"}
+{"prompt":"1 tablespoon Creole seasoning, or other seasonings of your choice ->","completion":" Creole seasoning\n"}
+{"prompt":"3 pounds beef brisket ->","completion":" beef brisket\n"}
+{"prompt":"1\/2 cup fine dry bread crumbs ->","completion":" bread crumbs\n"}
+{"prompt":"Freshly ground black pepper ->","completion":" black pepper\n"}
+{"prompt":"12 oysters and their liquor ->","completion":" oysters and their liquor\n"}
+{"prompt":"3 tablespoons minced scallions ->","completion":" scallions\n"}
+{"prompt":"1 tablespoon flour ->","completion":" flour\n"}
+{"prompt":"6 ounces button mushrooms, thinly sliced then coarsely chopped ->","completion":" button mushrooms\n"}
+{"prompt":"13 tablespoons butter ->","completion":" butter\n"}
+{"prompt":"4 large artichokes, trimmed ->","completion":" artichokes\n"}
+{"prompt":"Juice of 1 lemon ->","completion":" lemon\n"}
+{"prompt":"Confectioners' sugar ->","completion":" Confectioners' sugar\n"}
+{"prompt":"1\/4 teaspoon vanilla extract ->","completion":" vanilla extract\n"}
+{"prompt":"2 large eggs ->","completion":" eggs\n"}
+{"prompt":"Pinch of freshly grated nutmeg ->","completion":" nutmeg\n"}
+{"prompt":"2 teaspoons baking powder ->","completion":" baking powder\n"}
+{"prompt":"1\/4 teaspoon salt ->","completion":" salt\n"}
+{"prompt":"1\/4 cup sugar ->","completion":" sugar\n"}
+{"prompt":"6 tablespoons flour ->","completion":" flour\n"}
+{"prompt":"2 cups cooked medium- or long-grain white rice ->","completion":" white rice\n"}
+{"prompt":"Vegetable oil, for deep-frying ->","completion":" Vegetable oil\n"}
+{"prompt":"pound elbow macaroni ->","completion":" elbow macaroni\n"}
+{"prompt":"2 teaspoons Dijon mustard ->","completion":" Dijon mustard\n"}
+{"prompt":"cup heavy cream ->","completion":" heavy cream\n"}
+{"prompt":"2 cups whole milk ->","completion":" milk\n"}
+{"prompt":"3 tablespoons flour ->","completion":" flour\n"}
+{"prompt":"5 cups coarsely grated extra-sharp Cheddar ->","completion":" Cheddar\n"}
+{"prompt":"2 cups panko or coarse dry bread crumbs ->","completion":" bread crumbs\n"}
+{"prompt":"5 tablespoons unsalted butter ->","completion":" unsalted butter\n"}
+{"prompt":"Sprigs of watercress ->","completion":" watercress\n"}
+{"prompt":"3\/4 pound shiitake mushrooms, stemmed and quartered ->","completion":" shiitake mushrooms\n"}
+{"prompt":"2 tablespoons extra-virgin olive oil ->","completion":" olive oil\n"}
+{"prompt":"Kosher salt and black pepper ->","completion":" salt and black pepper\n"}
+{"prompt":"1 2-pound beef tenderloin roast, cut from the large end, trimmed and tied at 1\/2 -inch intervals with kitchen twine ->","completion":" beef tenderloin\n"}
+{"prompt":"1\/8 teaspoon ground cinnamon ->","completion":" cinnamon\n"}
+{"prompt":"1 tablespoon cocoa powder ->","completion":" cocoa powder\n"}
+{"prompt":"3 tablespoons medium-roast coffee beans, finely ground ->","completion":" coffee beans\n"}
+{"prompt":"1 teaspoon light-brown sugar ->","completion":" brown sugar\n"}
+{"prompt":"Kosher salt ->","completion":" salt\n"}
+{"prompt":"1\/4 cup heavy cream ->","completion":" heavy cream\n"}
+{"prompt":"2 1\/2 cups chicken stock ->","completion":" chicken stock\n"}
+{"prompt":"4 large cloves garlic ->","completion":" garlic\n"}
+{"prompt":"1 1\/2 cups chopped white onion ->","completion":" onion\n"}
+{"prompt":"3 tablespoons unsalted butter ->","completion":" unsalted butter\n"}
+{"prompt":"1 6-inch white-corn tortilla ->","completion":" white-corn tortilla\n"}
+{"prompt":"2 dried pasilla chilies ->","completion":" pasilla chilies\n"}
+{"prompt":"1 teaspoon pomegranate molasses ->","completion":" pomegranate molasses\n"}
+{"prompt":"2 dashes of Angostura bitters ->","completion":" Angostura bitters\n"}
+{"prompt":"1\/2 ounce apple schnapps ->","completion":" apple schnapps\n"}
+{"prompt":"1\/2 ounce sweet vermouth ->","completion":" sweet vermouth\n"}
+{"prompt":"2 ounces applejack ->","completion":" applejack\n"}
+{"prompt":"1 orange slice 1 1\/4-inch thick, cut in half ->","completion":" orange\n"}
+{"prompt":"1 cup sugar ->","completion":" sugar\n"}
+{"prompt":"12 ounces cranberries, washed and picked over ->","completion":" cranberries\n"}
+{"prompt":"1 1\/2 cups strawberries (about 1 pint), hulled and halved ->","completion":" strawberries\n"}
+{"prompt":"3 bananas ->","completion":" bananas\n"}
+{"prompt":"3 tablespoons Triple Sec ->","completion":" Triple Sec\n"}
+{"prompt":"3 tablespoons fresh lemon juice ->","completion":" lemon juice\n"}
+{"prompt":"3\/4 cup fresh orange juice ->","completion":" orange juice\n"}
+{"prompt":"3 papayas (1 pound each), peeled and cut into 1-inch chunks (about 4 cups) ->","completion":" papayas\n"}
+{"prompt":"6 kiwis (3 to 4 ounces each), peeled and cut into rounds about 1\/4-inch thick ->","completion":" kiwis\n"}
+{"prompt":"3 McIntosh apples (8 ounces each), peeled, quartered, cored and cut into thin wedges (about 3 cups) ->","completion":" McIntosh apples\n"}
+{"prompt":"3 Anjou pears (8 ounces each), peeled, halved, cored and thinly sliced lengthwise (about 3 cups) ->","completion":" Anjou pears\n"}
+{"prompt":"1 small pineapple, peeled, cored and cut into 1-inch chunks (about 3 cups) ->","completion":" pineapple\n"}
+{"prompt":"9 juice oranges (6 ounces each), peeled and sectioned ->","completion":" oranges\n"}
+{"prompt":"2 small pink grapefruits (12 ounces each) or 1 large pink grapefruit, peeled and sectioned ->","completion":" grapefruits\n"}
+{"prompt":"3 cups seedless grapes, equal amounts of red and green ->","completion":" grapes\n"}
+{"prompt":"18 kumquats, thinly sliced ->","completion":" kumquats\n"}
+{"prompt":"1 cup sifted granulated sugar (optional) ->","completion":" sugar\n"}
+{"prompt":"1 teaspoon pure vanilla extract ->","completion":" vanilla extract\n"}
+{"prompt":"1 1\/4 cups cake flour ->","completion":" cake flour\n"}
+{"prompt":"Pinch of kosher salt ->","completion":" salt\n"}
+{"prompt":"3 egg whites, from Grade A large eggs ->","completion":" egg\n"}
+{"prompt":"1\/2 cup dark brown sugar ->","completion":" brown sugar\n"}
+{"prompt":"3\/4 cup unsalted butter, at room temperature ->","completion":" unsalted butter\n"}
+{"prompt":"5 tablespoons Pernod ->","completion":" Pernod\n"}
+{"prompt":"4 teaspoons kosher salt ->","completion":" salt\n"}
+{"prompt":"1\/4 cup fresh lemon juice ->","completion":" lemon juice\n"}
+{"prompt":"1 cup olive oil ->","completion":" olive oil\n"}
+{"prompt":"1 cup fresh orange juice ->","completion":" orange juice\n"}
+{"prompt":"3 heads fennel, tops removed and thinly sliced across the bulb (about 6 cups) ->","completion":" fennel\n"}
+{"prompt":"2 large heads romaine lettuce, torn into small pieces (about 8 cups) ->","completion":" romaine lettuce\n"}
+{"prompt":"6 bunches watercress (about 12 cups of sprigs) ->","completion":" watercress\n"}
+{"prompt":"2 1\/2 pounds bell peppers (about 6 peppers in assorted colors), cut into 2-inch chunks ->","completion":" bell peppers\n"}
+{"prompt":"3\/4 pound mushrooms, cut into 1\/4-inch slices through the stem (4 cups) ->","completion":" mushrooms\n"}
+{"prompt":"4 pounds rigatoni ->","completion":" rigatoni\n"}
+{"prompt":"2 bay leaves ->","completion":" bay leaves\n"}
+{"prompt":"2 tablespoons kosher salt ->","completion":" salt\n"}
+{"prompt":"5 pounds sweet Italian sausage in casing, cut into 1-inch lengths ->","completion":" sausage\n"}
+{"prompt":"1\/2 teaspoon hot red-pepper flakes ->","completion":" red-pepper flakes\n"}
+{"prompt":"1\/4 teaspoon freshly ground black pepper ->","completion":" black pepper\n"}
+{"prompt":"1 teaspoon thyme ->","completion":" thyme\n"}
+{"prompt":"1 1\/2 teaspoons oregano ->","completion":" oregano\n"}
+{"prompt":"2 28-ounce cans crushed tomatoes ->","completion":" tomatoes\n"}
+{"prompt":"1\/2 cup olive oil ->","completion":" olive oil\n"}
+{"prompt":"8 cloves garlic, peeled and smashed ->","completion":" garlic\n"}
+{"prompt":"2 cups parsley leaves ->","completion":" parsley leaves\n"}
+{"prompt":"3\/4 cup of liquid from cooked mussels ->","completion":" liquid from cooked mussels\n"}
+{"prompt":"4 tablespoons drained and rinsed capers ->","completion":" capers\n"}
+{"prompt":"1\/2 teaspoon freshly ground black pepper ->","completion":" Freshly ground black pepper\n"}
+{"prompt":"1 tablespoon kosher salt ->","completion":" kosher salt\n"}
+{"prompt":"1\/4 cup good quality olive oil ->","completion":" good quality olive oil\n"}
+{"prompt":"1\/2 cup fresh lemon juice ->","completion":" fresh lemon juice\n"}
+{"prompt":"3\/4 pound white onion, quartered and thinly sliced (2 cups) ->","completion":" onion\n"}
+{"prompt":"8 stalks (about 1 1\/2 pounds) celery, peeled and cut diagonally into 1\/4-inch slices ->","completion":" celery\n"}
+{"prompt":"4 9-ounce boxes frozen artichoke hearts ->","completion":" frozen artichoke hearts\n"}
+{"prompt":"1 teaspoon kosher salt ->","completion":" kosher salt\n"}
+{"prompt":"3 1\/4 pounds medium shrimp (20-24 to the pound), shelled ->","completion":" medium shrimp\n"}
+{"prompt":"6 1\/2 pounds mussels (about 6 dozen), scrubbed and beards removed ->","completion":" mussels\n"}
+{"prompt":"1\/2 teaspoon sugar ->","completion":" sugar\n"}
+{"prompt":"1 teaspoon Asian sesame oil ->","completion":" Asian sesame oil\n"}
+{"prompt":"10 ounces brussels sprouts ->","completion":" brussels sprouts\n"}
+{"prompt":"2 scallions ->","completion":" scallions\n"}
+{"prompt":"8 Italian, French or Greek black olives ->","completion":" black olives\n"}
+{"prompt":"4 ripe plum tomatoes ->","completion":" plum tomatoes\n"}
+{"prompt":"1 teaspoon olive oil ->","completion":" olive oil\n"}
+{"prompt":"1 cup whole-wheat couscous ->","completion":" whole-wheat couscous\n"}
+{"prompt":"No-salt added beef stock or broth ->","completion":" beef stock or broth\n"}
+{"prompt":"8 ounces pork tenderloin ->","completion":" pork tenderloin\n"}
+{"prompt":"1 clove garlic ->","completion":" garlic\n"}
+{"prompt":"1\/2 teaspoon ground ginger ->","completion":" ground ginger\n"}
+{"prompt":"1 teaspoon cumin ->","completion":" cumin\n"}
+{"prompt":"1 teaspoon ground cinnamon ->","completion":" cinnamon\n"}
+{"prompt":"1 teaspoon ground cloves ->","completion":" cloves\n"}
+{"prompt":"1 teaspoon ground ginger ->","completion":" ginger\n"}
+{"prompt":"2 teaspoons baking soda ->","completion":" baking soda\n"}
+{"prompt":"1 1\/2 teaspoons kosher salt ->","completion":" salt\n"}
+{"prompt":"2 cups all-purpose flour ->","completion":" all-purpose flour\n"}
+{"prompt":"1 large egg ->","completion":" egg\n"}
+{"prompt":"1 cup sugar, plus 1\/4 cup for dusting the cookies ->","completion":" sugar\n"}
+{"prompt":"4 tablespoons dark molasses ->","completion":" molasses\n"}
+{"prompt":"3\/4 cup bacon fat, cooled (from 1 1\/2 to 2 pounds Oscar Mayer bacon) ->","completion":" bacon fat\n"}
+{"prompt":"Maple syrup, optional ->","completion":" Maple syrup\n"}
+{"prompt":"1 1\/4 cups chopped fresh cranberries ->","completion":" cranberries\n"}
+{"prompt":"1 1\/2 teaspoons salt ->","completion":" salt\n"}
+{"prompt":"2 tablespoons plus 2 teaspoons baking powder ->","completion":" baking powder\n"}
+{"prompt":"2 tablespoons sugar ->","completion":" sugar\n"}
+{"prompt":"1\/2 cup yellow cornmeal ->","completion":" yellow cornmeal\n"}
+{"prompt":"2 cups flour ->","completion":" flour\n"}
+{"prompt":"4 large eggs ->","completion":" eggs\n"}
+{"prompt":"2 cups milk ->","completion":" milk\n"}
+{"prompt":"10 tablespoons butter, cut into chunks, plus more for greasing pan ->","completion":" butter\n"}
+{"prompt":"1\/2 tablespoon butter ->","completion":" butter\n"}
+{"prompt":"1\/2 cup heavy cream ->","completion":" heavy cream\n"}
+{"prompt":"2 teaspoons cream cheese ->","completion":" cream cheese\n"}
+{"prompt":"2 teaspoons cornstarch ->","completion":" cornstarch\n"}
+{"prompt":"2 cups apple cider ->","completion":" apple cider\n"}
+{"prompt":"3\/4 teaspoon pumpkin-pie spice ->","completion":" pumpkin-pie spice\n"}
+{"prompt":"1\/2 teaspoon salt ->","completion":" salt\n"}
+{"prompt":"1\/2 cup packed light brown sugar ->","completion":" light brown sugar\n"}
+{"prompt":"2 Granny Smith apples ->","completion":" Granny Smith apples\n"}
+{"prompt":"2 gala apples ->","completion":" gala apples\n"}
+{"prompt":"Chopped fresh parsley leaves for garnish ->","completion":" chopped fresh parsley leaves for garnish\n"}
+{"prompt":"1 lemon, thinly sliced ->","completion":" lemon, thinly sliced\n"}
+{"prompt":"Flour for dredging ->","completion":" flour for dredging\n"}
+{"prompt":"1 cup mixed good olives ->","completion":" mixed good olives\n"}
+{"prompt":"8 to 12 thin slices veal, preferably from the leg, pounded slightly until less than 1\/4-inch thick ->","completion":" veal, preferably from the leg, pounded slightly until less than 1\/4-inch thick\n"}
+{"prompt":"Salt and pepper ->","completion":" salt and pepper\n"}
+{"prompt":"2 cups chopped tomatoes (canned are fine; drain them first) ->","completion":" chopped tomatoes (canned are fine; drain them first)\n"}
+{"prompt":"1 teaspoon minced garlic ->","completion":" minced garlic\n"}
+{"prompt":"Extra virgin olive oil as needed ->","completion":" extra virgin olive oil as needed\n"}
+{"prompt":"Freshly grated Parmesan ->","completion":" Parmesan\n"}
+{"prompt":"1\/4 cup chopped fresh basil, optional ->","completion":" basil\n"}
+{"prompt":"1\/4 cup chopped fresh parsley ->","completion":" parsley\n"}
+{"prompt":"6 cups stock or water, more as necessary ->","completion":" stock\n"}
+{"prompt":"2 cups chopped tomatoes (canned are fine; do not drain) ->","completion":" tomatoes\n"}
+{"prompt":"1 cup dried white beans, soaked for several hours or overnight ->","completion":" white beans\n"}
+{"prompt":"1 cup farro, spelt or barley ->","completion":" farro\n"}
+{"prompt":"1 tablespoon minced garlic ->","completion":" garlic\n"}
+{"prompt":"Salt and pepper ->","completion":" Salt and pepper\n"}
+{"prompt":"2 carrots, peeled and chopped ->","completion":" carrots\n"}
+{"prompt":"2 celery stalks, trimmed and chopped ->","completion":" celery\n"}
+{"prompt":"1 large onion, sliced ->","completion":" onion\n"}
+{"prompt":"2 tablespoons extra virgin olive oil ->","completion":" olive oil\n"}
+{"prompt":"Chopped fresh parsley leaves for garnish ->","completion":" parsley leaves\n"}
+{"prompt":"Black pepper ->","completion":" Black pepper\n"}
+{"prompt":"1\/3 cup extra virgin olive oil ->","completion":" olive oil\n"}
+{"prompt":"2 pounds potatoes ->","completion":" potatoes\n"}
+{"prompt":"1 1\/2 to 2 pounds thick-cut cod, whiting, or hake fillets ->","completion":" cod\n"}
+{"prompt":"Coarse salt as needed ->","completion":" salt\n"}
+{"prompt":"1 teaspoon vanilla extract ->","completion":" vanilla extract\n"}
+{"prompt":"2 tablespoons unsalted butter, at room temperature and cut into 4 pieces ->","completion":" unsalted butter, at room temperature and cut into 4 pieces\n"}
+{"prompt":"5 ounces bittersweet chocolate, melted and still warm ->","completion":" bittersweet chocolate, melted and still warm\n"}
+{"prompt":"2 large egg yolks ->","completion":" large egg yolks\n"}
+{"prompt":"1 large egg ->","completion":" large egg\n"}
+{"prompt":"2 tablespoons cornstarch ->","completion":" cornstarch\n"}
+{"prompt":"2 tablespoons cocoa ->","completion":" cocoa\n"}
+{"prompt":"6 tablespoons sugar ->","completion":" sugar\n"}
+{"prompt":"2 1\/4 cups whole milk ->","completion":" whole milk\n"}
+{"prompt":"3 tablespoons slivered almonds ->","completion":" almonds\n"}
+{"prompt":"Pinch of salt ->","completion":" salt\n"}
+{"prompt":"1 1\/4 teaspoons vanilla extract ->","completion":" vanilla extract\n"}
+{"prompt":"7 egg whites ->","completion":" egg\n"}
+{"prompt":"10 tablespoons confectioners' sugar ->","completion":" confectioners' sugar\n"}
+{"prompt":"2\/3 cup heavy cream ->","completion":" heavy cream\n"}
+{"prompt":"4 1\/2 tablespoons flour, preferably cake flour ->","completion":" flour\n"}
+{"prompt":"About 2\/3 cup blanched almonds, finely ground ->","completion":" almonds\n"}
+{"prompt":"3\/4 cup granulated sugar ->","completion":" sugar\n"}
+{"prompt":"4 egg yolks ->","completion":" egg\n"}
+{"prompt":"1\/3 cup plus 1\/4 cup kirsch or dark rum ->","completion":" rum\n"}
+{"prompt":"2 16-ounce cans dark cherries, pitted ->","completion":" cherries\n"}
+{"prompt":"2 tablespoons chopped parsley ->","completion":" parsley\n"}
+{"prompt":"3 large cloves garlic, smashed ->","completion":" garlic\n"}
+{"prompt":"5 tablespoons tomato paste ->","completion":" tomato paste\n"}
+{"prompt":"6 cups chicken stock ->","completion":" chicken stock\n"}
+{"prompt":"1 cup sliced onion ->","completion":" onion\n"}
+{"prompt":"1 1\/2 pounds hot Italian or Spanish sausage ->","completion":" sausage\n"}
+{"prompt":"2 ducks, about 4 1\/2 pounds each ->","completion":" ducks\n"}
+{"prompt":"1 2 1\/2-pound chunk of slab bacon ->","completion":" slab bacon\n"}
+{"prompt":"Bouquet garni of 1 sprig thyme, 2 bay leaves, parsley stalks and 3 large cloves garlic ->","completion":" bouquet garni\n"}
+{"prompt":"4 medium carrots, peeled and sliced ->","completion":" carrots\n"}
+{"prompt":"1 onion, peeled and stuck with 2 cloves ->","completion":" onion\n"}
+{"prompt":"Rind from 1\/2 pound salt pork ->","completion":" salt pork\n"}
+{"prompt":"2 pounds (5 1\/2 cups) dry white beans (Great Northern) ->","completion":" beans\n"}
+{"prompt":"Pyrex cups or ramekins, buttered ->","completion":" Pyrex cups\n"}
+{"prompt":"8 scallop shells, Pyrex cups or ramekins, buttered ->","completion":" scallop shells\n"}
+{"prompt":"3 tablespoons fresh parsley, chopped ->","completion":" parsley\n"}
+{"prompt":"2\/3 cup stale bread crumbs, from good bread ->","completion":" bread crumbs\n"}
+{"prompt":"1 stick plus 2 tablespoons butter ->","completion":" butter\n"}
+{"prompt":"About 8 shallots, to yield 1 cup, minced ->","completion":" shallots\n"}
+{"prompt":"Black pepper, freshly ground ->","completion":" Black pepper\n"}
+{"prompt":"2 to 3 dozen scallops, to yield 1 pound ->","completion":" scallops\n"}
+{"prompt":"2 tablespoons unsalted butter ->","completion":" unsalted butter\n"}
+{"prompt":"2 to 3 teaspoons minced jalapeño ->","completion":" jalapeños\n"}
+{"prompt":"2 cups grated Monterey Jack ->","completion":" Monterey Jack\n"}
+{"prompt":"2\/3 cup corn oil ->","completion":" corn oil\n"}
+{"prompt":"2 cups buttermilk ->","completion":" buttermilk\n"}
+{"prompt":"1 teaspoon baking soda ->","completion":" baking soda\n"}
+{"prompt":"1 teaspoon salt ->","completion":" salt\n"}
+{"prompt":"4 lightly beaten eggs ->","completion":" eggs\n"}
+{"prompt":"2 cups stone-ground yellow cornmeal ->","completion":" cornmeal\n"}
+{"prompt":"2 8 1\/2-ounce cans, or 2 cups plus 2 tablespoons cream-style corn ->","completion":" cream-style corn\n"}
+{"prompt":"Creme fraiche for topping, optional ->","completion":" creme fraiche\n"}
+{"prompt":"4 tablespoons regular or low-fat sour cream ->","completion":" sour cream\n"}
+{"prompt":"1 tablespoon grated lime rind ->","completion":" lime rind\n"}
+{"prompt":"4 teaspoons lemon juice ->","completion":" lemon juice\n"}
+{"prompt":"Salt to taste ->","completion":" Salt\n"}
+{"prompt":"1\/4 teaspoon ground cloves or to taste ->","completion":" cloves\n"}
+{"prompt":"1 1\/4 teaspoon ground cardamom ->","completion":" cardamom\n"}
+{"prompt":"3 tablespoons maple syrup ->","completion":" maple syrup\n"}
+{"prompt":"3 eggs ->","completion":" eggs\n"}
+{"prompt":"3 pounds sweet potatoes ->","completion":" sweet potatoes\n"}
+{"prompt":"1 cup good quality chicken stock (approximately) ->","completion":" chicken stock\n"}
+{"prompt":"2 lightly beaten eggs ->","completion":" eggs\n"}
+{"prompt":"Salt and freshly ground black pepper to taste ->","completion":" Salt and black pepper\n"}
+{"prompt":"1 cup finely minced celery ->","completion":" celery\n"}
+{"prompt":"1 1\/2 cups green bell peppers ->","completion":" green bell peppers\n"}
+{"prompt":"2 large cloves garlic, minced ->","completion":" garlic\n"}
+{"prompt":"2 cups finely chopped onion ->","completion":" onion\n"}
+{"prompt":"2 hard-cooked eggs, chopped ->","completion":" eggs\n"}
+{"prompt":"5 cups toasted bread cubes ->","completion":" bread cubes\n"}
+{"prompt":"5 cups corn bread cubes ->","completion":" corn bread cubes\n"}
+{"prompt":"2\/3 cup coarsely chopped pecans ->","completion":" pecans\n"}
+{"prompt":"6 tablespoons Grand Marnier ->","completion":" Grand Marnier\n"}
+{"prompt":"1\/4 cup orange juice ->","completion":" orange juice\n"}
+{"prompt":"1\/2 to 3\/4 cup sugar ->","completion":" sugar\n"}
+{"prompt":"1 pound fresh cranberries ->","completion":" cranberries\n"}
+{"prompt":"2 tablespoons coarse sugar like Demerara or turbinado (optional) ->","completion":" sugar\n"}
+{"prompt":"2 sheets frozen puff pastry, thawed overnight in refrigerator ->","completion":" puff pastry\n"}
+{"prompt":"1\/8 teaspoon salt ->","completion":" salt\n"}
+{"prompt":"Flour for rolling out pastry ->","completion":" Flour\n"}
+{"prompt":"1 tablespoon fresh lemon juice ->","completion":" lemon juice\n"}
+{"prompt":"1 cup peeled and grated tart apple, like Granny Smith (about 2 apples) ->","completion":" tart apple\n"}
+{"prompt":"1\/2 teaspoon ground cinnamon ->","completion":" cinnamon\n"}
+{"prompt":"6 tablespoons granulated sugar ->","completion":" sugar\n"}
+{"prompt":"1 tablespoon finely chopped crystallized ginger ->","completion":" crystallized ginger\n"}
+{"prompt":"2\/3 cup crumbled amaretti cookies ->","completion":" amaretti cookies\n"}
+{"prompt":"1\/8 teaspoon ground nutmeg, optional ->","completion":" nutmeg\n"}
+{"prompt":"1\/4 teaspoon ground cinnamon, optional ->","completion":" cinnamon\n"}
+{"prompt":"1\/3 cup granulated sugar ->","completion":" sugar\n"}
+{"prompt":"8 egg yolks ->","completion":" egg\n"}
+{"prompt":"1 vanilla bean, split lengthwise ->","completion":" vanilla bean\n"}
+{"prompt":"3 cups heavy cream ->","completion":" heavy cream\n"}
+{"prompt":"1 cup canned pumpkin puree ->","completion":" pumpkin puree\n"}
+{"prompt":"Freshly ground white pepper ->","completion":" white pepper\n"}
+{"prompt":"1\/4 teaspoon ground cloves ->","completion":" cloves\n"}
+{"prompt":"1\/4 teaspoon ground allspice ->","completion":" allspice\n"}
+{"prompt":"1\/4 cup red wine vinegar ->","completion":" red wine vinegar\n"}
+{"prompt":"1\/2 cup maple syrup ->","completion":" maple syrup\n"}
+{"prompt":"1 cup heavy cream ->","completion":" heavy cream\n"}
+{"prompt":"1 celery root, about 1 1\/2 pounds, peeled and cut in chunks ->","completion":" celery root\n"}
+{"prompt":"Sesame oil for drizzling, optional ->","completion":" Sesame oil\n"}
+{"prompt":"1\/2 cup roasted peanuts, optional ->","completion":" peanuts\n"}
+{"prompt":"1\/4 cup minced scallions ->","completion":" scallions\n"}
+{"prompt":"1\/4 cup crispy cooked bacon, minced, optional ->","completion":" bacon\n"}
+{"prompt":"Soy sauce or salt to taste ->","completion":" Soy sauce\n"}
+{"prompt":"1\/4 pound slab bacon, optional ->","completion":" slab bacon\n"}
+{"prompt":"1 3-inch piece of ginger, peeled and roughly chopped ->","completion":" ginger\n"}
+{"prompt":"1 cup short-grain rice ->","completion":" short-grain rice\n"}
+{"prompt":"2 cups chicken stock, preferably homemade, or water ->","completion":" chicken stock\n"}
+{"prompt":"3 tablespoons extra-virgin olive oil ->","completion":" olive oil\n"}
+{"prompt":"1 tablespoon chili powder ->","completion":" chili powder\n"}
+{"prompt":"6 cups cooked pinto or kidney beans, or a mixture ->","completion":" beans\n"}
+{"prompt":"1\/2 cup fresh lime juice ->","completion":" lime juice\n"}
+{"prompt":"3 ripe Haas avocados ->","completion":" Haas avocados\n"}
+{"prompt":"1 fresh jalapeno pepper, seeded and minced ->","completion":" jalapeno pepper\n"}
+{"prompt":"2 medium-size cucumbers, peeled and seeded ->","completion":" cucumbers\n"}
+{"prompt":"1 large red bell pepper, cored and seeded ->","completion":" red bell pepper\n"}
+{"prompt":"2 medium-size red onions ->","completion":" red onions\n"}
+{"prompt":"3 pints cherry tomatoes ->","completion":" cherry tomatoes\n"}
+{"prompt":"Salt and freshly ground black pepper ->","completion":" Salt and black pepper\n"}
+{"prompt":"1\/2 cup dry red wine ->","completion":" dry red wine\n"}
+{"prompt":"3 tablespoons concentrated duck or veal stock (glace de viande) ->","completion":" stock\n"}
+{"prompt":"3 tablespoons reserved marinade (see note) ->","completion":" marinade\n"}
+{"prompt":"1 tablespoon finely minced fresh ginger ->","completion":" ginger\n"}
+{"prompt":"2 shallots, finely minced ->","completion":" shallots\n"}
+{"prompt":"2 tablespoons fat from cooking duck breasts ->","completion":" fat\n"}
+{"prompt":"3 tablespoons light soy sauce ->","completion":" soy sauce\n"}
+{"prompt":"2 tablespoons honey ->","completion":" honey\n"}
+{"prompt":"1 tablespoon Chinese five-spice powder ->","completion":" Chinese five-spice powder\n"}
+{"prompt":"3 moulard duck breasts (magret de canard) ->","completion":" duck breasts\n"}
+{"prompt":"4 tablespoons chives, cut into 1-inch-long pieces ->","completion":" chives\n"}
+{"prompt":"4 tablespoons shaved parmesan cheese ->","completion":" Parmesan cheese\n"}
+{"prompt":"3\/4 cup grated parmesan cheese ->","completion":" Parmesan cheese\n"}
+{"prompt":"1 pound parmesan cheese, chopped ->","completion":" Parmesan cheese\n"}
+{"prompt":"8 cups chicken broth ->","completion":" chicken broth\n"}
+{"prompt":"1 cup diced Spanish onion ->","completion":" onion\n"}
+{"prompt":"2 tablespoons butter ->","completion":" butter\n"}
+{"prompt":"2 teaspoons salt ->","completion":" salt\n"}
+{"prompt":"5 cups peeled and diced eggplant ->","completion":" eggplant\n"}
+{"prompt":"Orange zest, for garnish (optional) ->","completion":" Orange\n"}
+{"prompt":" ->","completion":" gingersnap cookies\n"}
+{"prompt":"Agave syrup (or honey) and finely crumbled gingersnap cookies, for rimming the glass ->","completion":" Agave syrup\n"}
+{"prompt":"Dash of lemon juice ->","completion":" lemon juice\n"}
+{"prompt":"2 1\/2 ounces apple cider ->","completion":" apple cider\n"}
+{"prompt":"1 ounce vanilla vodka ->","completion":" vanilla vodka\n"}
+{"prompt":"2 ounces Domaine de Canton ginger and cognac liqueur ->","completion":" Domaine de Canton ginger\n"}
+{"prompt":"Salt and freshly ground pepper ->","completion":" Salt and pepper\n"}
+{"prompt":"1 tablespoon chopped fresh oregano or 1 teaspoon dried ->","completion":" oregano\n"}
+{"prompt":"1 tablespoon chopped fresh basil or 1 teaspoon dried ->","completion":" basil\n"}
+{"prompt":"1 6-ounce can tomato paste ->","completion":" tomato paste\n"}
+{"prompt":"28 ounces no-salt-added whole tomatoes ->","completion":" tomatoes\n"}
+{"prompt":"1 pound mushrooms, chopped ->","completion":" mushrooms\n"}
+{"prompt":"1\/2 cup chopped carrots ->","completion":" carrots\n"}
+{"prompt":"2 large cloves of garlic, minced ->","completion":" garlic\n"}
+{"prompt":"3\/4 pound chopped onion ->","completion":" onion\n"}
+{"prompt":"1 tablespoon olive oil ->","completion":" olive oil\n"}
+{"prompt":"1 pound extra-lean ground beef ->","completion":" beef\n"}
+{"prompt":"Olive oil for grilling ->","completion":" Olive oil\n"}
+{"prompt":"6 swordfish steaks, 1-inch-thick ->","completion":" swordfish\n"}
+{"prompt":"8 anchovy fillets, dried on paper towels ->","completion":" anchovy\n"}
+{"prompt":"1\/3 cup chopped cornichons ->","completion":" cornichons\n"}
+{"prompt":"1 cup diced red onion ->","completion":" onion\n"}
+{"prompt":"2 tablespoons capers ->","completion":" capers\n"}
+{"prompt":"1 tablespoon Dijon mustard ->","completion":" Dijon mustard\n"}
+{"prompt":"Grated rind from 2 lemons ->","completion":" lemons\n"}
+{"prompt":"3\/4 cup extra virgin olive oil ->","completion":" olive oil\n"}
+{"prompt":"1 1\/2 large bunches flat-leaf parsley ->","completion":" parsley\n"}
+{"prompt":"Sea salt and freshly ground black pepper ->","completion":" Sea salt and black pepper\n"}
+{"prompt":"30 or more basil leaves ->","completion":" basil leaves\n"}
+{"prompt":"6 cups chicken or vegetable stock ->","completion":" stock\n"}
+{"prompt":"8 ounces stale Italian or sourdough bread, torn into 1-inch pieces ->","completion":" stale bread\n"}
+{"prompt":"1 2-pound-3-ounce can best-quality Italian tomatoes ->","completion":" tomatoes\n"}
+{"prompt":"4 large cloves garlic, crushed ->","completion":" garlic\n"}
+{"prompt":"4 tablespoons extra virgin olive oil, plus additional oil for topping (optional) ->","completion":" olive oil\n"}
+{"prompt":"2 tablespoons fresh coriander leaves plus 4 coriander sprigs ->","completion":" fresh coriander leaves\n"}
+{"prompt":"2 jalapeno or serrano chilies, seeded and minced ->","completion":" jalapeno or serrano chilies, seeded and minced\n"}
+{"prompt":"1 small red onion, finely diced ->","completion":" small red onion, finely diced\n"}
+{"prompt":"4 tablespoons lime juice ->","completion":" lime juice\n"}
+{"prompt":"3 small ripe avocados, skinned and pitted ->","completion":" avocados\n"}
+{"prompt":"1\/2 cup coarsely grated Parmigiano-Reggiano ->","completion":" Parmigiano-Reggiano, coarsely grated\n"}
+{"prompt":"4 tablespoons unsalted butter ->","completion":" unsalted butter\n"}
+{"prompt":"1 1\/2 cups instant polenta ->","completion":" polenta, instant\n"}
+{"prompt":"1 tablespoon sesame paste (tahini) ->","completion":" sesame paste\n"}
+{"prompt":"2 garlic cloves, peeled and crushed ->","completion":" garlic\n"}
+{"prompt":"1 1\/2 teaspoons ground cumin ->","completion":" ground cumin\n"}
+{"prompt":"Salt and freshly ground black pepper ->","completion":" salt and freshly ground black pepper\n"}
+{"prompt":"Juice of 1 large lemon ->","completion":" juice of 1 lemon\n"}
+{"prompt":"1 cup extra-virgin olive oil ->","completion":" extra-virgin olive oil\n"}
+{"prompt":"2 1 1\/2-pound eggplants, peeled and diced ->","completion":" eggplants (1 1\/2-pound each)\n"}
+{"prompt":"1 tablespoon, plus 1 teaspoon, confectioners' sugar ->","completion":" confectioners' sugar\n"}
+{"prompt":"2 medium egg yolks ->","completion":" egg\n"}
+{"prompt":"6 tablespoons whole milk ->","completion":" milk\n"}
+{"prompt":"4 1\/2 ounces bittersweet chocolate, chopped ->","completion":" chocolate\n"}
+{"prompt":"Half a vanilla bean, split lengthwise, seeds scraped ->","completion":" vanilla bean\n"}
+{"prompt":"3\/4 cup heavy cream ->","completion":" heavy cream\n"}
+{"prompt":"1 small bunch of watercress, to garnish (optional) ->","completion":" watercress\n"}
+{"prompt":"Salt, as needed ->","completion":" Salt\n"}
+{"prompt":"1 2\/3 cups white wine ->","completion":" white wine\n"}
+{"prompt":"6 tablespoons butter, softened ->","completion":" butter\n"}
+{"prompt":"1 bunch rosemary ->","completion":" rosemary\n"}
+{"prompt":"20 anchovy fillets in oil, drained ->","completion":" anchovy\n"}
+{"prompt":"4 large garlic cloves, peeled and sliced lengthwise into thirds ->","completion":" garlic\n"}
+{"prompt":"1 4-pound bone-in leg of lamb ->","completion":" leg of lamb\n"}
+{"prompt":"Splash of Champagne (optional) ->","completion":" Splash of Champagne\n"}
+{"prompt":"6 tablespoons chopped mint plus 6 sprigs mint for serving ->","completion":" mint\n"}
+{"prompt":"6 cups freshly squeezed tangerine juice ->","completion":" tangerine juice\n"}
+{"prompt":"4 dried figs, quartered ->","completion":" figs\n"}
+{"prompt":"8 dried Turkish apricots, cut in half ->","completion":" Turkish apricots\n"}
+{"prompt":"1 firm tart apple ->","completion":" apple\n"}
+{"prompt":"3 firm Bosc pears ->","completion":" Bosc pears\n"}
+{"prompt":"2 2-inch long pieces lemon zest (peeled with a vegetable peeler), preferably Meyer lemons ->","completion":" lemon zest\n"}
+{"prompt":"3 star anise ->","completion":" star anise\n"}
+{"prompt":"1 plump vanilla bean, split in half lengthwise ->","completion":" vanilla bean\n"}
+{"prompt":"1 1\/4 cup sugar ->","completion":" sugar\n"}
+{"prompt":"1\/4 cup coarsely chopped toasted almonds ->","completion":" almonds\n"}
+{"prompt":"1\/4 teaspoon almond extract ->","completion":" almond extract\n"}
+{"prompt":"1 cup milk ->","completion":" milk\n"}
+{"prompt":"1\/4 cup mascarpone cheese ->","completion":" mascarpone cheese\n"}
+{"prompt":"1 tablespoon peeled and minced ginger ->","completion":" ginger\n"}
+{"prompt":"1\/2 cup minced cilantro leaves, plus more for garnish ->","completion":" cilantro leaves\n"}
+{"prompt":"1 fresh or dried hot red chile, minced, or 1\/4 teaspoon cayenne, or to taste ->","completion":" red chilies\n"}
+{"prompt":"Freshly ground black pepper to taste ->","completion":" black pepper\n"}
+{"prompt":"2 tablespoons peanut or other oil ->","completion":" oil\n"}
+{"prompt":"Lime wedges ->","completion":" Lime wedges\n"}
+{"prompt":"3\/4 cup plus 2 tablespoons sugar ->","completion":" sugar\n"}
+{"prompt":"8 eggs ->","completion":" eggs\n"}
+{"prompt":"12 to 15 slices brioche or challah bread (all should be about 1\/2-inch thick and about 3 inches round; cut accordingly) ->","completion":" brioche or challah bread\n"}
+{"prompt":"1 1\/2 pounds fillet of cod or other mild, delicate white fish ->","completion":" cod\n"}
+{"prompt":"1 baking potato weighing about 1\/2 pound ->","completion":" potato\n"}
+{"prompt":"Plain yogurt for serving ->","completion":" yogurt\n"}
+{"prompt":"3\/4 cup diced mango for serving ->","completion":" mango\n"}
+{"prompt":"3\/4 cup diced pineapple or sliced strawberries for serving ->","completion":" pineapple\n"}
+{"prompt":"2 tablespoons pomegranate seeds ->","completion":" pomegranate seeds\n"}
+{"prompt":"2 star fruits ->","completion":" fruits\n"}
+{"prompt":"2 bananas, peeled and sliced ->","completion":" bananas\n"}
+{"prompt":"2 cups pure pomegranate juice (see note) ->","completion":" pomegranate juice\n"}
+{"prompt":"9 sheets (3\/4 ounce) leaf gelatin (see note) ->","completion":" leaf gelatin\n"}
+{"prompt":"1 3\/4 ounces (about 1 1\/4 cups) dried hibiscus flowers (see note) ->","completion":" hibiscus flowers\n"}
+{"prompt":"1 1\/4 cups sugar ->","completion":" sugar\n"}
+{"prompt":"2 cups bottled water ->","completion":" water\n"}
+{"prompt":"3 tablespoons confectioners' sugar ->","completion":" confectioners' sugar\n"}
+{"prompt":"2 tablespoons Grand Marnier ->","completion":" Grand Marnier\n"}
+{"prompt":"1 1\/2 cups blueberries ->","completion":" blueberries\n"}
+{"prompt":"Creme chantilly ->","completion":" Creme chantilly\n"}
+{"prompt":"4 tablespoons melted butter for brushing ->","completion":" butter\n"}
+{"prompt":"2 teaspoons vanilla extract ->","completion":" vanilla extract\n"}
+{"prompt":"4 tablespoons sweet butter, melted ->","completion":" butter\n"}
+{"prompt":"1\/2 cup cold water ->","completion":" water\n"}
+{"prompt":"2 cups low-fat milk ->","completion":" milk\n"}
+{"prompt":"4 eggs ->","completion":" eggs\n"}
+{"prompt":"2 cups fresh raspberries or strawberries ->","completion":" raspberries\n"}
+{"prompt":"2 tablespoons Cognac ->","completion":" Cognac\n"}
+{"prompt":"28 to 32 store-bought ladyfingers ->","completion":" ladyfingers\n"}
+{"prompt":"1\/2 cup chopped marron glace (French candied chestnuts), see note ->","completion":" marron glace\n"}
+{"prompt":"1\/4 cup warm water ->","completion":" water\n"}
+{"prompt":"2 1\/4-ounce packages unflavored gelatin ->","completion":" unflavored gelatin\n"}
+{"prompt":"1 cup creme de marron (French chestnut puree), see note ->","completion":" creme de marron\n"}
+{"prompt":"1 vanilla bean, split in half ->","completion":" vanilla bean\n"}
+{"prompt":"10 egg yolks ->","completion":" egg\n"}
+{"prompt":"3 cups milk ->","completion":" milk\n"}
+{"prompt":"12 to 16 ladyfingers, store-bought ->","completion":" ladyfingers\n"}
+{"prompt":"1 can (16 ounces) pears in syrup ->","completion":" pears\n"}
+{"prompt":"2 tablespoons dark rum ->","completion":" rum\n"}
+{"prompt":"Powdered sugar ->","completion":" powdered sugar\n"}
+{"prompt":"2 tablespoons water ->","completion":" water\n"}
+{"prompt":"1\/2 teaspoon vanilla extract ->","completion":" vanilla extract\n"}
+{"prompt":"1 1\/4-ounce package, plus 1 teaspoon, unflavored gelatin ->","completion":" unflavored gelatin\n"}
+{"prompt":"1 1\/2 cup milk ->","completion":" milk\n"}
+{"prompt":"3\/4 cup sugar ->","completion":" sugar\n"}
+{"prompt":"5 egg yolks ->","completion":" egg\n"}
+{"prompt":"Coarse salt and freshly ground pepper to taste ->","completion":" salt and pepper\n"}
+{"prompt":"1 to 2 cups chicken stock, preferably homemade ->","completion":" chicken stock\n"}
+{"prompt":"1 pound chestnuts, peeled ->","completion":" chestnuts\n"}
+{"prompt":"2 pounds brussels sprouts ->","completion":" brussels sprouts\n"}
+{"prompt":"1 lemon, halved ->","completion":" lemon\n"}
+{"prompt":"1 8- to 10-pound goose ->","completion":" goose\n"}
+{"prompt":"1 cup white bread crumbs ->","completion":" white bread crumbs\n"}
+{"prompt":"1 pound cooking apples, peeled, cored and chopped ->","completion":" cooking apples\n"}
+{"prompt":"Dash sage ->","completion":" sage\n"}
+{"prompt":"1\/4 teaspoon thyme ->","completion":" thyme\n"}
+{"prompt":"4 tablespoons parsley, chopped ->","completion":" parsley\n"}
+{"prompt":"6 stalks celery, chopped ->","completion":" celery\n"}
+{"prompt":"2 cloves garlic, minced ->","completion":" garlic\n"}
+{"prompt":"1 medium onion, chopped ->","completion":" onion\n"}
+{"prompt":"1 cup port or madeira ->","completion":" port\n"}
+{"prompt":"1 pound prunes, pitted ->","completion":" prunes\n"}
+{"prompt":"Lemon juice to taste ->","completion":" Lemon juice\n"}
+{"prompt":"Coarse salt to taste ->","completion":" salt\n"}
+{"prompt":"1\/2 teaspoon powdered ginger ->","completion":" ginger\n"}
+{"prompt":"Cayenne pepper to taste ->","completion":" Cayenne pepper\n"}
+{"prompt":"Dash freshly grated nutmeg ->","completion":" nutmeg\n"}
+{"prompt":"1 teaspoon ground mace ->","completion":" mace\n"}
+{"prompt":"1 clove garlic, crushed ->","completion":" garlic\n"}
+{"prompt":"1 pound small shrimp, shelled ->","completion":" shrimp\n"}
+{"prompt":"1\/2 pound unsalted butter ->","completion":" unsalted butter\n"}
+{"prompt":"1 medium-size red onion, about 1\/2 pound, cut into thin rings ->","completion":" onion\n"}
+{"prompt":"2 medium-size tomatoes, about 3\/4 pound, cored and cut into small wedges ->","completion":" tomatoes\n"}
+{"prompt":"1 whole cucumber, about 1\/2 pound, peeled and cut into thin rounds ->","completion":" cucumber\n"}
+{"prompt":"1 cup coarsely chopped, trimmed scallions, green part and all ->","completion":" scallions\n"}
+{"prompt":"8 cups reasonably packed romaine lettuce leaves broken into fairly large, bite-size pieces ->","completion":" lettuce leaves\n"}
+{"prompt":"1\/2 teaspoon dried hot red-pepper flakes ->","completion":" red-pepper flakes\n"}
+{"prompt":"8 sprigs fresh coriander with stems and leaves ->","completion":" coriander\n"}
+{"prompt":"1 tablespoon finely minced garlic ->","completion":" garlic\n"}
+{"prompt":"1\/2 cup fish sauce ->","completion":" fish sauce\n"}
+{"prompt":"1 cup freshly squeezed lime juice ->","completion":" lime juice\n"}
+{"prompt":"2 tablespoons corn, peanut or vegetable oil ->","completion":" oil\n"}
+{"prompt":"1\/2 pound lean, tender beef, preferably fillet of beef ->","completion":" beef\n"}
+{"prompt":"2 pounds pears (or apples), peeled, cored and sliced ->","completion":" pears\n"}
+{"prompt":"1 tablespoon vinegar (sherry, Champagne or white wine vinegar) ->","completion":" vinegar\n"}
+{"prompt":"2 cups not-too-dry white wine, like gewürztraminer or riesling ->","completion":" not-too-dry dry white wine\n"}
+{"prompt":"1\/2 pound dried pears or apples ->","completion":" dried pears or apples\n"}
+{"prompt":"A few thyme sprigs ->","completion":" thyme\n"}
+{"prompt":"2 large onions, roughly chopped ->","completion":" large onions\n"}
+{"prompt":"1\/2 cup diced bacon or pancetta, optional ->","completion":" diced bacon or pancetta\n"}
+{"prompt":"Salt and freshly ground pepper ->","completion":" salt and freshly ground pepper\n"}
+{"prompt":"1 goose, cut into serving pieces, excess fat removed ->","completion":" goose\n"}
+{"prompt":"8 tablespoons unsalted butter ->","completion":" unsalted butter\n"}
+{"prompt":"1\/8 teaspoon vanilla extract ->","completion":" vanilla extract\n"}
+{"prompt":"1\/2 cup milk ->","completion":" milk\n"}
+{"prompt":"1\/2 cup all-purpose flour ->","completion":" all-purpose flour\n"}
+{"prompt":"3 large eggs ->","completion":" eggs\n"}
+{"prompt":"Scant 1\/2 cup sugar plus 1 1\/2 tablespoons sugar ->","completion":" sugar\n"}
+{"prompt":"1 large Granny Smith apple ->","completion":" Granny Smith apple\n"}
+{"prompt":"1 teaspoon garam masala (optional) ->","completion":" garam masala\n"}
+{"prompt":"2 pinches cayenne ->","completion":" cayenne\n"}
+{"prompt":"2 tablespoons lemon juice ->","completion":" lemon juice\n"}
+{"prompt":"2 onions, halved and thinly sliced crosswise ->","completion":" onions\n"}
+{"prompt":"2 teaspoons sesame seeds ->","completion":" sesame seeds\n"}
+{"prompt":"1 tablespoon cumin or caraway seeds ->","completion":" seeds\n"}
+{"prompt":"6 tablespoons vegetable oil ->","completion":" vegetable oil\n"}
+{"prompt":"1 large head green cabbage ->","completion":" cabbage\n"}
+{"prompt":"2 cloves garlic, crushed ->","completion":" garlic\n"}
+{"prompt":"1\/4 cup olive oil ->","completion":" olive oil\n"}
+{"prompt":"4 pounds chard, red or green ->","completion":" chard\n"}
+{"prompt":"2 teaspoons black or mixed peppercorns, bruised; more for garnish ->","completion":" peppercorns\n"}
+{"prompt":"1 tablespoon sugar ->","completion":" sugar\n"}
+{"prompt":"1\/2 teaspoon red pepper flakes ->","completion":" red pepper flakes\n"}
+{"prompt":"4 thyme sprigs ->","completion":" thyme\n"}
+{"prompt":"1 1\/2 cups white wine vinegar ->","completion":" white wine vinegar\n"}
+{"prompt":"2 large red onions, peeled and sliced into thick rings, rings separated ->","completion":" onions\n"}
+{"prompt":"2 teaspoons fresh thyme leaves, plus more for garnish ->","completion":" thyme leaves\n"}
+{"prompt":"2 shallots, diced ->","completion":" shallots\n"}
+{"prompt":"3 tablespoons butter ->","completion":" butter\n"}
+{"prompt":"40 radishes (green tops optional) ->","completion":" radishes\n"}
+{"prompt":"4 medium-size garlic cloves, minced ->","completion":" garlic\n"}
+{"prompt":"1\/4 cup minced fresh ginger (about 6 inches ginger root, peeled) ->","completion":" ginger\n"}
+{"prompt":"4 tablespoons vegetable oil ->","completion":" vegetable oil\n"}
+{"prompt":"2 1\/2 pounds string beans (French-style slim haricots verts work especially well), trimmed ->","completion":" string beans\n"}
+{"prompt":"Salt and pepper to taste ->","completion":" Salt and pepper\n"}
+{"prompt":"1\/4 cup dry white wine or vermouth ->","completion":" dry white wine\n"}
+{"prompt":"2 tablespoons black mustard seeds, cumin seeds, or poppy seeds ->","completion":" seeds\n"}
+{"prompt":"3 garlic cloves, minced ->","completion":" garlic\n"}
+{"prompt":"2 tablespoons olive oil ->","completion":" olive oil\n"}
+{"prompt":"2 to 3 pounds brussels sprouts ->","completion":" brussels sprouts\n"}
+{"prompt":"Grated zest of 1 lemon ->","completion":" lemon\n"}
+{"prompt":"2 tablespoons freshly squeezed lemon juice, more to taste ->","completion":" lemon juice\n"}
+{"prompt":"Flour for dredging ->","completion":" Flour\n"}
+{"prompt":"2 tablespoons unsalted butter  ->","completion":" butter\n"}
+{"prompt":"1 clove garlic, minced  ->","completion":" garlic\n"}
+{"prompt":"1\/2 pound chanterelles ->","completion":" chanterelles\n"}
+{"prompt":"3 tablespoons creme fraiche ->","completion":" creme fraiche\n"}
+{"prompt":"2 tablespoons fresh tarragon (if available) ->","completion":" tarragon\n"}
+{"prompt":"1 medium-size orange, peeled and sectioned ->","completion":" orange\n"}
+{"prompt":"1\/3 cup chopped red onion ->","completion":" onion\n"}
+{"prompt":"Salt and freshly ground pepper to taste ->","completion":" Salt and pepper\n"}
+{"prompt":"2 tablespoons red-wine vinegar ->","completion":" red-wine vinegar\n"}
+{"prompt":"1\/3 cup olive or vegetable or corn oil ->","completion":" oil\n"}
+{"prompt":"2 teaspoons Dijon-style mustard ->","completion":" Dijon-style mustard\n"}
+{"prompt":"2 endives ->","completion":" endives\n"}
+{"prompt":"4 tablespoons grated Parmesan or pecorino cheese ->","completion":" cheese\n"}
+{"prompt":"1 bunch watercress, washed and drained ->","completion":" watercress\n"}
+{"prompt":"4 tablespoons coarsely chopped Italian parsley ->","completion":" parsley\n"}
+{"prompt":"1\/8 teaspoon red hot pepper flakes, optional ->","completion":" red hot pepper flakes\n"}
+{"prompt":"2 teaspoons chopped fresh oregano or 1 teaspoon dried ->","completion":" oregano\n"}
+{"prompt":"2 teaspoons chopped fresh rosemary or 1 teaspoon dried ->","completion":" rosemary\n"}
+{"prompt":"3 red ripe tomatoes, about 1 pound, peeled and cut into 1\/2-inch cubes ->","completion":" tomatoes\n"}
+{"prompt":"1 tablespoon finely chopped garlic ->","completion":" garlic\n"}
+{"prompt":"Freshly ground pepper to taste ->","completion":" pepper\n"}
+{"prompt":"3\/4 pound cut ziti ->","completion":" ziti\n"}
+{"prompt":"1 bunch broccoli, about 1 1\/4 pounds ->","completion":" broccoli\n"}
+{"prompt":"2 skinless boneless chicken breasts, about 1 pound ->","completion":" chicken breasts\n"}
+{"prompt":"2 tablespoons Parmesan cheese ->","completion":" Parmesan cheese\n"}
+{"prompt":"1\/2 teaspoon freshly ground black pepper ->","completion":" black pepper\n"}
+{"prompt":"3\/4 teaspoon salt ->","completion":" salt\n"}
+{"prompt":"1 tablespoon unsalted butter ->","completion":" unsalted butter\n"}
+{"prompt":"1 butternut squash (about 3 pounds) ->","completion":" butternut squash\n"}
+{"prompt":"1 1\/2 tablespoons unsalted butter ->","completion":" unsalted butter\n"}
+{"prompt":"2 ounces (1 can) flat anchovy fillets ->","completion":" anchovy\n"}
+{"prompt":"1 whole (double) turkey breast (see note), including the wings, about 5 pounds; or 6 boneless turkey steaks; or 2 to 2 1\/4 pounds of other turkey meat ->","completion":" turkey breast\n"}
+{"prompt":"1\/3 cup salted pistachio nuts, coarsely ground ->","completion":" pistachio nuts\n"}
+{"prompt":"Sea salt ->","completion":" Sea salt\n"}
+{"prompt":"1\/3 cup chopped mint ->","completion":" mint\n"}
+{"prompt":"1\/2 cup finely sliced celery hearts, with leaves ->","completion":" celery\n"}
+{"prompt":"1 teaspoon toasted and ground cumin seeds ->","completion":" cumin seeds\n"}
+{"prompt":"1 teaspoon toasted and ground coriander seeds ->","completion":" coriander seeds\n"}
+{"prompt":"1\/2 cup grated Pecorino Romano, preferably Fulvi ->","completion":" Pecorino Romano\n"}
+{"prompt":"1 tablespoon lemon juice ->","completion":" lemon juice\n"}
+{"prompt":"1\/2 cup goat cheese (ché,vre), (4 ounces), softened ->","completion":" goat cheese\n"}
+{"prompt":"1 cup cream cheese (8 ounces), softened ->","completion":" cream cheese\n"}
+{"prompt":"1 nutmeg ->","completion":" nutmeg\n"}
+{"prompt":"Pinch sea salt ->","completion":" sea salt\n"}
+{"prompt":"6 fresh egg whites ->","completion":" egg\n"}
+{"prompt":"1 cup cream ->","completion":" cream\n"}
+{"prompt":"1 1\/2 cups milk ->","completion":" milk\n"}
+{"prompt":"2 cups good quality bourbon ->","completion":" bourbon\n"}
+{"prompt":"6 fresh egg yolks ->","completion":" egg\n"}
+{"prompt":"1 cup confectioners' sugar ->","completion":" confectioners' sugar\n"}
+{"prompt":"1\/3 cup Armagnac, bourbon or whiskey ->","completion":" Armagnac\n"}
+{"prompt":"White corn syrup ->","completion":" White corn syrup\n"}
+{"prompt":"2 cups shelled walnuts ->","completion":" walnuts\n"}
+{"prompt":"2 1\/2 cups shelled pecans ->","completion":" pecans\n"}
+{"prompt":"1 cup shelled almonds ->","completion":" almonds\n"}
+{"prompt":"2 cups shelled salted pistachios ->","completion":" pistachios\n"}
+{"prompt":"2 teaspoons almond extract ->","completion":" almond extract\n"}
+{"prompt":"1 cup granulated sugar ->","completion":" sugar\n"}
+{"prompt":"1\/2 teaspoon kosher salt ->","completion":" salt\n"}
+{"prompt":"2 teaspoons double acting baking powder ->","completion":" baking powder\n"}
+{"prompt":"2 cups sifted all-purpose flour ->","completion":" all-purpose flour\n"}
+{"prompt":"1 cup chopped candied orange peel, or 1\/4 cup freshly grated orange zest ->","completion":" orange peel\n"}
+{"prompt":"1 pound candied cherries ->","completion":" cherries\n"}
+{"prompt":"1 pound candied pineapple ->","completion":" pineapple\n"}
+{"prompt":"1\/2 pound prunes from Agen or use more dates ->","completion":" prunes\n"}
+{"prompt":"Butter for pans ->","completion":" Butter\n"}
+{"prompt":"1 pound pitted Medjool dates ->","completion":" Medjool dates\n"}
+{"prompt":"Grated zest from 2 lemons, preferably Meyer; cut lemons into large wedges ->","completion":" lemons\n"}
+{"prompt":"4 ounces butter, softened ->","completion":" butter\n"}
+{"prompt":"3 dozen unshucked oysters, scrubbed ->","completion":" oysters\n"}
+{"prompt":"1 cup all-purpose flour ->","completion":" all-purpose flour\n"}
+{"prompt":"1 teaspoon cinnamon ->","completion":" cinnamon\n"}
+{"prompt":"1\/2 cup or 1 stick butter ->","completion":" butter\n"}
+{"prompt":"1\/2 cup plus 1 tablespoon sugar ->","completion":" sugar\n"}
+{"prompt":"Corn, grapeseed, canola or other neutral oil for frying ->","completion":" corn oil for frying\n"}
+{"prompt":"1 tablespoon butter ->","completion":" butter\n"}
+{"prompt":"2 eggs plus 2 egg yolks ->","completion":" eggs\n"}
+{"prompt":"3\/4 cup low-fat milk ->","completion":" milk\n"}
+{"prompt":"1 teaspoon fresh thyme leaves ->","completion":" thyme\n"}
+{"prompt":"2 stalks celery, coarsely chopped ->","completion":" celery\n"}
+{"prompt":"2 carrots, peeled, coarsely chopped ->","completion":" carrots\n"}
+{"prompt":"1 small clove garlic, peeled, finely chopped ->","completion":" garlic\n"}
+{"prompt":"1 small onion, peeled, finely chopped ->","completion":" onion\n"}
+{"prompt":"2 medium yams, about 2\/3 pound, peeled, coarsely chopped ->","completion":" yams\n"}
+{"prompt":"4 cups chicken broth, homemade or low-sodium canned ->","completion":" chicken broth\n"}
+{"prompt":"4 black peppercorns, crushed ->","completion":" black peppercorns\n"}
+{"prompt":"1 bay leaf ->","completion":" bay leaf\n"}
+{"prompt":"1 cup fresh mozzarella, cut into 1\/4-inch dice ->","completion":" mozzarella\n"}
+{"prompt":"1 meaty ham hock, quartered ->","completion":" ham hock\n"}
+{"prompt":"2 cups bitter greens, like mustard or dandelion, rinsed and shredded ->","completion":" bitter greens\n"}
+{"prompt":"1 teaspoon freshly ground pepper ->","completion":" pepper\n"}
+{"prompt":"1 tablespoon grated Parmesan cheese ->","completion":" Parmesan cheese\n"}
+{"prompt":"1 tablespoon minced fresh chives ->","completion":" chives\n"}
+{"prompt":"1\/2 cup fresh minced sage leaves ->","completion":" sage leaves\n"}
+{"prompt":"10 cups broth (see above) ->","completion":" broth\n"}
+{"prompt":"3 cups Arborio rice ->","completion":" Arborio rice\n"}
+{"prompt":"1 white onion, minced ->","completion":" white onion\n"}
+{"prompt":"1 cup shaved almonds ->","completion":" almonds\n"}
+{"prompt":"1\/8 teaspoon cayenne pepper ->","completion":" cayenne pepper\n"}
+{"prompt":"1\/4 teaspoon kosher salt ->","completion":" kosher salt\n"}
+{"prompt":"1 teaspoon water ->","completion":" water\n"}
+{"prompt":"1\/2 teaspoon olive oil ->","completion":" olive oil\n"}
+{"prompt":"1 stalk celery, cut into 1-inch pieces ->","completion":" celery\n"}
+{"prompt":"1 carrot, peeled, cut into 1-inch pieces ->","completion":" carrot\n"}
+{"prompt":"3 medium yams, about 1 pound total, peeled, cut in half ->","completion":" yams\n"}
+{"prompt":"1 gallon chicken broth, homemade or low-sodium canned ->","completion":" chicken broth\n"}
+{"prompt":"1 tablespoon butter, cut into small pieces ->","completion":" butter\n"}
+{"prompt":"1 tablespoon fresh thyme leaves ->","completion":" thyme\n"}
+{"prompt":"1\/4 teaspoon freshly ground pepper ->","completion":" pepper\n"}
+{"prompt":"2 teaspoons brown sugar ->","completion":" brown sugar\n"}
+{"prompt":"3 medium yams, about 1 pound, cut into thin round slices ->","completion":" yams\n"}
+{"prompt":"3 medium red onions, peeled, cut into paper-thin round slices ->","completion":" red onion\n"}
+{"prompt":"6 sprigs flat-leaf parsley, stems removed, finely chopped ->","completion":" flat-leaf parsley\n"}
+{"prompt":"6 tablespoons plain low-fat yogurt ->","completion":" plain low-fat yogurt\n"}
+{"prompt":"1 1\/2 quarts chicken broth, homemade or low-sodium canned ->","completion":" chicken broth\n"}
+{"prompt":"3 carrots, peeled, coarsely chopped ->","completion":" carrots\n"}
+{"prompt":"1 rib celery, coarsely chopped ->","completion":" celery rib\n"}
+{"prompt":"1 red onion, peeled, coarsely chopped ->","completion":" red onion\n"}
+{"prompt":"6 medium yams, about 2 pounds, peeled, cut into 1-inch chunks ->","completion":" yams\n"}
+{"prompt":"2 medium cloves garlic, smashed, peeled and mashed to a paste ->","completion":" garlic\n"}
+{"prompt":"3 teaspoons capers, drained ->","completion":" capers\n"}
+{"prompt":"1 1\/2 tablespoons fresh lemon juice ->","completion":" lemon juice\n"}
+{"prompt":"3 tablespoons minced fresh Italian parsley leaves ->","completion":" parsley leaves\n"}
+{"prompt":"3 tablespoons olive oil ->","completion":" olive oil\n"}
+{"prompt":"3 7-ounce jars roasted red peppers, drained ->","completion":" red peppers\n"}
+{"prompt":"1 medium pear, cored, peeled and cut into chunks ->","completion":" pear\n"}
+{"prompt":"2 teaspoons olive oil ->","completion":" olive oil\n"}
+{"prompt":"2 one-pound pork tenderloins (each 10 inches long and 2 1\/2 inches in diameter) ->","completion":" pork tenderloins\n"}
+{"prompt":"15 grinds fresh black pepper ->","completion":" black pepper\n"}
+{"prompt":"Scant 1\/2 teaspoon ground cardamom ->","completion":" cardamom\n"}
+{"prompt":"Scant 1\/2 teaspoon cinnamon ->","completion":" cinnamon\n"}
+{"prompt":"6 limes, sliced into thin wedges ->","completion":" limes\n"}
+{"prompt":"3 pounds peeled shrimp (20 to 24 a pound) ->","completion":" shrimp\n"}
+{"prompt":"Kosher salt, to taste ->","completion":" salt\n"}
+{"prompt":"6 jalapeno peppers, seeded, de-veined and cut into chunks ->","completion":" jalapeno peppers\n"}
+{"prompt":"1 1\/4 cups trimmed, washed cilantro plus 75 nice leaves for garnish ->","completion":" cilantro\n"}
+{"prompt":"8 tablespoons lime juice ->","completion":" lime juice\n"}
+{"prompt":"Freshly ground black pepper to taste ->","completion":" black pepper, freshly ground to taste\n"}
+{"prompt":"1 1\/2 teaspoons kosher salt ->","completion":" kosher salt\n"}
+{"prompt":"3\/4 cup Parmesan cheese ->","completion":" Parmesan cheese\n"}
+{"prompt":"4 ounces mozzarella cheese diced into 1\/4-inch pieces ->","completion":" mozzarella cheese, diced into 1\/4-inch pieces\n"}
+{"prompt":"2 tablespoons tomato paste ->","completion":" tomato paste\n"}
+{"prompt":"1\/4 cup roughly chopped basil ->","completion":" basil, roughly chopped\n"}
+{"prompt":"2 small cloves garlic, smashed, peeled and minced ->","completion":" garlic, small, smashed, peeled and minced\n"}
+{"prompt":"6 small plum tomatoes, stem end cut off, and diced into 1\/4-inch pieces ->","completion":" small plum tomatoes, stem end cut off, and diced into 1\/4-inch pieces\n"}
+{"prompt":"1 small white boiling onion, peeled and diced in 1\/4-inch pieces ->","completion":" small white boiling onion, peeled and diced in 1\/4-inch pieces\n"}
+{"prompt":"6 strips lemon peel, white pith removed, about 1\/2 inch wide and 3 1\/2 inches long ->","completion":" lemon peel\n"}
+{"prompt":"8 strips of orange peel, white pith removed, about 1\/2 inch wide and 3 1\/2 inches long ->","completion":" orange peel\n"}
+{"prompt":"4 cups Kalamata (preferred) or Gaeta olives ->","completion":" olives\n"}
+{"prompt":"2 tablespoons red wine vinegar ->","completion":" red wine vinegar\n"}
+{"prompt":"4 cloves garlic, smashed and peeled ->","completion":" garlic, smashed and peeled\n"}
+{"prompt":"6 tablespoons orange juice ->","completion":" orange juice\n"}
+{"prompt":"4 teaspoons fennel seeds ->","completion":" fennel seeds\n"}
+{"prompt":"3\/4 cup nonfat buttermilk ->","completion":" nonfat buttermilk\n"}
+{"prompt":"Bunch fresh chives to yield 1 tablespoon chopped ->","completion":" chives\n"}
+{"prompt":"1\/2 pound cabbage ->","completion":" cabbage\n"}
+{"prompt":"3\/4 pound tiny thin-skinned potatoes ->","completion":" potatoes\n"}
+{"prompt":"1\/4 cup dry red wine ->","completion":" dry red wine\n"}
+{"prompt":"8 ounces fresh tuna ->","completion":" tuna\n"}
+{"prompt":"1\/2 teaspoon anchovy paste ->","completion":" anchovy paste\n"}
+{"prompt":"1 teaspoon capers ->","completion":" capers\n"}
+{"prompt":"4 oil-cured olives ->","completion":" olives\n"}
+{"prompt":"1 large clove garlic ->","completion":" garlic\n"}
+{"prompt":"6 ounces whole red onion or 5 ounces chopped, ready-cut onion (1 1\/3 cups) ->","completion":" onion\n"}
+{"prompt":"1 teaspoon grated lemon zest ->","completion":" lemon\n"}
+{"prompt":"1 cup pecans, toasted and chopped ->","completion":" pecans\n"}
+{"prompt":"4 cups fresh dates, pitted and cut into 1\/2-inch dice ->","completion":" dates\n"}
+{"prompt":"8 large Granny Smith apples, peeled, cored and cut into 1\/2-inch slices ->","completion":" apples\n"}
+{"prompt":"2 teaspoons grated orange zest ->","completion":" orange\n"}
+{"prompt":"1 cup unsalted butter, cut into small pieces ->","completion":" unsalted butter\n"}
+{"prompt":"1 teaspoon ground nutmeg ->","completion":" nutmeg\n"}
+{"prompt":"1 teaspoon kosher salt ->","completion":" salt\n"}
+{"prompt":"2 teaspoons ground cinnamon ->","completion":" cinnamon\n"}
+{"prompt":"2 cups brown sugar ->","completion":" brown sugar\n"}
+{"prompt":"1 cup all-purpose flour ->","completion":" flour\n"}
+{"prompt":"2 cups old-fashioned oats ->","completion":" oats\n"}
+{"prompt":"Kosher salt and freshly ground black pepper to taste ->","completion":" salt and black pepper\n"}
+{"prompt":"3 tablespoon chopped Italian parsley ->","completion":" parsley\n"}
+{"prompt":"2\/3 cup pine nuts ->","completion":" pine nuts\n"}
+{"prompt":"2 tablespoons coarsely chopped Italian parsley leaves ->","completion":" Italian parsley leaves\n"}
+{"prompt":"1\/3 cup pitted and sliced picholine olives ->","completion":" picholine olives\n"}
+{"prompt":"16 fresh dates, pitted and thinly sliced ->","completion":" dates\n"}
+{"prompt":"1 small bunch fresh thyme, roughly chopped ->","completion":" thyme\n"}
+{"prompt":"1 large onion, peeled and roughly chopped ->","completion":" onion\n"}
+{"prompt":"4 ribs celery, chopped ->","completion":" celery rib\n"}
+{"prompt":"2 whole Long Island ducks, trimmed of wing tips and excess fat ->","completion":" Long Island ducks\n"}
+{"prompt":"16 fresh dates, pitted and thinly sliced lengthwise ->","completion":" fresh dates\n"}
+{"prompt":"Olive oil for greasing the pan ->","completion":" olive oil\n"}
+{"prompt":"2 teaspoons kosher salt ->","completion":" kosher salt\n"}
+{"prompt":"1\/2 cup red-wine vinegar ->","completion":" red-wine vinegar\n"}
+{"prompt":"2 tablespoons whole allspice ->","completion":" whole allspice\n"}
+{"prompt":"1 tablespoon whole cloves ->","completion":" whole cloves\n"}
+{"prompt":"1 whole nutmeg seed, smashed ->","completion":" whole nutmeg seed\n"}
+{"prompt":"2 3-inch cinnamon sticks ->","completion":" cinnamon sticks\n"}
+{"prompt":"1\/3 cup brown sugar ->","completion":" brown sugar\n"}
+{"prompt":"1 bottle cabernet sauvignon ->","completion":" cabernet sauvignon\n"}
+{"prompt":"1 cup whole unblanched almonds ->","completion":" whole unblanched almonds\n"}
+{"prompt":"1 egg ->","completion":" egg\n"}
+{"prompt":"1 1\/2 teaspoons chopped fresh rosemary ->","completion":" rosemary\n"}
+{"prompt":"1 teaspoon baking powder ->","completion":" baking powder\n"}
+{"prompt":"3\/4 cup yellow cornmeal ->","completion":" yellow cornmeal\n"}
+{"prompt":"1\/2 cup chopped pitted dates, plus 12 dates, peeled, halved lengthwise and pitted ->","completion":" dates\n"}
+{"prompt":"2 tablespoons vegetable oil, plus more for greasing the pan ->","completion":" vegetable oil\n"}
+{"prompt":"1\/2 cup oatmeal cookie crumbs (from crumbled cookies) ->","completion":" oatmeal cookie crumbs\n"}
+{"prompt":"2 cups Greek or whole milk yogurt ->","completion":" milk yogurt\n"}
+{"prompt":"4 teaspoons confectioners' sugar ->","completion":" confectioners' sugar\n"}
+{"prompt":"2 cups (one 12-ounce bag) frozen raspberries ->","completion":" raspberries\n"}
+{"prompt":"8 small slices (or 4 large slices, halved) stale or day-old white bakery bread ->","completion":" white bakery bread\n"}
+{"prompt":"1\/4 cup tomato ketchup, more if desired ->","completion":" tomato ketchup\n"}
+{"prompt":"1 cup grated cheddar cheese ->","completion":" cheddar cheese\n"}
+{"prompt":"1\/4 teaspoon mace ->","completion":" mace\n"}
+{"prompt":"1 1\/2 cups whole milk ->","completion":" milk\n"}
+{"prompt":"10 slices (6 ounces) bacon ->","completion":" bacon\n"}
+{"prompt":"Butter for baking dish ->","completion":" Butter\n"}
+{"prompt":"2 cups granola ->","completion":" granola\n"}
+{"prompt":"1\/3 cup vegetable oil ->","completion":" vegetable oil\n"}
+{"prompt":"3\/4 cup Golden Baker's natural cane sugar or other light brown sugar ->","completion":" cane sugar\n"}
+{"prompt":"1 cup buttermilk ->","completion":" butter milk\n"}
+{"prompt":"1 1\/2 cups all-purpose flour ->","completion":" all-purpose flour\n"}
+{"prompt":"Confectioners' sugar for dusting ->","completion":" Confectioners' sugar\n"}
+{"prompt":"Pinch salt ->","completion":" salt\n"}
+{"prompt":"1\/4 cup granulated sugar ->","completion":" sugar\n"}
+{"prompt":"5 tablespoons frozen lemonade concentrate, thawed ->","completion":" lemonade\n"}
+{"prompt":"5 eggs, separated ->","completion":" eggs\n"}
+{"prompt":"Butter for greasing the dish ->","completion":" Butter\n"}
+{"prompt":"2 shallots, minced ->","completion":" shallots\n"}
+{"prompt":"1\/2 cup brut Champagne ->","completion":" Champagne\n"}
+{"prompt":"2 filet mignons, at least 6 ounces each ->","completion":" filet mignons\n"}
+{"prompt":"2 tablespoons plus 1 teaspoon butter ->","completion":" butter\n"}
+{"prompt":"1 egg yolk ->","completion":" egg\n"}
+{"prompt":"20 ounces golden (whitefish) caviar ->","completion":" caviar\n"}
+{"prompt":"1 1\/2 pounds angel-hair pasta ->","completion":" pasta\n"}
+{"prompt":"8 tablespoons unsalted butter, softened ->","completion":" unsalted butter\n"}
+{"prompt":"1\/3 cup Calvados or other brandy ->","completion":" brandy\n"}
+{"prompt":"3 cups créme fraîche ->","completion":" créme fraîche\n"}
+{"prompt":"Freshly grated Reggiano Parmesan ->","completion":" Reggiano Parmesan\n"}
+{"prompt":"Coarse sea salt and freshly ground pepper to taste ->","completion":" Coarse sea salt and pepper\n"}
+{"prompt":"About 1 cup heavy cream ->","completion":" heavy cream\n"}
+{"prompt":"1 clove garlic, minced ->","completion":" garlic\n"}
+{"prompt":"3 to 4 tablespoons olive oil ->","completion":" olive oil\n"}
+{"prompt":"About 24 sage leaves ->","completion":" sage leaves\n"}
+{"prompt":"4 hot Italian sausages ->","completion":" Italian sausages\n"}
+{"prompt":"1 pound fettuccine ->","completion":" fettuccine\n"}
+{"prompt":"Coarse sea salt to taste ->","completion":" Coarse sea salt\n"}
+{"prompt":"2 tablespoons Dijon mustard ->","completion":" Dijon mustard\n"}
+{"prompt":"2 lemons ->","completion":" lemons\n"}
+{"prompt":"1 salmon fillet, about 1 1\/2 to 2 pounds ->","completion":" salmon\n"}
+{"prompt":"1\/2 cup grated Reggiano Parmesan, plus extra for garnish ->","completion":" Reggiano Parmesan\n"}
+{"prompt":"1\/2 cup dry white wine ->","completion":" dry white wine\n"}
+{"prompt":"2 cups Arborio rice ->","completion":" Arborio rice\n"}
+{"prompt":"1 medium onion ->","completion":" onion\n"}
+{"prompt":"5 1\/2 tablespoons unsalted butter ->","completion":" unsalted butter\n"}
+{"prompt":"7 to 8 cups chicken stock ->","completion":" chicken stock\n"}
+{"prompt":"1 medium butternut squash (about 1 pound) ->","completion":" butternut squash\n"}
+{"prompt":"2 kaffir lime leaves, very thinly shredded ->","completion":" lime leaves\n"}
+{"prompt":"1 tablespoon or more nam pla (fish sauce) ->","completion":" nam pla\n"}
+{"prompt":"1\/2 cup green onions ->","completion":" green onions\n"}
+{"prompt":"1\/2 cup very thinly sliced lemon grass ->","completion":" lemon grass\n"}
+{"prompt":"1\/2 cup very thinly sliced ginger ->","completion":" ginger\n"}
+{"prompt":"1\/2 cup very thinly sliced shallots ->","completion":" shallots\n"}
+{"prompt":"1 tablespoon palm sugar ->","completion":" sugar\n"}
+{"prompt":"2 tablespoons kaffir lime juice ->","completion":" lime juice\n"}
+{"prompt":"1 tablespoon tamarind paste ->","completion":" tamarind paste\n"}
+{"prompt":"4 whole kaffir lime leaves, for garnish ->","completion":" lime leaves\n"}
+{"prompt":"5 sprigs cilantro, washed, dried and chopped ->","completion":" cilantro\n"}
+{"prompt":"3 to 4 tablespoons (or more) lime juice ->","completion":" lime juice\n"}
+{"prompt":"2 to 3 teaspoons nam pla (fish sauce) ->","completion":" nam pla\n"}
+{"prompt":"2 to 3 bird pepper chilies, stemmed, seeded and minced ->","completion":" bird pepper chilies\n"}
+{"prompt":"8 ounces jumbo shrimp ->","completion":" jumbo shrimp\n"}
+{"prompt":"5 ounces oyster mushrooms, trimmed and quartered ->","completion":" oyster mushrooms\n"}
+{"prompt":"3 kaffir lime leaves, very thinly sliced ->","completion":" lime leaves\n"}
+{"prompt":"4 cups chicken stock, preferably homemade ->","completion":" chicken stock\n"}
+{"prompt":"3 or 4 stalks lemon grass ->","completion":" lemon grass\n"}
+{"prompt":"4 kaffir lime leaves (see note) ->","completion":" lime leaves\n"}
+{"prompt":"1 quart plus 5 tablespoons whole milk ->","completion":" milk\n"}
+{"prompt":"12 stalks lemon grass ->","completion":" lemon grass\n"}
+{"prompt":"Chopped fresh parsley for garnish, optional ->","completion":" parsley\n"}
+{"prompt":"Several sprigs fresh thyme, or 1 teaspoon dried thyme ->","completion":" thyme\n"}
+{"prompt":"1 cup fruity red wine ->","completion":" red wine\n"}
+{"prompt":"2 pounds cleaned squid, the bodies cut up if large ->","completion":" squid\n"}
+{"prompt":"5 cloves garlic, crushed ->","completion":" garlic\n"}
+{"prompt":"3 tablespoons extra virgin olive oil ->","completion":" olive oil\n"}
+{"prompt":"Tinted sugar for decoration (optional) ->","completion":" sugar\n"}
+{"prompt":"Slivered almonds, slightly crushed, for decoration (optional) ->","completion":" almonds\n"}
+{"prompt":"3 to 3 1\/2 cups all-purpose flour, more if cookie cutters are used ->","completion":" all-purpose flour\n"}
+{"prompt":"1 tablespoon brandy ->","completion":" brandy\n"}
+{"prompt":"1 cup unsalted butter or margarine ->","completion":" unsalted butter\n"}
+{"prompt":"6 eggs, separated ->","completion":" eggs\n"}
+{"prompt":"1\/2 cup sugar ->","completion":" sugar\n"}
+{"prompt":"4 cups milk ->","completion":" milk\n"}
+{"prompt":"1 cup shelled walnuts, coarsely chopped ->","completion":" walnuts\n"}
+{"prompt":"1 cup dried, pitted dates, coarsely chopped ->","completion":" dates\n"}
+{"prompt":"1 1\/2 cups dried pears, cut into 1\/2-inch pieces ->","completion":" pears\n"}
+{"prompt":"1 1\/2 cups tawny port ->","completion":" tawny port\n"}
+{"prompt":"1 cup dried cranberries ->","completion":" cranberries\n"}
+{"prompt":"6 cups brioche (approximately 2 large loaves or 4 mini-loaves), cut into 1-inch cubes ->","completion":" brioche\n"}
+{"prompt":"2 tablespoons sherry ->","completion":" sherry\n"}
+{"prompt":"3\/4 cup confectioners' sugar, sifted ->","completion":" confectioners' sugar\n"}
+{"prompt":"4 tablespoons unsalted butter, at room temperature ->","completion":" unsalted butter\n"}
+{"prompt":"3\/4 cup golden raisins ->","completion":" golden raisins\n"}
+{"prompt":"3\/4 cup dried cherries ->","completion":" cherries\n"}
+{"prompt":"1\/2 teaspoon baking soda ->","completion":" baking soda\n"}
+{"prompt":"2 cups all-purpose flour ->","completion":" flour\n"}
+{"prompt":"2 teaspoons ground ginger ->","completion":" ginger\n"}
+{"prompt":"1\/2 cup molasses ->","completion":" molasses\n"}
+{"prompt":"2 eggs ->","completion":" eggs\n"}
+{"prompt":"1\/2 cup brown sugar ->","completion":" brown sugar\n"}
+{"prompt":"1 pound dried figs, stemmed ->","completion":" figs\n"}
+{"prompt":"2 teaspoons dried thyme ->","completion":" thyme\n"}
+{"prompt":"3\/4 cup honey ->","completion":" honey\n"}
+{"prompt":"3 cups water ->","completion":" water\n"}
+{"prompt":"1 1\/3 cups blanched almonds, toasted and finely ground ->","completion":" almonds\n"}
+{"prompt":"3 tablespoons all-purpose flour ->","completion":" flour\n"}
+{"prompt":"2\/3 cup confectioners' sugar, sifted ->","completion":" confectioners' sugar\n"}
+{"prompt":"6 tablespoons unsalted butter, at room temperature ->","completion":" unsalted butter\n"}
+{"prompt":"1 tablespoon water ->","completion":" water\n"}
+{"prompt":"1 egg yolk, whisked with 1 tablespoon water ->","completion":" egg\n"}
+{"prompt":"1\/2 cup cold unsalted butter, cut into pieces ->","completion":" unsalted butter\n"}
+{"prompt":"1 1\/2 cups all-purpose flour ->","completion":" flour\n"}
+{"prompt":"3\/4 cup Armagnac ->","completion":" Armagnac\n"}

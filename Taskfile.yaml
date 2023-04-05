@@ -18,3 +18,24 @@ tasks:
       - go get -u ./...
       - go mod vendor
       - go mod tidy
+  deps:
+    desc: Download dependencies
+    cmds:
+      - go get -d ./...
+  test:
+    desc: Run go tests
+    cmds:
+      - go test -v ./...
+  vendor:
+    desc: Generate vendor
+    cmds:
+      - go mod vendor
+      - go mod tidy
+  run:
+    desc: Run go program
+    cmds:
+      - go run -v ./...
+  help:
+    desc: Run go program
+    cmds:
+      - go run -v ./... --help
