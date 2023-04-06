@@ -36,6 +36,12 @@ tasks:
       - go run -v ./... -l {{ .LINK }}
     vars:
       LINK: "https://healthyrecipesblogs.com/crustless-quiche/"
+  debug:
+    desc: Debug
+    cmds:
+      - go run -v ./... -l {{ .LINK }} --log-level debug
+    vars:
+      LINK: "https://healthyrecipesblogs.com/crustless-quiche/"
   fmt:
     desc: Formats all code with go fmt
     cmds:
