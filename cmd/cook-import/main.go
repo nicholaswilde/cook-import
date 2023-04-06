@@ -9,6 +9,8 @@ import (
 	"net/url"
 	"os"
 	"regexp"
+	"bytes"
+	"path"
 )
 
 const defaultMessage = `Here are the specification for a markup language called cooklang, used to describe a cooking recipe:
@@ -38,36 +40,10 @@ Abbreviate ingredient measurements and convert fractions to decimals in ingredie
 
 Using cooklang, get the recipe instructions at the link` // https://healthyrecipesblogs.com/crustless-quiche/
 
-func getResponse(message string, key string) (string, error) {
-	// log.Infoln(message)
-	c := openai.NewClient(key)
-	ctx := context.Background()
-	// model := openai.GPT3Dot5Turbo
-	messages := []openai.ChatCompletionMessage{
-		{
-			Role:    openai.ChatMessageRoleUser,
-			Content: message,
-		},
-	}
-	resp, err := c.CreateChatCompletion(
-		ctx,
-		openai.ChatCompletionRequest{
-			Model:    openai.GPT3Dot5Turbo,
-			Messages: messages,
-		},
-	)
-	if err != nil {
-		return "", err
-	}
-	log.Infoln(resp)
-	return resp.Choices[0].Message.Content, nil
-}
-
 func getContent(servings string, instructions string, link string)(string) {
 	content :=`>> source: ` + link + "\n" +
 `>> serves: ` + servings +
-"\n\n" +
-instructions + " " + link
+"\n\n" + instructions + "\n"
 	return content
 }
 
@@ -80,7 +56,6 @@ func cookImport(_ *cobra.Command, _ []string) {
 		log.Errorf("Invalid URI: %v\n", err)
 		return
 	}
-
 	log.Debugf("link: %s\n", link)
 	message := defaultMessage + " " + link
 	log.Debugf("message: %s\n", message)
@@ -91,17 +66,16 @@ func cookImport(_ *cobra.Command, _ []string) {
 		return
 	}
 	client := openai.NewClient(key)
-
-	// content, err := getResponse(defaultMessage, key)
-
 	ctx := context.Background()
 	model := openai.GPT3Dot5Turbo
+	
 	messages := []openai.ChatCompletionMessage{
 		{
 			Role:    openai.ChatMessageRoleUser,
 			Content: message,
 		},
 	}
+	log.Infof("Getting instructions from %v\n", link)
 	resp, err := client.CreateChatCompletion(
 		ctx,
 		openai.ChatCompletionRequest{
@@ -113,15 +87,15 @@ func cookImport(_ *cobra.Command, _ []string) {
 		log.Errorf("ChatCompletion error: %v\n", err)
 		return
 	}
-	content := resp.Choices[0].Message.Content
-
+	instructions := resp.Choices[0].Message.Content
+	log.Debugf("instructions: %v\n", instructions)
 	messages = []openai.ChatCompletionMessage{
 		{
 			Role:    openai.ChatMessageRoleUser,
 			Content: "Get the number of servings of the recipe at this link " + link + ". Return only the digit",
 		},
 	}
-
+	log.Infoln("Getting servings")
 	resp, err = client.CreateChatCompletion(
 		ctx,
 		openai.ChatCompletionRequest{
@@ -135,6 +109,7 @@ func cookImport(_ *cobra.Command, _ []string) {
 	}
 	re := regexp.MustCompile("[0-9]+")
 	servings := re.FindString(resp.Choices[0].Message.Content)
+	log.Infof("servings: %v\n", servings)
 
 	messages = []openai.ChatCompletionMessage{
 		{
@@ -142,7 +117,7 @@ func cookImport(_ *cobra.Command, _ []string) {
 			Content: "Gget the title of the recipe from the link " + link,
 		},
 	}
-
+	log.Infoln("Getting title")
 	resp, err = client.CreateChatCompletion(
 		ctx,
 		openai.ChatCompletionRequest{
@@ -155,8 +130,55 @@ func cookImport(_ *cobra.Command, _ []string) {
 		return
 	}
 	title := resp.Choices[0].Message.Content
-	log.Infoln(getContent(servings,content,link))
 	log.Infof("title: %s\n", title)
+	
+	log.Infoln("Generating recipe")
+	content:=getContent(servings,instructions,link)
+	log.Debugln(content)
+
+	dryRun := false
+	wd, err := os.Getwd()
+	if err != nil {
+		log.Errorln("Could not get current working directory")
+		return
+	}
+	filepath := path.Join(wd,title + ".cook")
+	outputFile, err := getOutputFile(filepath, dryRun)
+	if err != nil {
+			log.Errorln("Could not get the output file")
+			return
+	}	
+	if !dryRun{
+		defer outputFile.Close()
+	}
+	var output bytes.Buffer
+	output.WriteString(content)
+	output = applyMarkDownFormat(output)
+	log.Infof("Writing to file %v", filepath)
+	_, err = output.WriteTo(outputFile)
+	if err != nil {
+		log.Errorf("Error generating documentation file for recipe %s: %s", filepath, err)
+	}
+}
+
+func getOutputFile(newFileName string, dryRun bool) (*os.File, error) {
+	if dryRun {
+		return os.Stdout, nil
+	}
+	return os.Create(newFileName)
+}
+
+func applyMarkDownFormat(output bytes.Buffer) bytes.Buffer {
+	outputString := output.String()
+	re := regexp.MustCompile(` \n`)
+	outputString = re.ReplaceAllString(outputString, "\n")
+
+	re = regexp.MustCompile(`\n{3,}`)
+	outputString = re.ReplaceAllString(outputString, "\n\n")
+
+	output.Reset()
+	output.WriteString(outputString)
+	return output
 }
 
 func main() {

@@ -37,15 +37,15 @@ func initializeCli() {
 func newCookImportCommand(run func(cmd *cobra.Command, args []string)) (*cobra.Command, error) {
 	command := &cobra.Command{
 		Use:     "cook-import",
-		Short:   "cook-import is a command line tool to import recipes into Cooklang format",
+		Short:   "cook-import is a command line tool to import recipes into Cooklang format using ChatGPT",
 		Version: version,
 		Run:     run,
 	}
 	logLevelUsage := fmt.Sprintf("level of logs that should printed, one of (%s)", strings.Join(possibleLogLevels(), ", "))
-	command.PersistentFlags().BoolP("dry-run", "d", false, "don't actually render any markdown files just print to stdout passed")
+	command.PersistentFlags().BoolP("file", "f", false, "If you want the output to be in a file, use this flag. Otherwise defaults to console screen.")
 	command.PersistentFlags().StringP("log-level", "L", "info", logLevelUsage)
 	command.PersistentFlags().StringP("openai-api-key", "k", "", "OpenAI API key")
-	command.PersistentFlags().StringP("link", "l", "", "Link to use")
+	command.PersistentFlags().StringP("link", "l", "", "Input a url link to a recipe")
 	command.MarkPersistentFlagRequired("link")
 	
 	viper.SetConfigName(".cookimport")
