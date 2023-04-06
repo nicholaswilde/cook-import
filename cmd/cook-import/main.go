@@ -1,16 +1,16 @@
 package main
 
 import (
-	"context"
-	openai "github.com/sashabaranov/go-openai"
-	log "github.com/sirupsen/logrus"
-	"github.com/spf13/cobra"
-	"github.com/spf13/viper"
-	"net/url"
 	"os"
 	"regexp"
 	"bytes"
 	"path"
+	"context"
+	"net/url"
+	"github.com/spf13/cobra"
+	"github.com/spf13/viper"
+	openai "github.com/sashabaranov/go-openai"
+	log "github.com/sirupsen/logrus"
 )
 
 const defaultMessage = `Here are the specification for a markup language called cooklang, used to describe a cooking recipe:
@@ -47,6 +47,62 @@ func getContent(servings string, instructions string, link string)(string) {
 	return content
 }
 
+func getOutputFile(newFileName string, toFile bool) (*os.File, error) {
+	if toFile {
+		return os.Create(newFileName)
+	}
+	return os.Stdout, nil
+}
+
+func applyMarkDownFormat(output bytes.Buffer) bytes.Buffer {
+	outputString := output.String()
+	re := regexp.MustCompile(` \n`)
+	outputString = re.ReplaceAllString(outputString, "\n")
+
+	re = regexp.MustCompile(`\n{3,}`)
+	outputString = re.ReplaceAllString(outputString, "\n\n")
+
+	output.Reset()
+	output.WriteString(outputString)
+	return output
+}
+
+func getFilePath(title string) (string, error){
+	wd, err := os.Getwd()
+	if err != nil {
+		return "", err
+	}
+	filepath := path.Join(wd,title + ".cook")
+	return filepath, nil
+}
+
+func printDocumentation(title string, content string) {
+	toFile := viper.GetBool("file")
+
+	filepath, err := getFilePath(title)
+	if err != nil {
+		log.Errorf("Could not get filepath %v", err)
+		return
+	}
+	
+	outputFile, err := getOutputFile(filepath, toFile)
+	if err != nil {
+			log.Errorf("Could not get the output file %v\n", err)
+			return
+	}	
+	if toFile{
+		defer outputFile.Close()
+		log.Infof("Writing to file %v", filepath)
+	}
+	var output bytes.Buffer
+	output.WriteString(content)
+	output = applyMarkDownFormat(output)
+	_, err = output.WriteTo(outputFile)
+	if err != nil {
+		log.Errorf("Error generating cook file for recipe %v: %v", filepath, err)
+	}
+}
+
 func cookImport(_ *cobra.Command, _ []string) {
 	initializeCli()
 	link := viper.GetString("link")
@@ -56,15 +112,18 @@ func cookImport(_ *cobra.Command, _ []string) {
 		log.Errorf("Invalid URI: %v\n", err)
 		return
 	}
-	log.Debugf("link: %s\n", link)
+	log.Debugf("link: %v\n", link)
+
 	message := defaultMessage + " " + link
-	log.Debugf("message: %s\n", message)
+	log.Debugf("message: %v\n", message)
+	
 	key := viper.GetString("openai-api-key")
-	log.Debugf("key: %s\n", key)
 	if len(key) == 0 {
 		log.Errorln("OpenAI API key is not set")
 		return
 	}
+	log.Debugf("key: %v\n", key)
+
 	client := openai.NewClient(key)
 	ctx := context.Background()
 	model := openai.GPT3Dot5Turbo
@@ -130,66 +189,24 @@ func cookImport(_ *cobra.Command, _ []string) {
 		return
 	}
 	title := resp.Choices[0].Message.Content
-	log.Infof("title: %s\n", title)
+	log.Infof("title: %v\n", title)
 	
 	log.Infoln("Generating recipe")
 	content:=getContent(servings,instructions,link)
-	log.Debugln(content)
-
-	dryRun := false
-	wd, err := os.Getwd()
-	if err != nil {
-		log.Errorln("Could not get current working directory")
-		return
-	}
-	filepath := path.Join(wd,title + ".cook")
-	outputFile, err := getOutputFile(filepath, dryRun)
-	if err != nil {
-			log.Errorln("Could not get the output file")
-			return
-	}	
-	if !dryRun{
-		defer outputFile.Close()
-	}
-	var output bytes.Buffer
-	output.WriteString(content)
-	output = applyMarkDownFormat(output)
-	log.Infof("Writing to file %v", filepath)
-	_, err = output.WriteTo(outputFile)
-	if err != nil {
-		log.Errorf("Error generating documentation file for recipe %s: %s", filepath, err)
-	}
-}
-
-func getOutputFile(newFileName string, dryRun bool) (*os.File, error) {
-	if dryRun {
-		return os.Stdout, nil
-	}
-	return os.Create(newFileName)
-}
-
-func applyMarkDownFormat(output bytes.Buffer) bytes.Buffer {
-	outputString := output.String()
-	re := regexp.MustCompile(` \n`)
-	outputString = re.ReplaceAllString(outputString, "\n")
-
-	re = regexp.MustCompile(`\n{3,}`)
-	outputString = re.ReplaceAllString(outputString, "\n\n")
-
-	output.Reset()
-	output.WriteString(outputString)
-	return output
+	log.Debugf("content: %v\n", content)
+	
+	printDocumentation(title, content)
 }
 
 func main() {
 	command, err := newCookImportCommand(cookImport)
 	if err != nil {
-		log.Errorf("Failed to create the CLI commander: %s", err)
+		log.Errorf("Failed to create the CLI command: %v", err)
 		os.Exit(1)
 	}
 
 	if err := command.Execute(); err != nil {
-		log.Errorf("Failed to start the CLI: %s", err)
+		log.Errorf("Failed to start the CLI: %v", err)
 		os.Exit(1)
 	}
 }
